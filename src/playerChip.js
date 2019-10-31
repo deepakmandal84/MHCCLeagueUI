@@ -10,11 +10,12 @@ import Select from "@material-ui/core/Select";
 import Checkbox from "@material-ui/core/Checkbox";
 import Chip from "@material-ui/core/Chip";
 import SportsBaseballIcon from "@material-ui/icons/SportsBaseball";
-import playerData from "./players.json";
+import playerDataJson from "./players.json";
 import Avatar from "@material-ui/core/Avatar";
 import Box from "@material-ui/core/Box";
 import Card from "./cardAuction.js";
 import { getThemeProps } from "@material-ui/styles";
+import axios from "axios";
 
 const useStyles = makeStyles(theme => ({
   root: {
@@ -29,19 +30,40 @@ const useStyles = makeStyles(theme => ({
 
 export default function MultipleSelect(props) {
   const classes = useStyles();
-  const names = playerData.filter(a => {
-    if (a.labelType === props.PlayerType) {
-      return a;
-    } else if (props.PlayerType === "All") {
-      return a;
-    }
-  });
-  //const [personName, setPersonName] = React.useState([]);
+  //const [playerData, setPlayerData] = React.useState(null);
+  const [playerData, setPlayerData] = React.useState([]);
   const [player, setValues] = React.useState({
-    name: "",
+    playerName: "",
     id: "",
-    playerValue: ""
+    points: ""
   });
+  React.useEffect(() => {
+    if (props.useJson) {
+      setPlayerData(playerDataJson);
+    } else {
+      axios
+        .get("https://localhost:44360/PlayerList/all")
+        .then(res => {
+          console.log(res.data);
+          setPlayerData(res.data);
+        })
+        .catch(error => {
+          console.log(error);
+        });
+    }
+  }, []);
+
+  const names =
+    playerData &&
+    playerData.filter(a => {
+      if (a.playerType === props.PlayerType) {
+        return a;
+      } else if (props.PlayerType === "All") {
+        return a;
+      }
+    });
+  //const [personName, setPersonName] = React.useState([]);
+
   const getAvtaar = () => {
     if (props.PlayerType === "Batsman") {
       return "B";
@@ -56,15 +78,15 @@ export default function MultipleSelect(props) {
 
   const handleChange = event => {
     //setPersonName(event.target.value);
-    const plyr = names.filter(a => a.label === event.target.value)[0];
+    const plyr = names.filter(a => a.playerName === event.target.value)[0];
 
     const a = 11;
 
     setValues({
       ...player,
-      name: plyr.label,
-      id: plyr.Id,
-      playerValue: plyr.Value
+      name: plyr.playerName,
+      id: plyr.id,
+      playerValue: plyr.points
     });
     props.calculateTotal(plyr, props.PlayerNo);
   };
@@ -82,16 +104,17 @@ export default function MultipleSelect(props) {
   return (
     <Box display="flex" flexWrap="nowrap" justifyContent="space-between">
       <Select value={player.name} onChange={handleChange}>
-        {names.map(name => (
-          <MenuItem key={name.Id} value={name.label}>
-            {name.label + "---" + name.Value}{" "}
-          </MenuItem>
-        ))}
+        {names &&
+          names.map(name => (
+            <MenuItem key={name.id} value={name.playerName}>
+              {name.playerName + "---" + name.points}{" "}
+            </MenuItem>
+          ))}
       </Select>
-      {player && player.name && (
+      {player && player.playerName && (
         <Chip
           //icon={<SportsBaseballIcon />}
-          label={player.playerValue}
+          label={player.points}
           onDelete={handleDelete}
           color="primary"
         />

@@ -28,6 +28,7 @@ const useStyles = makeStyles(theme => ({
 
 export default function SimpleTable(props) {
   const classes = useStyles();
+  const useJsonData = true;
   const calculateTotal = (playerObj, playerNos, deleteplayer) => {
     props.calculateTeamTotal(playerObj, playerNos, deleteplayer);
   };
@@ -37,7 +38,7 @@ export default function SimpleTable(props) {
       <Paper className={classes.paper}>
         <Table
           className={classes.table}
-          size="medium"
+          size="small"
           aria-label="a dense table"
         >
           <TableBody>
@@ -49,24 +50,32 @@ export default function SimpleTable(props) {
                 <TableCell
                   align="left"
                   style={{
-                    height: "20",
+                    height: "10",
                     width: "0",
                     padding: "0",
                     nmargin: "0"
                   }}
                 >
-                  {value}
-                  <Avatar
-                    alt={`Avatar n°${value + 1}`}
-                    src={"batsman.jpg"}
-                    style={{ width: "1", padding: "0", margin: "0" }}
-                  />
+                  <Box
+                    display="flex"
+                    flexWrap="nowrap"
+                    justifyContent="flex-start"
+                    p={0}
+                  >
+                    {value}
+                    <Avatar
+                      alt={`Avatar n°${value + 1}`}
+                      src={"batsman.jpg"}
+                      style={{ width: "1", padding: "0", margin: "0" }}
+                    />
+                  </Box>
                 </TableCell>
                 <TableCell align="left">
                   <MultipleSelect
                     PlayerNo={value}
                     PlayerType="Batsman"
                     calculateTotal={calculateTotal}
+                    useJson={useJsonData}
                   />
                 </TableCell>
               </TableRow>
@@ -76,23 +85,31 @@ export default function SimpleTable(props) {
                 <TableCell
                   align="left"
                   style={{
-                    height: "20",
+                    height: "08",
                     width: "0",
                     padding: "0",
                     nmargin: "0"
                   }}
                 >
-                  {value}
-                  <Avatar
-                    alt={`Avatar n°${value + 1}`}
-                    src={"allrounder.jpg"}
-                  />
+                  <Box
+                    display="flex"
+                    flexWrap="nowrap"
+                    justifyContent="flex-start"
+                    p={0}
+                  >
+                    {value}
+                    <Avatar
+                      alt={`Avatar n°${value + 1}`}
+                      src={"allrounder.jpg"}
+                    />
+                  </Box>
                 </TableCell>
                 <TableCell align="left">
                   <MultipleSelect
                     PlayerType="AllRounder"
                     PlayerNo={value}
                     calculateTotal={calculateTotal}
+                    useJson={useJsonData}
                   />
                 </TableCell>
               </TableRow>
@@ -102,23 +119,31 @@ export default function SimpleTable(props) {
                 <TableCell
                   align="left"
                   style={{
-                    height: "20",
+                    height: "08",
                     width: "0",
                     padding: "0",
                     nmargin: "0"
                   }}
                 >
-                  {value}
-                  <Avatar
-                    alt={`Avatar n°${value + 1}`}
-                    src={"allrounder.jpg"}
-                  />
+                  <Box
+                    display="flex"
+                    flexWrap="nowrap"
+                    justifyContent="flex-start"
+                    p={0}
+                  >
+                    {value}
+                    <Avatar
+                      alt={`Avatar n°${value + 1}`}
+                      src={"anyplayer.jpg"}
+                    />
+                  </Box>
                 </TableCell>
                 <TableCell align="left">
                   <MultipleSelect
                     PlayerType="All"
                     PlayerNo={value}
                     calculateTotal={calculateTotal}
+                    useJson={useJsonData}
                   />
                 </TableCell>
               </TableRow>
@@ -134,14 +159,22 @@ export default function SimpleTable(props) {
                     nmargin: "0"
                   }}
                 >
-                  {value}
-                  <Avatar alt={`Avatar n°${value + 1}`} src={"bowling.jpg"} />
+                  <Box
+                    display="flex"
+                    flexWrap="nowrap"
+                    justifyContent="flex-start"
+                    p={0}
+                  >
+                    {value}
+                    <Avatar alt={`Avatar n°${value + 1}`} src={"bowling.jpg"} />
+                  </Box>
                 </TableCell>
                 <TableCell align="left">
                   <MultipleSelect
                     PlayerType="Bowler"
                     PlayerNo={value}
                     calculateTotal={calculateTotal}
+                    useJson={useJsonData}
                   />
                 </TableCell>
               </TableRow>

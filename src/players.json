@@ -1,1060 +1,1060 @@
 [
     {
-      "Id": 1,
-      "label": "Deepak Mandal",
+      "id": 1,
+      "playerName": "Deepak Mandal",
       "Team": "Altamont",
-      "labelType": "AllRounder",
-      "Value": 150
+      "playerType": "AllRounder",
+      "points": 150
     },
     {
-      "Id": 2,
-      "label": "Jyoti Nayak",
+      "id": 2,
+      "playerName": "Jyoti Nayak",
       "Team": "Cordes",
-      "labelType": "Bowler",
-      "Value": 150
+      "playerType": "Bowler",
+      "points": 150
     },
     {
-      "Id": 3,
-      "label": "Rajesh Patel",
+      "id": 3,
+      "playerName": "Rajesh Patel",
       "Team": "Cordes",
-      "labelType": "Bowler",
-      "Value": 150
+      "playerType": "Bowler",
+      "points": 150
     },
     {
-      "Id": 4,
-      "label": "Dev Sutar",
+      "id": 4,
+      "playerName": "Dev Sutar",
       "Team": "Questa",
-      "labelType": "Bowler",
-      "Value": 140
+      "playerType": "Bowler",
+      "points": 140
     },
     {
-      "Id": 5,
-      "label": "Amarnath Sreevatsa",
+      "id": 5,
+      "playerName": "Amarnath Sreevatsa",
       "Team": "Questa",
-      "labelType": "AllRounder",
-      "Value": 150
+      "playerType": "AllRounder",
+      "points": 150
     },
     {
-      "Id": 6,
-      "label": "Prabhu Velusamy",
+      "id": 6,
+      "playerName": "Prabhu Velusamy",
       "Team": "Altamont",
-      "labelType": "Bowler",
-      "Value": 130
+      "playerType": "Bowler",
+      "points": 130
     },
     {
-      "Id": 7,
-      "label": "Satishkumar Inuganti",
+      "id": 7,
+      "playerName": "Satishkumar Inuganti",
       "Team": "Questa",
-      "labelType": "Bowler",
-      "Value": 120
+      "playerType": "Bowler",
+      "points": 120
     },
     {
-      "Id": 8,
-      "label": "Varaprasad Perambudoori",
+      "id": 8,
+      "playerName": "Varaprasad Perambudoori",
       "Team": "Altamont",
-      "labelType": "Bowler",
-      "Value": 120
+      "playerType": "Bowler",
+      "points": 120
     },
     {
-      "Id": 9,
-      "label": "Satyakant Chitturi",
+      "id": 9,
+      "playerName": "Satyakant Chitturi",
       "Team": "Bethany",
-      "labelType": "AllRounder",
-      "Value": 110
+      "playerType": "AllRounder",
+      "points": 110
     },
     {
-      "Id": 10,
-      "label": "Krish Venkatraman",
+      "id": 10,
+      "playerName": "Krish Venkatraman",
       "Team": "Altamont",
-      "labelType": "Batsman",
-      "Value": 150
+      "playerType": "Batsman",
+      "points": 150
     },
     {
-      "Id": 11,
-      "label": "Phani Viswanadha",
+      "id": 11,
+      "playerName": "Phani Viswanadha",
       "Team": "Cordes",
-      "labelType": "Batsman",
-      "Value": 140
+      "playerType": "Batsman",
+      "points": 140
     },
     {
-      "Id": 12,
-      "label": "Shriniwas Phalke",
+      "id": 12,
+      "playerName": "Shriniwas Phalke",
       "Team": "Wicklund",
-      "labelType": "Batsman",
-      "Value": 140
+      "playerType": "Batsman",
+      "points": 140
     },
     {
-      "Id": 13,
-      "label": "Rajesh Gunda",
+      "id": 13,
+      "playerName": "Rajesh Gunda",
       "Team": "Hansen",
-      "labelType": "Bowler",
-      "Value": 110
+      "playerType": "Bowler",
+      "points": 110
     },
     {
-      "Id": 14,
-      "label": "Sahadev Vinukonda",
+      "id": 14,
+      "playerName": "Sahadev Vinukonda",
       "Team": "Altamont",
-      "labelType": "Bowler",
-      "Value": 110
+      "playerType": "Bowler",
+      "points": 110
     },
     {
-      "Id": 15,
-      "label": "Nikunj Natu",
+      "id": 15,
+      "playerName": "Nikunj Natu",
       "Team": "Wicklund",
-      "labelType": "Bowler",
-      "Value": 120
+      "playerType": "Bowler",
+      "points": 120
     },
     {
-      "Id": 16,
-      "label": "Santosh Bhargav",
+      "id": 16,
+      "playerName": "Santosh Bhargav",
       "Team": "Bethany",
-      "labelType": "AllRounder",
-      "Value": 120
+      "playerType": "AllRounder",
+      "points": 120
     },
     {
-      "Id": 17,
-      "label": "Gaurav Jain",
+      "id": 17,
+      "playerName": "Gaurav Jain",
       "Team": "Cordes",
-      "labelType": "Batsman",
-      "Value": 130
+      "playerType": "Batsman",
+      "points": 130
     },
     {
-      "Id": 18,
-      "label": "Parvindar Pelia",
+      "id": 18,
+      "playerName": "Parvindar Pelia",
       "Team": "Bethany",
-      "labelType": "AllRounder",
-      "Value": 120
+      "playerType": "AllRounder",
+      "points": 120
     },
     {
-      "Id": 19,
-      "label": "Satya Akella",
+      "id": 19,
+      "playerName": "Satya Akella",
       "Team": "Questa",
-      "labelType": "Bowler",
-      "Value": 100
+      "playerType": "Bowler",
+      "points": 100
     },
     {
-      "Id": 20,
-      "label": "Uday Tummala",
+      "id": 20,
+      "playerName": "Uday Tummala",
       "Team": "Questa",
-      "labelType": "Bowler",
-      "Value": 110
+      "playerType": "Bowler",
+      "points": 110
     },
     {
-      "Id": 21,
-      "label": "Naresh Kumar Paturi",
+      "id": 21,
+      "playerName": "Naresh Kumar Paturi",
       "Team": "Cordes",
-      "labelType": "Bowler",
-      "Value": 110
+      "playerType": "Bowler",
+      "points": 110
     },
     {
-      "Id": 22,
-      "label": "Supreet Singh",
+      "id": 22,
+      "playerName": "Supreet Singh",
       "Team": "Hansen",
-      "labelType": "AllRounder",
-      "Value": 130
+      "playerType": "AllRounder",
+      "points": 130
     },
     {
-      "Id": 23,
-      "label": "Bhargava Chavali",
+      "id": 23,
+      "playerName": "Bhargava Chavali",
       "Team": "Hansen",
-      "labelType": "Bowler",
-      "Value": 110
+      "playerType": "Bowler",
+      "points": 110
     },
     {
-      "Id": 24,
-      "label": "Jaswinder Paul",
+      "id": 24,
+      "playerName": "Jaswinder Paul",
       "Team": "Altamont",
-      "labelType": "WicketKeeper",
-      "Value": 110
+      "playerType": "WicketKeeper",
+      "points": 110
     },
     {
-      "Id": 25,
-      "label": "Visu Somepalli",
+      "id": 25,
+      "playerName": "Visu Somepalli",
       "Team": "Bethany",
-      "labelType": "Bowler",
-      "Value": 100
+      "playerType": "Bowler",
+      "points": 100
     },
     {
-      "Id": 26,
-      "label": "Suresh Krishna",
+      "id": 26,
+      "playerName": "Suresh Krishna",
       "Team": "Altamont",
-      "labelType": "AllRounder",
-      "Value": 100
+      "playerType": "AllRounder",
+      "points": 100
     },
     {
-      "Id": 27,
-      "label": "Saurabh Kulkarni",
+      "id": 27,
+      "playerName": "Saurabh Kulkarni",
       "Team": "Cordes",
-      "labelType": "Batsman",
-      "Value": 130
+      "playerType": "Batsman",
+      "points": 130
     },
     {
-      "Id": 28,
-      "label": "Abhishek Singh",
+      "id": 28,
+      "playerName": "Abhishek Singh",
       "Team": "Cordes",
-      "labelType": "AllRounder",
-      "Value": 110
+      "playerType": "AllRounder",
+      "points": 110
     },
     {
-      "Id": 29,
-      "label": "Brijesh Chavda",
+      "id": 29,
+      "playerName": "Brijesh Chavda",
       "Team": "Hansen",
-      "labelType": "Batsman",
-      "Value": 110
+      "playerType": "Batsman",
+      "points": 110
     },
     {
-      "Id": 30,
-      "label": "Krishna Kumar",
+      "id": 30,
+      "playerName": "Krishna Kumar",
       "Team": "Questa",
-      "labelType": "Bowler",
-      "Value": 110
+      "playerType": "Bowler",
+      "points": 110
     },
     {
-      "Id": 31,
-      "label": "Tom Jose Kalapura",
+      "id": 31,
+      "playerName": "Tom Jose Kalapura",
       "Team": "Wicklund",
-      "labelType": "Bowler",
-      "Value": 100
+      "playerType": "Bowler",
+      "points": 100
     },
     {
-      "Id": 32,
-      "label": "Tejeshwar Reddy",
+      "id": 32,
+      "playerName": "Tejeshwar Reddy",
       "Team": "Wicklund",
-      "labelType": "Bowler",
-      "Value": 90
+      "playerType": "Bowler",
+      "points": 90
     },
     {
-      "Id": 33,
-      "label": "Navpreet Sahota",
+      "id": 33,
+      "playerName": "Navpreet Sahota",
       "Team": "Questa",
-      "labelType": "Batsman",
-      "Value": 140
+      "playerType": "Batsman",
+      "points": 140
     },
     {
-      "Id": 34,
-      "label": "Shashidhar MS",
+      "id": 34,
+      "playerName": "Shashidhar MS",
       "Team": "Cordes",
-      "labelType": "AllRounder",
-      "Value": 90
+      "playerType": "AllRounder",
+      "points": 90
     },
     {
-      "Id": 35,
-      "label": "Siva Rambilli",
+      "id": 35,
+      "playerName": "Siva Rambilli",
       "Team": "Bethany",
-      "labelType": "Bowler",
-      "Value": 100
+      "playerType": "Bowler",
+      "points": 100
     },
     {
-      "Id": 36,
-      "label": "Srinivas Jonnalagadda",
+      "id": 36,
+      "playerName": "Srinivas Jonnalagadda",
       "Team": "Hansen",
-      "labelType": "Bowler",
-      "Value": 100
+      "playerType": "Bowler",
+      "points": 100
     },
     {
-      "Id": 37,
-      "label": "Samy Dharmalingam",
+      "id": 37,
+      "playerName": "Samy Dharmalingam",
       "Team": "Tracy",
-      "labelType": "Bowler",
-      "Value": 100
+      "playerType": "Bowler",
+      "points": 100
     },
     {
-      "Id": 38,
-      "label": "Santosh Mahajan",
+      "id": 38,
+      "playerName": "Santosh Mahajan",
       "Team": "Bethany",
-      "labelType": "AllRounder",
-      "Value": 80
+      "playerType": "AllRounder",
+      "points": 80
     },
     {
-      "Id": 39,
-      "label": "Kartik Pasumarti",
+      "id": 39,
+      "playerName": "Kartik Pasumarti",
       "Team": "Questa",
-      "labelType": "WicketKeeper",
-      "Value": 80
+      "playerType": "WicketKeeper",
+      "points": 80
     },
     {
-      "Id": 40,
-      "label": "Srinivas Karpe",
+      "id": 40,
+      "playerName": "Srinivas Karpe",
       "Team": "Wicklund",
-      "labelType": "AllRounder",
-      "Value": 90
+      "playerType": "AllRounder",
+      "points": 90
     },
     {
-      "Id": 41,
-      "label": "Ananth Gollapudi",
+      "id": 41,
+      "playerName": "Ananth Gollapudi",
       "Team": "Wicklund",
-      "labelType": "Bowler",
-      "Value": 80
+      "playerType": "Bowler",
+      "points": 80
     },
     {
-      "Id": 42,
-      "label": "Mani Janakiraman",
+      "id": 42,
+      "playerName": "Mani Janakiraman",
       "Team": "Hansen",
-      "labelType": "Batsman",
-      "Value": 90
+      "playerType": "Batsman",
+      "points": 90
     },
     {
-      "Id": 43,
-      "label": "Raghavendra G",
+      "id": 43,
+      "playerName": "Raghavendra G",
       "Team": "Altamont",
-      "labelType": "AllRounder",
-      "Value": 80
+      "playerType": "AllRounder",
+      "points": 80
     },
     {
-      "Id": 44,
-      "label": "Vidya Bhushan Singh",
+      "id": 44,
+      "playerName": "Vidya Bhushan Singh",
       "Team": "Bethany",
-      "labelType": "Batsman",
-      "Value": 110
+      "playerType": "Batsman",
+      "points": 110
     },
     {
-      "Id": 45,
-      "label": "Surya Nanduri",
+      "id": 45,
+      "playerName": "Surya Nanduri",
       "Team": "Hansen",
-      "labelType": "AllRounder",
-      "Value": 130
+      "playerType": "AllRounder",
+      "points": 130
     },
     {
-      "Id": 46,
-      "label": "Srikanth Reddy",
+      "id": 46,
+      "playerName": "Srikanth Reddy",
       "Team": "Bethany",
-      "labelType": "AllRounder",
-      "Value": 110
+      "playerType": "AllRounder",
+      "points": 110
     },
     {
-      "Id": 47,
-      "label": "Vishwanath Na",
+      "id": 47,
+      "playerName": "Vishwanath Na",
       "Team": "Altamont",
-      "labelType": "Batsman",
-      "Value": 70
+      "playerType": "Batsman",
+      "points": 70
     },
     {
-      "Id": 48,
-      "label": "Sharad Unni",
+      "id": 48,
+      "playerName": "Sharad Unni",
       "Team": "Wicklund",
-      "labelType": "Batsman",
-      "Value": 60
+      "playerType": "Batsman",
+      "points": 60
     },
     {
-      "Id": 49,
-      "label": "Abrar Muhib",
+      "id": 49,
+      "playerName": "Abrar Muhib",
       "Team": "Wicklund",
-      "labelType": "WicketKeeper",
-      "Value": 70
+      "playerType": "WicketKeeper",
+      "points": 70
     },
     {
-      "Id": 50,
-      "label": "Pandian S",
+      "id": 50,
+      "playerName": "Pandian S",
       "Team": "Cordes",
-      "labelType": "AllRounder",
-      "Value": 70
+      "playerType": "AllRounder",
+      "points": 70
     },
     {
-      "Id": 51,
-      "label": "Sankar Rathnasamy",
+      "id": 51,
+      "playerName": "Sankar Rathnasamy",
       "Team": "Wicklund",
-      "labelType": "Batsman",
-      "Value": 90
+      "playerType": "Batsman",
+      "points": 90
     },
     {
-      "Id": 52,
-      "label": "Manish Nair",
+      "id": 52,
+      "playerName": "Manish Nair",
       "Team": "Questa",
-      "labelType": "Batsman",
-      "Value": 90
+      "playerType": "Batsman",
+      "points": 90
     },
     {
-      "Id": 53,
-      "label": "Kiran Shanigaram",
+      "id": 53,
+      "playerName": "Kiran Shanigaram",
       "Team": "Hansen",
-      "labelType": "Batsman",
-      "Value": 70
+      "playerType": "Batsman",
+      "points": 70
     },
     {
-      "Id": 54,
-      "label": "James Salins",
+      "id": 54,
+      "playerName": "James Salins",
       "Team": "Altamont",
-      "labelType": "AllRounder",
-      "Value": 90
+      "playerType": "AllRounder",
+      "points": 90
     },
     {
-      "Id": 55,
-      "label": "Chary Rangamgari",
+      "id": 55,
+      "playerName": "Chary Rangamgari",
       "Team": "Bethany",
-      "labelType": "Batsman",
-      "Value": 70
+      "playerType": "Batsman",
+      "points": 70
     },
     {
-      "Id": 56,
-      "label": "Shiju Na",
+      "id": 56,
+      "playerName": "Shiju Na",
       "Team": "Altamont",
-      "labelType": "Batsman",
-      "Value": 110
+      "playerType": "Batsman",
+      "points": 110
     },
     {
-      "Id": 57,
-      "label": "Robin M",
+      "id": 57,
+      "playerName": "Robin M",
       "Team": "Wicklund",
-      "labelType": "AllRounder",
-      "Value": 70
+      "playerType": "AllRounder",
+      "points": 70
     },
     {
-      "Id": 58,
-      "label": "Madhusudhan Gaade",
+      "id": 58,
+      "playerName": "Madhusudhan Gaade",
       "Team": "Bethany",
-      "labelType": "Bowler",
-      "Value": 70
+      "playerType": "Bowler",
+      "points": 70
     },
     {
-      "Id": 59,
-      "label": "Naveen Neelkanta",
+      "id": 59,
+      "playerName": "Naveen Neelkanta",
       "Team": "Bethany",
-      "labelType": "Batsman",
-      "Value": 50
+      "playerType": "Batsman",
+      "points": 50
     },
     {
-      "Id": 60,
-      "label": "Sriharsha Ganti",
+      "id": 60,
+      "playerName": "Sriharsha Ganti",
       "Team": "Hansen",
-      "labelType": "Bowler",
-      "Value": 50
+      "playerType": "Bowler",
+      "points": 50
     },
     {
-      "Id": 61,
-      "label": "Rutesh Desai",
+      "id": 61,
+      "playerName": "Rutesh Desai",
       "Team": "Wicklund",
-      "labelType": "Batsman",
-      "Value": 70
+      "playerType": "Batsman",
+      "points": 70
     },
     {
-      "Id": 62,
-      "label": "Abhishek Mogre",
+      "id": 62,
+      "playerName": "Abhishek Mogre",
       "Team": "Hansen",
-      "labelType": "Batsman",
-      "Value": 70
+      "playerType": "Batsman",
+      "points": 70
     },
     {
-      "Id": 63,
-      "label": "Vijay Kumar Rebbala",
+      "id": 63,
+      "playerName": "Vijay Kumar Rebbala",
       "Team": "Cordes",
-      "labelType": "Bowler",
-      "Value": 50
+      "playerType": "Bowler",
+      "points": 50
     },
     {
-      "Id": 64,
-      "label": "Venkat Mylavarapu",
+      "id": 64,
+      "playerName": "Venkat Mylavarapu",
       "Team": "Questa",
-      "labelType": "Batsman",
-      "Value": 50
+      "playerType": "Batsman",
+      "points": 50
     },
     {
-      "Id": 65,
-      "label": "Harish Chencharla",
+      "id": 65,
+      "playerName": "Harish Chencharla",
       "Team": "Altamont",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 66,
-      "label": "Jerome John",
+      "id": 66,
+      "playerName": "Jerome John",
       "Team": "Questa",
-      "labelType": "Batsman",
-      "Value": 60
+      "playerType": "Batsman",
+      "points": 60
     },
     {
-      "Id": 67,
-      "label": "Dilip Kumar",
+      "id": 67,
+      "playerName": "Dilip Kumar",
       "Team": "Bethany",
-      "labelType": "Batsman",
-      "Value": 50
+      "playerType": "Batsman",
+      "points": 50
     },
     {
-      "Id": 68,
-      "label": "Susheel Shinde",
+      "id": 68,
+      "playerName": "Susheel Shinde",
       "Team": "Bethany",
-      "labelType": "Batsman",
-      "Value": 60
+      "playerType": "Batsman",
+      "points": 60
     },
     {
-      "Id": 69,
-      "label": "Rajesh Sharma",
+      "id": 69,
+      "playerName": "Rajesh Sharma",
       "Team": "Wicklund",
-      "labelType": "Batsman",
-      "Value": 50
+      "playerType": "Batsman",
+      "points": 50
     },
     {
-      "Id": 70,
-      "label": "Waheed Mir",
+      "id": 70,
+      "playerName": "Waheed Mir",
       "Team": "Bethany",
-      "labelType": "Bowler",
-      "Value": 70
+      "playerType": "Bowler",
+      "points": 70
     },
     {
-      "Id": 71,
-      "label": "Ronak Tamboli",
+      "id": 71,
+      "playerName": "Ronak Tamboli",
       "Team": "Hansen",
-      "labelType": "Batsman",
-      "Value": 60
+      "playerType": "Batsman",
+      "points": 60
     },
     {
-      "Id": 72,
-      "label": "Sudeer Varma Rudraraju",
+      "id": 72,
+      "playerName": "Sudeer Varma Rudraraju",
       "Team": "Tracy",
-      "labelType": "Batsman",
-      "Value": 80
+      "playerType": "Batsman",
+      "points": 80
     },
     {
-      "Id": 73,
-      "label": "Visva Balaji",
+      "id": 73,
+      "playerName": "Visva Balaji",
       "Team": "Tracy",
-      "labelType": "Batsman",
-      "Value": 80
+      "playerType": "Batsman",
+      "points": 80
     },
     {
-      "Id": 74,
-      "label": "Vivek Chutke",
+      "id": 74,
+      "playerName": "Vivek Chutke",
       "Team": "Bethany",
-      "labelType": "Batsman",
-      "Value": 70
+      "playerType": "Batsman",
+      "points": 70
     },
     {
-      "Id": 75,
-      "label": "Murthy Pitta",
+      "id": 75,
+      "playerName": "Murthy Pitta",
       "Team": "Bethany",
-      "labelType": "Batsman",
-      "Value": 60
+      "playerType": "Batsman",
+      "points": 60
     },
     {
-      "Id": 76,
-      "label": "Vishal Sadaphal",
+      "id": 76,
+      "playerName": "Vishal Sadaphal",
       "Team": "Hansen",
-      "labelType": "Batsman",
-      "Value": 80
+      "playerType": "Batsman",
+      "points": 80
     },
     {
-      "Id": 77,
-      "label": "Akhil Latta",
+      "id": 77,
+      "playerName": "Akhil Latta",
       "Team": "Questa",
-      "labelType": "Batsman",
-      "Value": 60
+      "playerType": "Batsman",
+      "points": 60
     },
     {
-      "Id": 78,
-      "label": "Sandeep Sonawane",
+      "id": 78,
+      "playerName": "Sandeep Sonawane",
       "Team": "Questa",
-      "labelType": "Batsman",
-      "Value": 50
+      "playerType": "Batsman",
+      "points": 50
     },
     {
-      "Id": 79,
-      "label": "Santosh Pilkane",
+      "id": 79,
+      "playerName": "Santosh Pilkane",
       "Team": "Cordes",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 80,
-      "label": "Chandu",
+      "id": 80,
+      "playerName": "Chandu",
       "Team": "Cordes",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 81,
-      "label": "Hari Gutlapalli",
+      "id": 81,
+      "playerName": "Hari Gutlapalli",
       "Team": "Altamont",
-      "labelType": "Batsman",
-      "Value": 70
+      "playerType": "Batsman",
+      "points": 70
     },
     {
-      "Id": 82,
-      "label": "Rama Ganni",
+      "id": 82,
+      "playerName": "Rama Ganni",
       "Team": "Altamont",
-      "labelType": "Bowler",
-      "Value": 70
+      "playerType": "Bowler",
+      "points": 70
     },
     {
-      "Id": 83,
-      "label": "Ranjan Swain",
+      "id": 83,
+      "playerName": "Ranjan Swain",
       "Team": "Wicklund",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 84,
-      "label": "Jay Ashar",
+      "id": 84,
+      "playerName": "Jay Ashar",
       "Team": "Altamont",
-      "labelType": "Batsman",
-      "Value": 50
+      "playerType": "Batsman",
+      "points": 50
     },
     {
-      "Id": 85,
-      "label": "Prasad Punati",
+      "id": 85,
+      "playerName": "Prasad Punati",
       "Team": "Questa",
-      "labelType": "Batsman",
-      "Value": 50
+      "playerType": "Batsman",
+      "points": 50
     },
     {
-      "Id": 86,
-      "label": "Vivekan Kumar",
+      "id": 86,
+      "playerName": "Vivekan Kumar",
       "Team": "Wicklund",
-      "labelType": "Batsman",
-      "Value": 70
+      "playerType": "Batsman",
+      "points": 70
     },
     {
-      "Id": 87,
-      "label": "Amarnath Kanuri",
+      "id": 87,
+      "playerName": "Amarnath Kanuri",
       "Team": "Cordes",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 88,
-      "label": "Harish Gulati",
+      "id": 88,
+      "playerName": "Harish Gulati",
       "Team": "Cordes",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 89,
-      "label": "Abhinav Tiwari",
+      "id": 89,
+      "playerName": "Abhinav Tiwari",
       "Team": "Hansen",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 90,
-      "label": "Bharat Rangarajan",
+      "id": 90,
+      "playerName": "Bharat Rangarajan",
       "Team": "Hansen",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 91,
-      "label": "Arun Krishnaswamy",
+      "id": 91,
+      "playerName": "Arun Krishnaswamy",
       "Team": "Hansen",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 92,
-      "label": "Karthikeyan B",
+      "id": 92,
+      "playerName": "Karthikeyan B",
       "Team": "Hansen",
-      "labelType": "AllRounder",
-      "Value": 100
+      "playerType": "AllRounder",
+      "points": 100
     },
     {
-      "Id": 93,
-      "label": "Manpreet Singh",
+      "id": 93,
+      "playerName": "Manpreet Singh",
       "Team": "Bethany",
-      "labelType": "Batsman",
-      "Value": 50
+      "playerType": "Batsman",
+      "points": 50
     },
     {
-      "Id": 94,
-      "label": "Goutam",
+      "id": 94,
+      "playerName": "Goutam",
       "Team": "Wicklund",
-      "labelType": "Batsman",
-      "Value": 50
+      "playerType": "Batsman",
+      "points": 50
     },
     {
-      "Id": 95,
-      "label": "Srini Mittapelly",
+      "id": 95,
+      "playerName": "Srini Mittapelly",
       "Team": "Questa",
-      "labelType": "Batsman",
-      "Value": 50
+      "playerType": "Batsman",
+      "points": 50
     },
     {
-      "Id": 96,
-      "label": "Sarnawaz Khan",
+      "id": 96,
+      "playerName": "Sarnawaz Khan",
       "Team": "Royals",
-      "labelType": "Batsman",
-      "Value": 80
+      "playerType": "Batsman",
+      "points": 80
     },
     {
-      "Id": 97,
-      "label": "Yashkaran Singh",
+      "id": 97,
+      "playerName": "Yashkaran Singh",
       "Team": "Royals",
-      "labelType": "Batsman",
-      "Value": 50
+      "playerType": "Batsman",
+      "points": 50
     },
     {
-      "Id": 98,
-      "label": "Navdeep Saini",
+      "id": 98,
+      "playerName": "Navdeep Saini",
       "Team": "Royals",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 99,
-      "label": "Jaskirat Singh*",
+      "id": 99,
+      "playerName": "Jaskirat Singh*",
       "Team": "Royals",
-      "labelType": "AllRounder",
-      "Value": 90
+      "playerType": "AllRounder",
+      "points": 90
     },
     {
-      "Id": 100,
-      "label": "Adhi Dhillon",
+      "id": 100,
+      "playerName": "Adhi Dhillon",
       "Team": "Royals",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 101,
-      "label": "Jot Singh",
+      "id": 101,
+      "playerName": "Jot Singh",
       "Team": "Royals",
-      "labelType": "AllRounder",
-      "Value": 60
+      "playerType": "AllRounder",
+      "points": 60
     },
     {
-      "Id": 102,
-      "label": "Vishal Nayyar",
+      "id": 102,
+      "playerName": "Vishal Nayyar",
       "Team": "Royals",
-      "labelType": "Batsman",
-      "Value": 50
+      "playerType": "Batsman",
+      "points": 50
     },
     {
-      "Id": 103,
-      "label": "Anoop Brar",
+      "id": 103,
+      "playerName": "Anoop Brar",
       "Team": "Royals",
-      "labelType": "Batsman",
-      "Value": 50
+      "playerType": "Batsman",
+      "points": 50
     },
     {
-      "Id": 104,
-      "label": "Yuvraj Dhillon",
+      "id": 104,
+      "playerName": "Yuvraj Dhillon",
       "Team": "Royals",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 105,
-      "label": "Sehaj Cheema",
+      "id": 105,
+      "playerName": "Sehaj Cheema",
       "Team": "Royals",
-      "labelType": "Batsman",
-      "Value": 50
+      "playerType": "Batsman",
+      "points": 50
     },
     {
-      "Id": 106,
-      "label": "Niman Mutti",
+      "id": 106,
+      "playerName": "Niman Mutti",
       "Team": "Royals",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 107,
-      "label": "Armanjot Brar",
+      "id": 107,
+      "playerName": "Armanjot Brar",
       "Team": "Royals",
-      "labelType": "Bowler",
-      "Value": 50
+      "playerType": "Bowler",
+      "points": 50
     },
     {
-      "Id": 108,
-      "label": "Balpreet Singth",
+      "id": 108,
+      "playerName": "Balpreet Singth",
       "Team": "Royals",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 109,
-      "label": "Harjinder dhillon",
+      "id": 109,
+      "playerName": "Harjinder dhillon",
       "Team": "Royals",
-      "labelType": "WicketKeeper",
-      "Value": 50
+      "playerType": "WicketKeeper",
+      "points": 50
     },
     {
-      "Id": 110,
-      "label": "Bhushan Tipparaju",
+      "id": 110,
+      "playerName": "Bhushan Tipparaju",
       "Team": "Tracy",
-      "labelType": "AllRounder",
-      "Value": 70
+      "playerType": "AllRounder",
+      "points": 70
     },
     {
-      "Id": 111,
-      "label": "Ambarish Ravi",
+      "id": 111,
+      "playerName": "Ambarish Ravi",
       "Team": "Tracy",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 112,
-      "label": "Kiran Vinnakota",
+      "id": 112,
+      "playerName": "Kiran Vinnakota",
       "Team": "Tracy",
-      "labelType": "Batsman",
-      "Value": 50
+      "playerType": "Batsman",
+      "points": 50
     },
     {
-      "Id": 113,
-      "label": "Sandeep Rawat",
+      "id": 113,
+      "playerName": "Sandeep Rawat",
       "Team": "Tracy",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 114,
-      "label": "Sriram C",
+      "id": 114,
+      "playerName": "Sriram C",
       "Team": "Tracy",
-      "labelType": "Bowler",
-      "Value": 50
+      "playerType": "Bowler",
+      "points": 50
     },
     {
-      "Id": 115,
-      "label": "Arvindram Ramraj",
+      "id": 115,
+      "playerName": "Arvindram Ramraj",
       "Team": "Tracy",
-      "labelType": "Batsman",
-      "Value": 50
+      "playerType": "Batsman",
+      "points": 50
     },
     {
-      "Id": 116,
-      "label": "Nirmal D",
+      "id": 116,
+      "playerName": "Nirmal D",
       "Team": "Tracy",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 117,
-      "label": "Rajesh Ramasamy",
+      "id": 117,
+      "playerName": "Rajesh Ramasamy",
       "Team": "Tracy",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 118,
-      "label": "Sagar P",
+      "id": 118,
+      "playerName": "Sagar P",
       "Team": "Tracy",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 119,
-      "label": "Sivakumar Muthuraj",
+      "id": 119,
+      "playerName": "Sivakumar Muthuraj",
       "Team": "Tracy",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 120,
-      "label": "Ranjitkumar Raju",
+      "id": 120,
+      "playerName": "Ranjitkumar Raju",
       "Team": "Tracy",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 121,
-      "label": "Shabrinath Reddy",
+      "id": 121,
+      "playerName": "Shabrinath Reddy",
       "Team": "Tracy",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 122,
-      "label": "Pulla Manchala",
+      "id": 122,
+      "playerName": "Pulla Manchala",
       "Team": "SanRamon",
-      "labelType": "Batsman",
-      "Value": 80
+      "playerType": "Batsman",
+      "points": 80
     },
     {
-      "Id": 123,
-      "label": "Jayachandra Reddy Tippaluri*",
+      "id": 123,
+      "playerName": "Jayachandra Reddy Tippaluri*",
       "Team": "SanRamon",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 124,
-      "label": "Kunul Gottimukkula",
+      "id": 124,
+      "playerName": "Kunul Gottimukkula",
       "Team": "SanRamon",
-      "labelType": "Batsman",
-      "Value": 70
+      "playerType": "Batsman",
+      "points": 70
     },
     {
-      "Id": 125,
-      "label": "Ravi Kumar Pothireddy",
+      "id": 125,
+      "playerName": "Ravi Kumar Pothireddy",
       "Team": "SanRamon",
-      "labelType": "AllRounder",
-      "Value": 70
+      "playerType": "AllRounder",
+      "points": 70
     },
     {
-      "Id": 126,
-      "label": "Karthik Chowdary Namburu",
+      "id": 126,
+      "playerName": "Karthik Chowdary Namburu",
       "Team": "SanRamon",
-      "labelType": "Batsman",
-      "Value": 60
+      "playerType": "Batsman",
+      "points": 60
     },
     {
-      "Id": 127,
-      "label": "Srikanth Gummadi",
+      "id": 127,
+      "playerName": "Srikanth Gummadi",
       "Team": "SanRamon",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 128,
-      "label": "Vijay Reddy Munagala",
+      "id": 128,
+      "playerName": "Vijay Reddy Munagala",
       "Team": "SanRamon",
-      "labelType": "Batsman",
-      "Value": 50
+      "playerType": "Batsman",
+      "points": 50
     },
     {
-      "Id": 129,
-      "label": "Subrata Das",
+      "id": 129,
+      "playerName": "Subrata Das",
       "Team": "SanRamon",
-      "labelType": "AllRounder",
-      "Value": 80
+      "playerType": "AllRounder",
+      "points": 80
     },
     {
-      "Id": 130,
-      "label": "Tarun Kale",
+      "id": 130,
+      "playerName": "Tarun Kale",
       "Team": "SanRamon",
-      "labelType": "Batsman",
-      "Value": 60
+      "playerType": "Batsman",
+      "points": 60
     },
     {
-      "Id": 131,
-      "label": "Jitender Asija",
+      "id": 131,
+      "playerName": "Jitender Asija",
       "Team": "SanRamon",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 132,
-      "label": "Venkatavara Prasad Reddy Yannam",
+      "id": 132,
+      "playerName": "Venkatavara Prasad Reddy Yannam",
       "Team": "SanRamon",
-      "labelType": "Bowler",
-      "Value": 50
+      "playerType": "Bowler",
+      "points": 50
     },
     {
-      "Id": 133,
-      "label": "Jagadeesan Sivaraman",
+      "id": 133,
+      "playerName": "Jagadeesan Sivaraman",
       "Team": "SanRamon",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 134,
-      "label": "Karthivel Subramani",
+      "id": 134,
+      "playerName": "Karthivel Subramani",
       "Team": "SanRamon",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 135,
-      "label": "Kaushik Krishna",
+      "id": 135,
+      "playerName": "Kaushik Krishna",
       "Team": "SanRamon",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 136,
-      "label": "Shalin Bhatnagar",
+      "id": 136,
+      "playerName": "Shalin Bhatnagar",
       "Team": "SanRamon",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 137,
-      "label": "Rahul Agarwal",
+      "id": 137,
+      "playerName": "Rahul Agarwal",
       "Team": "VineYard Eagles",
-      "labelType": "Batsman",
-      "Value": 50
+      "playerType": "Batsman",
+      "points": 50
     },
     {
-      "Id": 138,
-      "label": "Hetang Shah",
+      "id": 138,
+      "playerName": "Hetang Shah",
       "Team": "VineYard Eagles",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 139,
-      "label": "Srinivas Nutalapati",
+      "id": 139,
+      "playerName": "Srinivas Nutalapati",
       "Team": "VineYard Eagles",
-      "labelType": "Batsman",
-      "Value": 50
+      "playerType": "Batsman",
+      "points": 50
     },
     {
-      "Id": 140,
-      "label": "Prem Kaliaperumal*",
+      "id": 140,
+      "playerName": "Prem Kaliaperumal*",
       "Team": "VineYard Eagles",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 141,
-      "label": "Pravin Kalel",
+      "id": 141,
+      "playerName": "Pravin Kalel",
       "Team": "VineYard Eagles",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 142,
-      "label": "Deepak Goklani",
+      "id": 142,
+      "playerName": "Deepak Goklani",
       "Team": "VineYard Eagles",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 143,
-      "label": "Nihar Devella",
+      "id": 143,
+      "playerName": "Nihar Devella",
       "Team": "VineYard Eagles",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 144,
-      "label": "Bidun Lm",
+      "id": 144,
+      "playerName": "Bidun Lm",
       "Team": "VineYard Eagles",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 145,
-      "label": "Rajesh Gundapaneni",
+      "id": 145,
+      "playerName": "Rajesh Gundapaneni",
       "Team": "VineYard Eagles",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 146,
-      "label": "Gopi LM",
+      "id": 146,
+      "playerName": "Gopi LM",
       "Team": "VineYard Eagles",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 147,
-      "label": "Kamal",
+      "id": 147,
+      "playerName": "Kamal",
       "Team": "VineYard Eagles",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 148,
-      "label": "Kb LM",
+      "id": 148,
+      "playerName": "Kb LM",
       "Team": "VineYard Eagles",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 149,
-      "label": "Rama Katakam",
+      "id": 149,
+      "playerName": "Rama Katakam",
       "Team": "VineYard Eagles",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 150,
-      "label": "Sandeep Panguluri",
+      "id": 150,
+      "playerName": "Sandeep Panguluri",
       "Team": "VineYard Eagles",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     },
     {
-      "Id": 151,
-      "label": "Kamal Chedambath",
+      "id": 151,
+      "playerName": "Kamal Chedambath",
       "Team": "VineYard Eagles",
-      "labelType": "AllRounder",
-      "Value": 50
+      "playerType": "AllRounder",
+      "points": 50
     }
   ]
   
