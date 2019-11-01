@@ -1,1060 +1,1094 @@
 [
-    {
-      "id": 1,
-      "playerName": "Deepak Mandal",
-      "Team": "Altamont",
-      "playerType": "AllRounder",
-      "points": 150
-    },
-    {
-      "id": 2,
-      "playerName": "Jyoti Nayak",
-      "Team": "Cordes",
-      "playerType": "Bowler",
-      "points": 150
-    },
-    {
-      "id": 3,
-      "playerName": "Rajesh Patel",
-      "Team": "Cordes",
-      "playerType": "Bowler",
-      "points": 150
-    },
-    {
-      "id": 4,
-      "playerName": "Dev Sutar",
-      "Team": "Questa",
-      "playerType": "Bowler",
-      "points": 140
-    },
-    {
-      "id": 5,
-      "playerName": "Amarnath Sreevatsa",
-      "Team": "Questa",
-      "playerType": "AllRounder",
-      "points": 150
-    },
-    {
-      "id": 6,
-      "playerName": "Prabhu Velusamy",
-      "Team": "Altamont",
-      "playerType": "Bowler",
-      "points": 130
-    },
-    {
-      "id": 7,
-      "playerName": "Satishkumar Inuganti",
-      "Team": "Questa",
-      "playerType": "Bowler",
-      "points": 120
-    },
-    {
-      "id": 8,
-      "playerName": "Varaprasad Perambudoori",
-      "Team": "Altamont",
-      "playerType": "Bowler",
-      "points": 120
-    },
-    {
-      "id": 9,
-      "playerName": "Satyakant Chitturi",
-      "Team": "Bethany",
-      "playerType": "AllRounder",
-      "points": 110
-    },
-    {
-      "id": 10,
-      "playerName": "Krish Venkatraman",
-      "Team": "Altamont",
-      "playerType": "Batsman",
-      "points": 150
-    },
-    {
-      "id": 11,
-      "playerName": "Phani Viswanadha",
-      "Team": "Cordes",
-      "playerType": "Batsman",
-      "points": 140
-    },
-    {
-      "id": 12,
-      "playerName": "Shriniwas Phalke",
-      "Team": "Wicklund",
-      "playerType": "Batsman",
-      "points": 140
-    },
-    {
-      "id": 13,
-      "playerName": "Rajesh Gunda",
-      "Team": "Hansen",
-      "playerType": "Bowler",
-      "points": 110
-    },
-    {
-      "id": 14,
-      "playerName": "Sahadev Vinukonda",
-      "Team": "Altamont",
-      "playerType": "Bowler",
-      "points": 110
-    },
-    {
-      "id": 15,
-      "playerName": "Nikunj Natu",
-      "Team": "Wicklund",
-      "playerType": "Bowler",
-      "points": 120
-    },
-    {
-      "id": 16,
-      "playerName": "Santosh Bhargav",
-      "Team": "Bethany",
-      "playerType": "AllRounder",
-      "points": 120
-    },
-    {
-      "id": 17,
-      "playerName": "Gaurav Jain",
-      "Team": "Cordes",
-      "playerType": "Batsman",
-      "points": 130
-    },
-    {
-      "id": 18,
-      "playerName": "Parvindar Pelia",
-      "Team": "Bethany",
-      "playerType": "AllRounder",
-      "points": 120
-    },
-    {
-      "id": 19,
-      "playerName": "Satya Akella",
-      "Team": "Questa",
-      "playerType": "Bowler",
-      "points": 100
-    },
-    {
-      "id": 20,
-      "playerName": "Uday Tummala",
-      "Team": "Questa",
-      "playerType": "Bowler",
-      "points": 110
-    },
-    {
-      "id": 21,
-      "playerName": "Naresh Kumar Paturi",
-      "Team": "Cordes",
-      "playerType": "Bowler",
-      "points": 110
-    },
-    {
-      "id": 22,
-      "playerName": "Supreet Singh",
-      "Team": "Hansen",
-      "playerType": "AllRounder",
-      "points": 130
-    },
-    {
-      "id": 23,
-      "playerName": "Bhargava Chavali",
-      "Team": "Hansen",
-      "playerType": "Bowler",
-      "points": 110
-    },
-    {
-      "id": 24,
-      "playerName": "Jaswinder Paul",
-      "Team": "Altamont",
-      "playerType": "WicketKeeper",
-      "points": 110
-    },
-    {
-      "id": 25,
-      "playerName": "Visu Somepalli",
-      "Team": "Bethany",
-      "playerType": "Bowler",
-      "points": 100
-    },
-    {
-      "id": 26,
-      "playerName": "Suresh Krishna",
-      "Team": "Altamont",
-      "playerType": "AllRounder",
-      "points": 100
-    },
-    {
-      "id": 27,
-      "playerName": "Saurabh Kulkarni",
-      "Team": "Cordes",
-      "playerType": "Batsman",
-      "points": 130
-    },
-    {
-      "id": 28,
-      "playerName": "Abhishek Singh",
-      "Team": "Cordes",
-      "playerType": "AllRounder",
-      "points": 110
-    },
-    {
-      "id": 29,
-      "playerName": "Brijesh Chavda",
-      "Team": "Hansen",
-      "playerType": "Batsman",
-      "points": 110
-    },
-    {
-      "id": 30,
-      "playerName": "Krishna Kumar",
-      "Team": "Questa",
-      "playerType": "Bowler",
-      "points": 110
-    },
-    {
-      "id": 31,
-      "playerName": "Tom Jose Kalapura",
-      "Team": "Wicklund",
-      "playerType": "Bowler",
-      "points": 100
-    },
-    {
-      "id": 32,
-      "playerName": "Tejeshwar Reddy",
-      "Team": "Wicklund",
-      "playerType": "Bowler",
-      "points": 90
-    },
-    {
-      "id": 33,
-      "playerName": "Navpreet Sahota",
-      "Team": "Questa",
-      "playerType": "Batsman",
-      "points": 140
-    },
-    {
-      "id": 34,
-      "playerName": "Shashidhar MS",
-      "Team": "Cordes",
-      "playerType": "AllRounder",
-      "points": 90
-    },
-    {
-      "id": 35,
-      "playerName": "Siva Rambilli",
-      "Team": "Bethany",
-      "playerType": "Bowler",
-      "points": 100
-    },
-    {
-      "id": 36,
-      "playerName": "Srinivas Jonnalagadda",
-      "Team": "Hansen",
-      "playerType": "Bowler",
-      "points": 100
-    },
-    {
-      "id": 37,
-      "playerName": "Samy Dharmalingam",
-      "Team": "Tracy",
-      "playerType": "Bowler",
-      "points": 100
-    },
-    {
-      "id": 38,
-      "playerName": "Santosh Mahajan",
-      "Team": "Bethany",
-      "playerType": "AllRounder",
-      "points": 80
-    },
-    {
-      "id": 39,
-      "playerName": "Kartik Pasumarti",
-      "Team": "Questa",
-      "playerType": "WicketKeeper",
-      "points": 80
-    },
-    {
-      "id": 40,
-      "playerName": "Srinivas Karpe",
-      "Team": "Wicklund",
-      "playerType": "AllRounder",
-      "points": 90
-    },
-    {
-      "id": 41,
-      "playerName": "Ananth Gollapudi",
-      "Team": "Wicklund",
-      "playerType": "Bowler",
-      "points": 80
-    },
-    {
-      "id": 42,
-      "playerName": "Mani Janakiraman",
-      "Team": "Hansen",
-      "playerType": "Batsman",
-      "points": 90
-    },
-    {
-      "id": 43,
-      "playerName": "Raghavendra G",
-      "Team": "Altamont",
-      "playerType": "AllRounder",
-      "points": 80
-    },
-    {
-      "id": 44,
-      "playerName": "Vidya Bhushan Singh",
-      "Team": "Bethany",
-      "playerType": "Batsman",
-      "points": 110
-    },
-    {
-      "id": 45,
-      "playerName": "Surya Nanduri",
-      "Team": "Hansen",
-      "playerType": "AllRounder",
-      "points": 130
-    },
-    {
-      "id": 46,
-      "playerName": "Srikanth Reddy",
-      "Team": "Bethany",
-      "playerType": "AllRounder",
-      "points": 110
-    },
-    {
-      "id": 47,
-      "playerName": "Vishwanath Na",
-      "Team": "Altamont",
-      "playerType": "Batsman",
-      "points": 70
-    },
-    {
-      "id": 48,
-      "playerName": "Sharad Unni",
-      "Team": "Wicklund",
-      "playerType": "Batsman",
-      "points": 60
-    },
-    {
-      "id": 49,
-      "playerName": "Abrar Muhib",
-      "Team": "Wicklund",
-      "playerType": "WicketKeeper",
-      "points": 70
-    },
-    {
-      "id": 50,
-      "playerName": "Pandian S",
-      "Team": "Cordes",
-      "playerType": "AllRounder",
-      "points": 70
-    },
-    {
-      "id": 51,
-      "playerName": "Sankar Rathnasamy",
-      "Team": "Wicklund",
-      "playerType": "Batsman",
-      "points": 90
-    },
-    {
-      "id": 52,
-      "playerName": "Manish Nair",
-      "Team": "Questa",
-      "playerType": "Batsman",
-      "points": 90
-    },
-    {
-      "id": 53,
-      "playerName": "Kiran Shanigaram",
-      "Team": "Hansen",
-      "playerType": "Batsman",
-      "points": 70
-    },
-    {
-      "id": 54,
-      "playerName": "James Salins",
-      "Team": "Altamont",
-      "playerType": "AllRounder",
-      "points": 90
-    },
-    {
-      "id": 55,
-      "playerName": "Chary Rangamgari",
-      "Team": "Bethany",
-      "playerType": "Batsman",
-      "points": 70
-    },
-    {
-      "id": 56,
-      "playerName": "Shiju Na",
-      "Team": "Altamont",
-      "playerType": "Batsman",
-      "points": 110
-    },
-    {
-      "id": 57,
-      "playerName": "Robin M",
-      "Team": "Wicklund",
-      "playerType": "AllRounder",
-      "points": 70
-    },
-    {
-      "id": 58,
-      "playerName": "Madhusudhan Gaade",
-      "Team": "Bethany",
-      "playerType": "Bowler",
-      "points": 70
-    },
-    {
-      "id": 59,
-      "playerName": "Naveen Neelkanta",
-      "Team": "Bethany",
-      "playerType": "Batsman",
-      "points": 50
-    },
-    {
-      "id": 60,
-      "playerName": "Sriharsha Ganti",
-      "Team": "Hansen",
-      "playerType": "Bowler",
-      "points": 50
-    },
-    {
-      "id": 61,
-      "playerName": "Rutesh Desai",
-      "Team": "Wicklund",
-      "playerType": "Batsman",
-      "points": 70
-    },
-    {
-      "id": 62,
-      "playerName": "Abhishek Mogre",
-      "Team": "Hansen",
-      "playerType": "Batsman",
-      "points": 70
-    },
-    {
-      "id": 63,
-      "playerName": "Vijay Kumar Rebbala",
-      "Team": "Cordes",
-      "playerType": "Bowler",
-      "points": 50
-    },
-    {
-      "id": 64,
-      "playerName": "Venkat Mylavarapu",
-      "Team": "Questa",
-      "playerType": "Batsman",
-      "points": 50
-    },
-    {
-      "id": 65,
-      "playerName": "Harish Chencharla",
-      "Team": "Altamont",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 66,
-      "playerName": "Jerome John",
-      "Team": "Questa",
-      "playerType": "Batsman",
-      "points": 60
-    },
-    {
-      "id": 67,
-      "playerName": "Dilip Kumar",
-      "Team": "Bethany",
-      "playerType": "Batsman",
-      "points": 50
-    },
-    {
-      "id": 68,
-      "playerName": "Susheel Shinde",
-      "Team": "Bethany",
-      "playerType": "Batsman",
-      "points": 60
-    },
-    {
-      "id": 69,
-      "playerName": "Rajesh Sharma",
-      "Team": "Wicklund",
-      "playerType": "Batsman",
-      "points": 50
-    },
-    {
-      "id": 70,
-      "playerName": "Waheed Mir",
-      "Team": "Bethany",
-      "playerType": "Bowler",
-      "points": 70
-    },
-    {
-      "id": 71,
-      "playerName": "Ronak Tamboli",
-      "Team": "Hansen",
-      "playerType": "Batsman",
-      "points": 60
-    },
-    {
-      "id": 72,
-      "playerName": "Sudeer Varma Rudraraju",
-      "Team": "Tracy",
-      "playerType": "Batsman",
-      "points": 80
-    },
-    {
-      "id": 73,
-      "playerName": "Visva Balaji",
-      "Team": "Tracy",
-      "playerType": "Batsman",
-      "points": 80
-    },
-    {
-      "id": 74,
-      "playerName": "Vivek Chutke",
-      "Team": "Bethany",
-      "playerType": "Batsman",
-      "points": 70
-    },
-    {
-      "id": 75,
-      "playerName": "Murthy Pitta",
-      "Team": "Bethany",
-      "playerType": "Batsman",
-      "points": 60
-    },
-    {
-      "id": 76,
-      "playerName": "Vishal Sadaphal",
-      "Team": "Hansen",
-      "playerType": "Batsman",
-      "points": 80
-    },
-    {
-      "id": 77,
-      "playerName": "Akhil Latta",
-      "Team": "Questa",
-      "playerType": "Batsman",
-      "points": 60
-    },
-    {
-      "id": 78,
-      "playerName": "Sandeep Sonawane",
-      "Team": "Questa",
-      "playerType": "Batsman",
-      "points": 50
-    },
-    {
-      "id": 79,
-      "playerName": "Santosh Pilkane",
-      "Team": "Cordes",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 80,
-      "playerName": "Chandu",
-      "Team": "Cordes",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 81,
-      "playerName": "Hari Gutlapalli",
-      "Team": "Altamont",
-      "playerType": "Batsman",
-      "points": 70
-    },
-    {
-      "id": 82,
-      "playerName": "Rama Ganni",
-      "Team": "Altamont",
-      "playerType": "Bowler",
-      "points": 70
-    },
-    {
-      "id": 83,
-      "playerName": "Ranjan Swain",
-      "Team": "Wicklund",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 84,
-      "playerName": "Jay Ashar",
-      "Team": "Altamont",
-      "playerType": "Batsman",
-      "points": 50
-    },
-    {
-      "id": 85,
-      "playerName": "Prasad Punati",
-      "Team": "Questa",
-      "playerType": "Batsman",
-      "points": 50
-    },
-    {
-      "id": 86,
-      "playerName": "Vivekan Kumar",
-      "Team": "Wicklund",
-      "playerType": "Batsman",
-      "points": 70
-    },
-    {
-      "id": 87,
-      "playerName": "Amarnath Kanuri",
-      "Team": "Cordes",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 88,
-      "playerName": "Harish Gulati",
-      "Team": "Cordes",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 89,
-      "playerName": "Abhinav Tiwari",
-      "Team": "Hansen",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 90,
-      "playerName": "Bharat Rangarajan",
-      "Team": "Hansen",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 91,
-      "playerName": "Arun Krishnaswamy",
-      "Team": "Hansen",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 92,
-      "playerName": "Karthikeyan B",
-      "Team": "Hansen",
-      "playerType": "AllRounder",
-      "points": 100
-    },
-    {
-      "id": 93,
-      "playerName": "Manpreet Singh",
-      "Team": "Bethany",
-      "playerType": "Batsman",
-      "points": 50
-    },
-    {
-      "id": 94,
-      "playerName": "Goutam",
-      "Team": "Wicklund",
-      "playerType": "Batsman",
-      "points": 50
-    },
-    {
-      "id": 95,
-      "playerName": "Srini Mittapelly",
-      "Team": "Questa",
-      "playerType": "Batsman",
-      "points": 50
-    },
-    {
-      "id": 96,
-      "playerName": "Sarnawaz Khan",
-      "Team": "Royals",
-      "playerType": "Batsman",
-      "points": 80
-    },
-    {
-      "id": 97,
-      "playerName": "Yashkaran Singh",
-      "Team": "Royals",
-      "playerType": "Batsman",
-      "points": 50
-    },
-    {
-      "id": 98,
-      "playerName": "Navdeep Saini",
-      "Team": "Royals",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 99,
-      "playerName": "Jaskirat Singh*",
-      "Team": "Royals",
-      "playerType": "AllRounder",
-      "points": 90
-    },
-    {
-      "id": 100,
-      "playerName": "Adhi Dhillon",
-      "Team": "Royals",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 101,
-      "playerName": "Jot Singh",
-      "Team": "Royals",
-      "playerType": "AllRounder",
-      "points": 60
-    },
-    {
-      "id": 102,
-      "playerName": "Vishal Nayyar",
-      "Team": "Royals",
-      "playerType": "Batsman",
-      "points": 50
-    },
-    {
-      "id": 103,
-      "playerName": "Anoop Brar",
-      "Team": "Royals",
-      "playerType": "Batsman",
-      "points": 50
-    },
-    {
-      "id": 104,
-      "playerName": "Yuvraj Dhillon",
-      "Team": "Royals",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 105,
-      "playerName": "Sehaj Cheema",
-      "Team": "Royals",
-      "playerType": "Batsman",
-      "points": 50
-    },
-    {
-      "id": 106,
-      "playerName": "Niman Mutti",
-      "Team": "Royals",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 107,
-      "playerName": "Armanjot Brar",
-      "Team": "Royals",
-      "playerType": "Bowler",
-      "points": 50
-    },
-    {
-      "id": 108,
-      "playerName": "Balpreet Singth",
-      "Team": "Royals",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 109,
-      "playerName": "Harjinder dhillon",
-      "Team": "Royals",
-      "playerType": "WicketKeeper",
-      "points": 50
-    },
-    {
-      "id": 110,
-      "playerName": "Bhushan Tipparaju",
-      "Team": "Tracy",
-      "playerType": "AllRounder",
-      "points": 70
-    },
-    {
-      "id": 111,
-      "playerName": "Ambarish Ravi",
-      "Team": "Tracy",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 112,
-      "playerName": "Kiran Vinnakota",
-      "Team": "Tracy",
-      "playerType": "Batsman",
-      "points": 50
-    },
-    {
-      "id": 113,
-      "playerName": "Sandeep Rawat",
-      "Team": "Tracy",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 114,
-      "playerName": "Sriram C",
-      "Team": "Tracy",
-      "playerType": "Bowler",
-      "points": 50
-    },
-    {
-      "id": 115,
-      "playerName": "Arvindram Ramraj",
-      "Team": "Tracy",
-      "playerType": "Batsman",
-      "points": 50
-    },
-    {
-      "id": 116,
-      "playerName": "Nirmal D",
-      "Team": "Tracy",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 117,
-      "playerName": "Rajesh Ramasamy",
-      "Team": "Tracy",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 118,
-      "playerName": "Sagar P",
-      "Team": "Tracy",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 119,
-      "playerName": "Sivakumar Muthuraj",
-      "Team": "Tracy",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 120,
-      "playerName": "Ranjitkumar Raju",
-      "Team": "Tracy",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 121,
-      "playerName": "Shabrinath Reddy",
-      "Team": "Tracy",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 122,
-      "playerName": "Pulla Manchala",
-      "Team": "SanRamon",
-      "playerType": "Batsman",
-      "points": 80
-    },
-    {
-      "id": 123,
-      "playerName": "Jayachandra Reddy Tippaluri*",
-      "Team": "SanRamon",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 124,
-      "playerName": "Kunul Gottimukkula",
-      "Team": "SanRamon",
-      "playerType": "Batsman",
-      "points": 70
-    },
-    {
-      "id": 125,
-      "playerName": "Ravi Kumar Pothireddy",
-      "Team": "SanRamon",
-      "playerType": "AllRounder",
-      "points": 70
-    },
-    {
-      "id": 126,
-      "playerName": "Karthik Chowdary Namburu",
-      "Team": "SanRamon",
-      "playerType": "Batsman",
-      "points": 60
-    },
-    {
-      "id": 127,
-      "playerName": "Srikanth Gummadi",
-      "Team": "SanRamon",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 128,
-      "playerName": "Vijay Reddy Munagala",
-      "Team": "SanRamon",
-      "playerType": "Batsman",
-      "points": 50
-    },
-    {
-      "id": 129,
-      "playerName": "Subrata Das",
-      "Team": "SanRamon",
-      "playerType": "AllRounder",
-      "points": 80
-    },
-    {
-      "id": 130,
-      "playerName": "Tarun Kale",
-      "Team": "SanRamon",
-      "playerType": "Batsman",
-      "points": 60
-    },
-    {
-      "id": 131,
-      "playerName": "Jitender Asija",
-      "Team": "SanRamon",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 132,
-      "playerName": "Venkatavara Prasad Reddy Yannam",
-      "Team": "SanRamon",
-      "playerType": "Bowler",
-      "points": 50
-    },
-    {
-      "id": 133,
-      "playerName": "Jagadeesan Sivaraman",
-      "Team": "SanRamon",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 134,
-      "playerName": "Karthivel Subramani",
-      "Team": "SanRamon",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 135,
-      "playerName": "Kaushik Krishna",
-      "Team": "SanRamon",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 136,
-      "playerName": "Shalin Bhatnagar",
-      "Team": "SanRamon",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 137,
-      "playerName": "Rahul Agarwal",
-      "Team": "VineYard Eagles",
-      "playerType": "Batsman",
-      "points": 50
-    },
-    {
-      "id": 138,
-      "playerName": "Hetang Shah",
-      "Team": "VineYard Eagles",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 139,
-      "playerName": "Srinivas Nutalapati",
-      "Team": "VineYard Eagles",
-      "playerType": "Batsman",
-      "points": 50
-    },
-    {
-      "id": 140,
-      "playerName": "Prem Kaliaperumal*",
-      "Team": "VineYard Eagles",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 141,
-      "playerName": "Pravin Kalel",
-      "Team": "VineYard Eagles",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 142,
-      "playerName": "Deepak Goklani",
-      "Team": "VineYard Eagles",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 143,
-      "playerName": "Nihar Devella",
-      "Team": "VineYard Eagles",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 144,
-      "playerName": "Bidun Lm",
-      "Team": "VineYard Eagles",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 145,
-      "playerName": "Rajesh Gundapaneni",
-      "Team": "VineYard Eagles",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 146,
-      "playerName": "Gopi LM",
-      "Team": "VineYard Eagles",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 147,
-      "playerName": "Kamal",
-      "Team": "VineYard Eagles",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 148,
-      "playerName": "Kb LM",
-      "Team": "VineYard Eagles",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 149,
-      "playerName": "Rama Katakam",
-      "Team": "VineYard Eagles",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 150,
-      "playerName": "Sandeep Panguluri",
-      "Team": "VineYard Eagles",
-      "playerType": "AllRounder",
-      "points": 50
-    },
-    {
-      "id": 151,
-      "playerName": "Kamal Chedambath",
-      "Team": "VineYard Eagles",
-      "playerType": "AllRounder",
-      "points": 50
-    }
-  ]
-  
+  {
+    "id": 1,
+    "playerName": "Deepak Mandal",
+    "playerType": "AllRounder",
+    "points": 150,
+    "Team": "Altamont"
+  },
+  {
+    "id": 2,
+    "playerName": "Jyoti Nayak",
+    "playerType": "Bowler",
+    "points": 150,
+    "Team": "Cordes"
+  },
+  {
+    "id": 3,
+    "playerName": "Rajesh Patel",
+    "playerType": "Bowler",
+    "points": 150,
+    "Team": "Cordes"
+  },
+  {
+    "id": 4,
+    "playerName": "Dev Sutar",
+    "playerType": "Bowler",
+    "points": 140,
+    "Team": "Questa"
+  },
+  {
+    "id": 5,
+    "playerName": "Amarnath Sreevatsa",
+    "playerType": "AllRounder",
+    "points": 150,
+    "Team": "Questa"
+  },
+  {
+    "id": 6,
+    "playerName": "Prabhu Velusamy",
+    "playerType": "Bowler",
+    "points": 130,
+    "Team": "Altamont"
+  },
+  {
+    "id": 7,
+    "playerName": "Satishkumar Inuganti",
+    "playerType": "Bowler",
+    "points": 120,
+    "Team": "Questa"
+  },
+  {
+    "id": 8,
+    "playerName": "Varaprasad Perambudoori",
+    "playerType": "Bowler",
+    "points": 120,
+    "Team": "Altamont"
+  },
+  {
+    "id": 9,
+    "playerName": "Satyakant Chitturi",
+    "playerType": "AllRounder",
+    "points": 110,
+    "Team": "Bethany"
+  },
+  {
+    "id": 10,
+    "playerName": "Krish Venkatraman",
+    "playerType": "Batsman",
+    "points": 150,
+    "Team": "Altamont"
+  },
+  {
+    "id": 11,
+    "playerName": "Phani Viswanadha",
+    "playerType": "Batsman",
+    "points": 140,
+    "Team": "Cordes"
+  },
+  {
+    "id": 12,
+    "playerName": "Shriniwas Phalke",
+    "playerType": "Batsman",
+    "points": 140,
+    "Team": "Wicklund"
+  },
+  {
+    "id": 13,
+    "playerName": "Rajesh Gunda",
+    "playerType": "Bowler",
+    "points": 110,
+    "Team": "Hansen"
+  },
+  {
+    "id": 14,
+    "playerName": "Sahadev Vinukonda",
+    "playerType": "Bowler",
+    "points": 110,
+    "Team": "Altamont"
+  },
+  {
+    "id": 15,
+    "playerName": "Nikunj Natu",
+    "playerType": "Bowler",
+    "points": 120,
+    "Team": "Wicklund"
+  },
+  {
+    "id": 16,
+    "playerName": "Santosh Bhargav",
+    "playerType": "AllRounder",
+    "points": 120,
+    "Team": "Bethany"
+  },
+  {
+    "id": 17,
+    "playerName": "Gaurav Jain",
+    "playerType": "Batsman",
+    "points": 130,
+    "Team": "Cordes"
+  },
+  {
+    "id": 18,
+    "playerName": "Parvindar Pelia",
+    "playerType": "AllRounder",
+    "points": 120,
+    "Team": "Bethany"
+  },
+  {
+    "id": 19,
+    "playerName": "Satya Akella",
+    "playerType": "Bowler",
+    "points": 100,
+    "Team": "Questa"
+  },
+  {
+    "id": 20,
+    "playerName": "Uday Tummala",
+    "playerType": "Bowler",
+    "points": 110,
+    "Team": "Questa"
+  },
+  {
+    "id": 21,
+    "playerName": "Naresh Kumar Paturi",
+    "playerType": "Bowler",
+    "points": 110,
+    "Team": "Cordes"
+  },
+  {
+    "id": 22,
+    "playerName": "Supreet Singh",
+    "playerType": "AllRounder",
+    "points": 130,
+    "Team": "Hansen"
+  },
+  {
+    "id": 23,
+    "playerName": "Bhargava Chavali",
+    "playerType": "Bowler",
+    "points": 110,
+    "Team": "Hansen"
+  },
+  {
+    "id": 24,
+    "playerName": "Jaswinder Paul",
+    "playerType": "WicketKeeper",
+    "points": 110,
+    "Team": "Altamont"
+  },
+  {
+    "id": 25,
+    "playerName": "Visu Somepalli",
+    "playerType": "Bowler",
+    "points": 100,
+    "Team": "Bethany"
+  },
+  {
+    "id": 26,
+    "playerName": "Suresh Krishna",
+    "playerType": "AllRounder",
+    "points": 100,
+    "Team": "Altamont"
+  },
+  {
+    "id": 27,
+    "playerName": "Saurabh Kulkarni",
+    "playerType": "Batsman",
+    "points": 130,
+    "Team": "Cordes"
+  },
+  {
+    "id": 28,
+    "playerName": "Abhishek Singh",
+    "playerType": "AllRounder",
+    "points": 110,
+    "Team": "Cordes"
+  },
+  {
+    "id": 29,
+    "playerName": "Brijesh Chavda",
+    "playerType": "Batsman",
+    "points": 110,
+    "Team": "Hansen"
+  },
+  {
+    "id": 30,
+    "playerName": "Krishna Kumar",
+    "playerType": "Bowler",
+    "points": 110,
+    "Team": "Questa"
+  },
+  {
+    "id": 31,
+    "playerName": "Tom Jose Kalapura",
+    "playerType": "Bowler",
+    "points": 100,
+    "Team": "Wicklund"
+  },
+  {
+    "id": 32,
+    "playerName": "Tejeshwar Reddy",
+    "playerType": "Bowler",
+    "points": 90,
+    "Team": "Wicklund"
+  },
+  {
+    "id": 33,
+    "playerName": "Navpreet Sahota",
+    "playerType": "Batsman",
+    "points": 140,
+    "Team": "Questa"
+  },
+  {
+    "id": 34,
+    "playerName": "Shashidhar MS",
+    "playerType": "AllRounder",
+    "points": 90,
+    "Team": "Cordes"
+  },
+  {
+    "id": 35,
+    "playerName": "Siva Rambilli",
+    "playerType": "Bowler",
+    "points": 100,
+    "Team": "Bethany"
+  },
+  {
+    "id": 36,
+    "playerName": "Srinivas Jonnalagadda",
+    "playerType": "Bowler",
+    "points": 100,
+    "Team": "Hansen"
+  },
+  {
+    "id": 37,
+    "playerName": "Samy Dharmalingam",
+    "playerType": "Bowler",
+    "points": 100,
+    "Team": "Tracy"
+  },
+  {
+    "id": 38,
+    "playerName": "Santosh Mahajan",
+    "playerType": "AllRounder",
+    "points": 80,
+    "Team": "Bethany"
+  },
+  {
+    "id": 39,
+    "playerName": "Kartik Pasumarti",
+    "playerType": "WicketKeeper",
+    "points": 80,
+    "Team": "Questa"
+  },
+  {
+    "id": 40,
+    "playerName": "Srinivas Karpe",
+    "playerType": "AllRounder",
+    "points": 90,
+    "Team": "Wicklund"
+  },
+  {
+    "id": 41,
+    "playerName": "Ananth Gollapudi",
+    "playerType": "Bowler",
+    "points": 80,
+    "Team": "Wicklund"
+  },
+  {
+    "id": 42,
+    "playerName": "Mani Janakiraman",
+    "playerType": "Batsman",
+    "points": 90,
+    "Team": "Hansen"
+  },
+  {
+    "id": 43,
+    "playerName": "Raghavendra G",
+    "playerType": "AllRounder",
+    "points": 80,
+    "Team": "Altamont"
+  },
+  {
+    "id": 44,
+    "playerName": "Vidya Bhushan Singh",
+    "playerType": "Batsman",
+    "points": 110,
+    "Team": "Bethany"
+  },
+  {
+    "id": 45,
+    "playerName": "Surya Nanduri",
+    "playerType": "AllRounder",
+    "points": 130,
+    "Team": "Hansen"
+  },
+  {
+    "id": 46,
+    "playerName": "Srikanth Mallu",
+    "playerType": "AllRounder",
+    "points": 110,
+    "Team": "Bethany"
+  },
+  {
+    "id": 47,
+    "playerName": "Vishwanath Peddyreddy",
+    "playerType": "Batsman",
+    "points": 70,
+    "Team": "Altamont"
+  },
+  {
+    "id": 48,
+    "playerName": "Sharad Unni",
+    "playerType": "Batsman",
+    "points": 60,
+    "Team": "Wicklund"
+  },
+  {
+    "id": 49,
+    "playerName": "Abrar Muhib",
+    "playerType": "WicketKeeper",
+    "points": 70,
+    "Team": "Wicklund"
+  },
+  {
+    "id": 50,
+    "playerName": "Pandian S",
+    "playerType": "AllRounder",
+    "points": 70,
+    "Team": "Cordes"
+  },
+  {
+    "id": 51,
+    "playerName": "Sankar Rathnasamy",
+    "playerType": "Batsman",
+    "points": 90,
+    "Team": "Wicklund"
+  },
+  {
+    "id": 52,
+    "playerName": "Manish Nair",
+    "playerType": "Batsman",
+    "points": 90,
+    "Team": "Questa"
+  },
+  {
+    "id": 53,
+    "playerName": "Kiran Shanigaram",
+    "playerType": "Batsman",
+    "points": 70,
+    "Team": "Hansen"
+  },
+  {
+    "id": 54,
+    "playerName": "James Salins",
+    "playerType": "AllRounder",
+    "points": 90,
+    "Team": "Altamont"
+  },
+  {
+    "id": 55,
+    "playerName": "Chary Rangamgari",
+    "playerType": "Batsman",
+    "points": 70,
+    "Team": "Bethany"
+  },
+  {
+    "id": 56,
+    "playerName": "Shyju Salam",
+    "playerType": "Batsman",
+    "points": 110,
+    "Team": "Altamont"
+  },
+  {
+    "id": 57,
+    "playerName": "Robin M",
+    "playerType": "AllRounder",
+    "points": 70,
+    "Team": "Wicklund"
+  },
+  {
+    "id": 58,
+    "playerName": "Madhusudhan Gaade",
+    "playerType": "Bowler",
+    "points": 70,
+    "Team": "Bethany"
+  },
+  {
+    "id": 59,
+    "playerName": "Naveen Kanumuri",
+    "playerType": "Batsman",
+    "points": 50,
+    "Team": "Bethany"
+  },
+  {
+    "id": 60,
+    "playerName": "Sriharsha Ganti",
+    "playerType": "Bowler",
+    "points": 50,
+    "Team": "Hansen"
+  },
+  {
+    "id": 61,
+    "playerName": "Rutesh Desai",
+    "playerType": "Batsman",
+    "points": 70,
+    "Team": "Wicklund"
+  },
+  {
+    "id": 62,
+    "playerName": "Abhishek Mogre",
+    "playerType": "Batsman",
+    "points": 70,
+    "Team": "Hansen"
+  },
+  {
+    "id": 63,
+    "playerName": "Vijay Kumar Rebbala",
+    "playerType": "Bowler",
+    "points": 50,
+    "Team": "Cordes"
+  },
+  {
+    "id": 64,
+    "playerName": "Venkat Mylavarapu",
+    "playerType": "Batsman",
+    "points": 50,
+    "Team": "Questa"
+  },
+  {
+    "id": 65,
+    "playerName": "Harish Chencharla",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "Altamont"
+  },
+  {
+    "id": 66,
+    "playerName": "Jerome John",
+    "playerType": "Batsman",
+    "points": 60,
+    "Team": "Questa"
+  },
+  {
+    "id": 67,
+    "playerName": "Dilip Kumar",
+    "playerType": "Batsman",
+    "points": 50,
+    "Team": "Bethany"
+  },
+  {
+    "id": 68,
+    "playerName": "Susheel Shinde",
+    "playerType": "Batsman",
+    "points": 60,
+    "Team": "Bethany"
+  },
+  {
+    "id": 69,
+    "playerName": "Rajesh Sharma",
+    "playerType": "Batsman",
+    "points": 50,
+    "Team": "Wicklund"
+  },
+  {
+    "id": 70,
+    "playerName": "Waheed Mir",
+    "playerType": "Bowler",
+    "points": 70,
+    "Team": "Bethany"
+  },
+  {
+    "id": 71,
+    "playerName": "Ronak Tamboli",
+    "playerType": "Batsman",
+    "points": 60,
+    "Team": "Hansen"
+  },
+  {
+    "id": 72,
+    "playerName": "Sudheer Varma Rudraraju",
+    "playerType": "Batsman",
+    "points": 80,
+    "Team": "Tracy"
+  },
+  {
+    "id": 73,
+    "playerName": "Visva Balaji",
+    "playerType": "Batsman",
+    "points": 80,
+    "Team": "Tracy"
+  },
+  {
+    "id": 74,
+    "playerName": "Vivek Chutke",
+    "playerType": "Batsman",
+    "points": 70,
+    "Team": "Bethany"
+  },
+  {
+    "id": 75,
+    "playerName": "Murthy Pitta",
+    "playerType": "Batsman",
+    "points": 60,
+    "Team": "Bethany"
+  },
+  {
+    "id": 76,
+    "playerName": "Vishal Sadaphal",
+    "playerType": "Batsman",
+    "points": 80,
+    "Team": "Hansen"
+  },
+  {
+    "id": 77,
+    "playerName": "Akhil Latta",
+    "playerType": "Batsman",
+    "points": 60,
+    "Team": "Questa"
+  },
+  {
+    "id": 78,
+    "playerName": "Sandeep Sonawane",
+    "playerType": "Batsman",
+    "points": 50,
+    "Team": "Questa"
+  },
+  {
+    "id": 79,
+    "playerName": "Santosh Pilkhane",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "Cordes"
+  },
+  {
+    "id": 80,
+    "playerName": "Chandu",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "Cordes"
+  },
+  {
+    "id": 81,
+    "playerName": "Hari Gutlapalli",
+    "playerType": "Batsman",
+    "points": 70,
+    "Team": "Altamont"
+  },
+  {
+    "id": 82,
+    "playerName": "Rama G",
+    "playerType": "Bowler",
+    "points": 70,
+    "Team": "Altamont"
+  },
+  {
+    "id": 83,
+    "playerName": "Ranjan Swain",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "Wicklund"
+  },
+  {
+    "id": 84,
+    "playerName": "Jay Ashar",
+    "playerType": "Batsman",
+    "points": 50,
+    "Team": "Altamont"
+  },
+  {
+    "id": 85,
+    "playerName": "Prasad Punati",
+    "playerType": "Batsman",
+    "points": 50,
+    "Team": "Questa"
+  },
+  {
+    "id": 86,
+    "playerName": "Vivekan Kumar",
+    "playerType": "Batsman",
+    "points": 70,
+    "Team": "Wicklund"
+  },
+  {
+    "id": 87,
+    "playerName": "Amarnath Kanuri",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "Cordes"
+  },
+  {
+    "id": 88,
+    "playerName": "Harish Gulati",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "Cordes"
+  },
+  {
+    "id": 89,
+    "playerName": "Abhinav Tiwari",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "Hansen"
+  },
+  {
+    "id": 90,
+    "playerName": "Bharat Rangarajan",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "Hansen"
+  },
+  {
+    "id": 91,
+    "playerName": "Arun Krishnaswamy",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "Hansen"
+  },
+  {
+    "id": 92,
+    "playerName": "Karthikeyan B",
+    "playerType": "AllRounder",
+    "points": 100,
+    "Team": "Hansen"
+  },
+  {
+    "id": 93,
+    "playerName": "Manpreet Singh",
+    "playerType": "Batsman",
+    "points": 50,
+    "Team": " Bethany"
+  },
+  {
+    "id": 94,
+    "playerName": "Goutam Muddana",
+    "playerType": "Batsman",
+    "points": 50,
+    "Team": "Wicklund"
+  },
+  {
+    "id": 95,
+    "playerName": "Srini Mittapelly",
+    "playerType": "Batsman",
+    "points": 50,
+    "Team": "Questa"
+  },
+  {
+    "id": 96,
+    "playerName": "Sarnawaz Khan",
+    "playerType": "Batsman",
+    "points": 80,
+    "Team": "Royals"
+  },
+  {
+    "id": 97,
+    "playerName": "Yashkaran Singh",
+    "playerType": "Batsman",
+    "points": 50,
+    "Team": "Royals"
+  },
+  {
+    "id": 98,
+    "playerName": "Navdeep Saini",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "Royals"
+  },
+  {
+    "id": 99,
+    "playerName": "Jaskirat Singh",
+    "playerType": "AllRounder",
+    "points": 90,
+    "Team": "Royals"
+  },
+  {
+    "id": 100,
+    "playerName": "Adhi Dhillon",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "Royals"
+  },
+  {
+    "id": 101,
+    "playerName": "Jot Singh",
+    "playerType": "AllRounder",
+    "points": 60,
+    "Team": "Royals"
+  },
+  {
+    "id": 102,
+    "playerName": "Vishal Nayyar",
+    "playerType": "Batsman",
+    "points": 50,
+    "Team": "Royals"
+  },
+  {
+    "id": 103,
+    "playerName": "Anoop Brar",
+    "playerType": "Batsman",
+    "points": 50,
+    "Team": "Royals"
+  },
+  {
+    "id": 104,
+    "playerName": "Yuvraj Dhillon",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "Royals"
+  },
+  {
+    "id": 105,
+    "playerName": "Sehaj Cheema",
+    "playerType": "Batsman",
+    "points": 50,
+    "Team": "Royals"
+  },
+  {
+    "id": 106,
+    "playerName": "Niman Mutti",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "Royals"
+  },
+  {
+    "id": 107,
+    "playerName": "Armanjot Brar",
+    "playerType": "Bowler",
+    "points": 50,
+    "Team": "Royals"
+  },
+  {
+    "id": 108,
+    "playerName": "Balpreet Singth",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "Royals"
+  },
+  {
+    "id": 109,
+    "playerName": "Harjinder dhillon",
+    "playerType": "WicketKeeper",
+    "points": 50,
+    "Team": "Royals"
+  },
+  {
+    "id": 110,
+    "playerName": "Bhushan Tipparaju",
+    "playerType": "AllRounder",
+    "points": 70,
+    "Team": "Tracy"
+  },
+  {
+    "id": 111,
+    "playerName": "Ambarish Ravi",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "Tracy"
+  },
+  {
+    "id": 112,
+    "playerName": "Kiran Vinnakota",
+    "playerType": "Batsman",
+    "points": 50,
+    "Team": "Tracy"
+  },
+  {
+    "id": 113,
+    "playerName": "Sandeep Rawat",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "Tracy"
+  },
+  {
+    "id": 114,
+    "playerName": "Sriram C",
+    "playerType": "Bowler",
+    "points": 50,
+    "Team": "Tracy"
+  },
+  {
+    "id": 115,
+    "playerName": "Arvindram Ramraj",
+    "playerType": "Batsman",
+    "points": 50,
+    "Team": "Tracy"
+  },
+  {
+    "id": 116,
+    "playerName": "Nirmal D",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "Tracy"
+  },
+  {
+    "id": 117,
+    "playerName": "Rajesh Ramasamy",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "Tracy"
+  },
+  {
+    "id": 118,
+    "playerName": "Sagar P",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "Tracy"
+  },
+  {
+    "id": 119,
+    "playerName": "Sivakumar Muthuraj",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "Tracy"
+  },
+  {
+    "id": 120,
+    "playerName": "Ranjitkumar Raju",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "Tracy"
+  },
+  {
+    "id": 121,
+    "playerName": "Shabarinath Reddy",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "Tracy"
+  },
+  {
+    "id": 122,
+    "playerName": "Pulla Manchala",
+    "playerType": "Batsman",
+    "points": 80,
+    "Team": "SanRamon"
+  },
+  {
+    "id": 123,
+    "playerName": "Jayachandra Reddy Tippaluri",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "SanRamon"
+  },
+  {
+    "id": 124,
+    "playerName": "Kunul Gottimukkula",
+    "playerType": "Batsman",
+    "points": 70,
+    "Team": "SanRamon"
+  },
+  {
+    "id": 125,
+    "playerName": "Ravi Kumar Pothireddy",
+    "playerType": "AllRounder",
+    "points": 70,
+    "Team": "SanRamon"
+  },
+  {
+    "id": 126,
+    "playerName": "Karthik Chowdary Namburu",
+    "playerType": "Batsman",
+    "points": 60,
+    "Team": "SanRamon"
+  },
+  {
+    "id": 127,
+    "playerName": "Srikanth Gummadi",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "SanRamon"
+  },
+  {
+    "id": 128,
+    "playerName": "Vijay Reddy Munagala",
+    "playerType": "Batsman",
+    "points": 50,
+    "Team": "SanRamon"
+  },
+  {
+    "id": 129,
+    "playerName": "Subrata Das",
+    "playerType": "AllRounder",
+    "points": 80,
+    "Team": "SanRamon"
+  },
+  {
+    "id": 130,
+    "playerName": "Tarun Kale",
+    "playerType": "Batsman",
+    "points": 60,
+    "Team": "SanRamon"
+  },
+  {
+    "id": 131,
+    "playerName": "Jitender Asija",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "SanRamon"
+  },
+  {
+    "id": 132,
+    "playerName": "Venkatavara Prasad Reddy Yannam",
+    "playerType": "Bowler",
+    "points": 50,
+    "Team": "SanRamon"
+  },
+  {
+    "id": 133,
+    "playerName": "Jagadeesan Sivaraman",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "SanRamon"
+  },
+  {
+    "id": 134,
+    "playerName": "Kathirvel Subramani",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "SanRamon"
+  },
+  {
+    "id": 135,
+    "playerName": "Kaushik Krishna",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "SanRamon"
+  },
+  {
+    "id": 136,
+    "playerName": "Shalin Bhatnagar",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "SanRamon"
+  },
+  {
+    "id": 137,
+    "playerName": "Rahul Agarwal",
+    "playerType": "Batsman",
+    "points": 50,
+    "Team": "VineYard Eagles"
+  },
+  {
+    "id": 138,
+    "playerName": "Hetang Shah",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "VineYard Eagles"
+  },
+  {
+    "id": 139,
+    "playerName": "Srinivas Nutalapati",
+    "playerType": "Batsman",
+    "points": 50,
+    "Team": "VineYard Eagles"
+  },
+  {
+    "id": 140,
+    "playerName": "Prem Kaliaperumal*",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "VineYard Eagles"
+  },
+  {
+    "id": 141,
+    "playerName": "Pravin Kalel",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "VineYard Eagles"
+  },
+  {
+    "id": 142,
+    "playerName": "Deepak Goklani",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "VineYard Eagles"
+  },
+  {
+    "id": 143,
+    "playerName": "Nihar Devella",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "VineYard Eagles"
+  },
+  {
+    "id": 144,
+    "playerName": "Bidun T",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "VineYard Eagles"
+  },
+  {
+    "id": 145,
+    "playerName": "Rajesh G",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "VineYard Eagles"
+  },
+  {
+    "id": 146,
+    "playerName": "Gopi Arimanda",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "VineYard Eagles"
+  },
+  {
+    "id": 147,
+    "playerName": "Kamal Chembath",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "VineYard Eagles"
+  },
+  {
+    "id": 148,
+    "playerName": "Chowdary Kb",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "VineYard Eagles"
+  },
+  {
+    "id": 149,
+    "playerName": "Rama Katakam",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "VineYard Eagles"
+  },
+  {
+    "id": 150,
+    "playerName": "Saideep Panguluri",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "VineYard Eagles"
+  },
+  {
+    "id": 151,
+    "playerName": "Kamal Chedambath",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "VineYard Eagles"
+  },
+  {
+    "id": 153,
+    "playerName": "Shailendra Mishra",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "Cordes"
+  },
+  {
+    "id": 154,
+    "playerName": "Paresh Deshpande",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "Cordes"
+  },
+  {
+    "id": 155,
+    "playerName": "Raghavendra Tenugu",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "Wicklund"
+  },
+  {
+    "id": 156,
+    "playerName": "Tejdeep Rattan",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "Royals"
+  },
+  {
+    "id": 157,
+    "playerName": "Surendra Amaranath Kanuri",
+    "playerType": "AllRounder",
+    "points": 50,
+    "Team": "Cordes"
+  }
+]
