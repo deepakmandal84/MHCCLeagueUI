@@ -10,9 +10,9 @@ import ManagerTeam from "./mainNav";
 const Routing = (
   <Router>
     <div>
-      <Route path="/" component={App} />
-      <Route path="/Team" component={ManagerTeam} />
-      <Route path="/TeamRank" component={TeamRank} />
+      <Route exact path="/" component={App} />
+      <Route name="showTeams" path="/Team/:teamId" component={ManagerTeam} />
+      <Route path="/Teams" component={TeamRank} />
     </div>
   </Router>
 );

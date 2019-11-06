@@ -42,20 +42,29 @@ class mainNav extends Component {
       emailId: "",
       teamPoints: 0,
       teamRank: 0,
-      showTeamPlayers: false
+      showTeamPlayers: true,
+      teamId: this.props.match.params.teamId
     };
   }
   componentDidMount() {
+    //var teamId = this.props.match.params.teamId;
     axios
-      .get("https://localhost:44360/userteam/7")
+      .get("https://localhost:44360/userteam/" + this.state.teamId)
       .then(res => {
         console.log(res.data);
         var teamdata = res.data;
+        let temptwith400 = teamdata.teamPoints + 400;
+        let formatedteamptwith400 = "(" + teamdata.teamPoints + "+400)";
+        let teamPts =
+          this.state.teamId > 9
+            ? temptwith400 + formatedteamptwith400
+            : teamdata.teamPoints;
         this.setState({
           playerList: teamdata.teamPlayersOutputs,
           managerName: teamdata.managerName,
-          teamPoints: teamdata.teamPoints,
-          teamRank: teamdata.teamRank
+          teamPoints: teamPts,
+          teamRank: teamdata.teamRank,
+          teamName: teamdata.teamName
         });
       })
       .catch(error => {
@@ -84,7 +93,7 @@ class mainNav extends Component {
   handleClick() {
     axios({
       method: "post",
-      url: "https://localhost:44360/UserTeam/7",
+      url: "https://localhost:44360/UserTeam/" + this.state.teamId,
       data: this.state.playerList
     }).then(function(response) {
       console.log(response.data);
@@ -123,11 +132,12 @@ class mainNav extends Component {
                 />
               ) : (
                 <TextField
-                  id="filled-email-input"
-                  label="TeamName"
-                  //type="email"
-                  name="email"
-                  autoComplete="email"
+                  id="standard-read-only-input"
+                  label="Team Name"
+                  value={this.state.teamName}
+                  InputProps={{
+                    readOnly: this.state.showTeamPlayers
+                  }}
                 />
               )}
             </Box>
@@ -195,7 +205,7 @@ class mainNav extends Component {
             )}
           </Grid>
         </Box>
-        {this.state.showTeamPlayers === true ? (
+        {this.state.showTeamPlayers === false ? (
           <Box>
             <Button
               variant="contained"

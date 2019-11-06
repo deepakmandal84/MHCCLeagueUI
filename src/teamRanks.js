@@ -3,11 +3,16 @@ import { makeStyles } from "@material-ui/core/styles";
 import Table from "@material-ui/core/Table";
 import TableBody from "@material-ui/core/TableBody";
 import TableCell from "@material-ui/core/TableCell";
+//import Link from "@material-ui/core/Link";
+import { Link } from "react-router-dom";
 //import TableHead from "@material-ui/core/TableHead";
 import TableRow from "@material-ui/core/TableRow";
 import Paper from "@material-ui/core/Paper";
 import axios from "axios";
 import Box from "@material-ui/core/Box";
+import teamRankData from "./teamRankData.json";
+import playerDataJson from "./players.json";
+
 //import Avatar from "@material-ui/core/Avatar";
 //import MultipleSelect from "./playerChip";
 //import Box from "@material-ui/core/Box";
@@ -29,19 +34,24 @@ const useStyles = makeStyles(theme => ({
 }));
 
 export default function TeamRank(props) {
+  const useJsonData = true;
   const classes = useStyles();
   const [teamRankData, setTeamRankData] = React.useState([]);
 
   React.useEffect(() => {
-    axios
-      .get("https://localhost:44360/TeamRank")
-      .then(res => {
-        console.log(res.data);
-        setTeamRankData(res.data);
-      })
-      .catch(error => {
-        console.log(error);
-      });
+    if (useJsonData) {
+      setTeamRankData(teamRankData);
+    } else {
+      axios
+        .get("https://localhost:44360/TeamRank")
+        .then(res => {
+          console.log(res.data);
+          setTeamRankData(res.data);
+        })
+        .catch(error => {
+          console.log(error);
+        });
+    }
   }, []);
 
   let counter = 1;
@@ -62,12 +72,17 @@ export default function TeamRank(props) {
                     key={plyr.id + plyr.teamName}
                     style={{ height: "30", padding: "0", nmargin: "0" }}
                   >
-                    <TableCell align="left">{plyr.teamRank}</TableCell>
+                    <TableCell align="left">
+                      <Link to={`/team/` + plyr.userDetailsId} href="#">
+                        {plyr.teamRank}
+                      </Link>
+                    </TableCell>
                     <TableCell align="left">{plyr.teamName}</TableCell>
+
+                    <TableCell align="left">{plyr.managerName}</TableCell>
                     <TableCell align="left">
                       {plyr.teamPoints == null ? 0 : plyr.teamPoints}
                     </TableCell>
-                    <TableCell align="left">{plyr.managerName}</TableCell>
                   </TableRow>
                 ))}
             </TableBody>

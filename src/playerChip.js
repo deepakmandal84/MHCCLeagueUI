@@ -55,13 +55,17 @@ export default function MultipleSelect(props) {
 
   const names =
     playerData &&
-    playerData.filter(a => {
-      if (a.playerType === props.PlayerType) {
-        return a;
-      } else if (props.PlayerType === "All") {
-        return a;
-      }
-    });
+    playerData
+      .filter(a => {
+        if (a.playerType === props.PlayerType) {
+          return a;
+        } else if (props.PlayerType === "All") {
+          return a;
+        }
+      })
+      .sort(function(a, b) {
+        return b.playerName - a.playerName;
+      });
   //const [personName, setPersonName] = React.useState([]);
 
   const getAvtaar = () => {

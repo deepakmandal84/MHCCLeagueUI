@@ -28,7 +28,7 @@ const useStyles = makeStyles(theme => ({
 
 export default function SimpleTable(props) {
   const classes = useStyles();
-  const useJsonData = true;
+  const useJsonData = false;
   const calculateTotal = (playerObj, playerNos, deleteplayer) => {
     props.calculateTeamTotal(playerObj, playerNos, deleteplayer);
   };
