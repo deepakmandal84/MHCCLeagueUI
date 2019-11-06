@@ -30,6 +30,8 @@ import { makeStyles } from "@material-ui/core/styles";
 import Button from "@material-ui/core/Button";
 import axios from "axios";
 import ManagersTeam from "./mangersTeam";
+import mgrTeamData from "./mgrteamData.json";
+import { Link } from "react-router-dom";
 
 class mainNav extends Component {
   constructor(props) {
@@ -43,33 +45,57 @@ class mainNav extends Component {
       teamPoints: 0,
       teamRank: 0,
       showTeamPlayers: true,
-      teamId: this.props.match.params.teamId
+      teamId: this.props.match.params.teamId,
+      useJson: true
     };
   }
   componentDidMount() {
     //var teamId = this.props.match.params.teamId;
-    axios
-      .get("https://localhost:44360/userteam/" + this.state.teamId)
-      .then(res => {
-        console.log(res.data);
-        var teamdata = res.data;
-        let temptwith400 = teamdata.teamPoints + 400;
-        let formatedteamptwith400 = "(" + teamdata.teamPoints + "+400)";
-        let teamPts =
-          this.state.teamId > 9
-            ? temptwith400 + formatedteamptwith400
-            : teamdata.teamPoints;
-        this.setState({
-          playerList: teamdata.teamPlayersOutputs,
-          managerName: teamdata.managerName,
-          teamPoints: teamPts,
-          teamRank: teamdata.teamRank,
-          teamName: teamdata.teamName
-        });
-      })
-      .catch(error => {
-        console.log(error);
+    if (this.state.useJson) {
+      let tD = mgrTeamData.filter(a => {
+        if (a.userDetailsId === Number(this.props.match.params.teamId)) {
+          return a;
+        }
+      })[0];
+      let temptwith400 = tD.teamPoints + 400;
+      let formatedteamptwith400 = "(" + tD.teamPoints + "+400)";
+      let teamPts =
+        this.props.match.params.teamId > 9
+          ? temptwith400 + formatedteamptwith400
+          : tD.teamPoints;
+      this.setState({
+        playerList: tD.teamPlayersOutputs,
+        managerName: tD.managerName,
+        teamPoints: teamPts,
+        teamRank: tD.teamRank,
+        teamName: tD.teamName
       });
+    } else {
+      axios
+        .get(
+          "https://localhost:44360/userteam/" + this.props.match.params.teamId
+        )
+        .then(res => {
+          console.log(res.data);
+          var teamdata = res.data;
+          let temptwith400 = teamdata.teamPoints + 400;
+          let formatedteamptwith400 = "(" + teamdata.teamPoints + "+400)";
+          let teamPts =
+            this.props.match.params.teamId > 9
+              ? temptwith400 + formatedteamptwith400
+              : teamdata.teamPoints;
+          this.setState({
+            playerList: teamdata.teamPlayersOutputs,
+            managerName: teamdata.managerName,
+            teamPoints: teamPts,
+            teamRank: teamdata.teamRank,
+            teamName: teamdata.teamName
+          });
+        })
+        .catch(error => {
+          console.log(error);
+        });
+    }
   }
   calculateTeamTotal(player, playerNo, deletePlayer) {
     var player = { ...player, PlayerNumber: playerNo };
@@ -103,9 +129,20 @@ class mainNav extends Component {
   render() {
     return (
       <div>
-        <b>Welcome to MHCC Fantasy Winter League</b>
+        {/* <b>Welcome to MHCC Fantasy Winter League</b> */}
         <Box display="flex" flexWrap="nowrap" justifyContent="center" p={0}>
           <Grid>
+            <Box
+              display="flex"
+              flexWrap="nowrap"
+              justifyContent="space-between"
+              p={0}
+            >
+              <Typography variant="h4">Team Details</Typography>
+              <Link to={`/teams`} href="#">
+                {"Back to Ranking"}
+              </Link>
+            </Box>
             <Box
               display="flex"
               flexWrap="nowrap"

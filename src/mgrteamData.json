@@ -1,0 +1,2263 @@
+[
+  {
+    "managerName": "\r\nPandiyarajan Subburaman",
+    "teamName": "Trophy Fighters",
+    "teamRank": 2,
+    "teamPoints": 1098,
+    "userDetailsId": 1,
+    "teamPlayersOutputs": [
+      {
+        "id": 1,
+        "userDetailsId": 1,
+        "playerName": "Manish Nair",
+        "playerType": "Batsman",
+        "playerListId": 52,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": -4,
+        "isActive": true
+      },
+      {
+        "id": 2,
+        "userDetailsId": 1,
+        "playerName": "Mani Janakiraman",
+        "playerType": "Batsman",
+        "playerListId": 42,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 70,
+        "isActive": true
+      },
+      {
+        "id": 3,
+        "userDetailsId": 1,
+        "playerName": "Vivekan Kumar",
+        "playerType": "Batsman",
+        "playerListId": 86,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 25,
+        "isActive": true
+      },
+      {
+        "id": 4,
+        "userDetailsId": 1,
+        "playerName": "Murthy Pitta",
+        "playerType": "Batsman",
+        "playerListId": 75,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 46,
+        "isActive": true
+      },
+      {
+        "id": 5,
+        "userDetailsId": 1,
+        "playerName": "Supreet Singh",
+        "playerType": "AllRounder",
+        "playerListId": 22,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 227,
+        "isActive": true
+      },
+      {
+        "id": 6,
+        "userDetailsId": 1,
+        "playerName": "Pandian S",
+        "playerType": "AllRounder",
+        "playerListId": 50,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 34,
+        "isActive": true
+      },
+      {
+        "id": 7,
+        "userDetailsId": 1,
+        "playerName": "Rajesh Patel",
+        "playerType": "Bowler",
+        "playerListId": 3,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 112,
+        "isActive": true
+      },
+      {
+        "id": 8,
+        "userDetailsId": 1,
+        "playerName": "Visu Somepalli",
+        "playerType": "Bowler",
+        "playerListId": 25,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 140,
+        "isActive": true
+      },
+      {
+        "id": 9,
+        "userDetailsId": 1,
+        "playerName": "Vijay Kumar Rebbala",
+        "playerType": "Bowler",
+        "playerListId": 63,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 21,
+        "isActive": true
+      },
+      {
+        "id": 10,
+        "userDetailsId": 1,
+        "playerName": "Ananth Gollapudi",
+        "playerType": "Bowler",
+        "playerListId": 41,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 126,
+        "isActive": true
+      },
+      {
+        "id": 11,
+        "userDetailsId": 1,
+        "playerName": "Bhargava Chavali",
+        "playerType": "Bowler",
+        "playerListId": 23,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 301,
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "managerName": "Abhishek Mogre",
+    "teamName": "GOAT 11",
+    "teamRank": 5,
+    "teamPoints": 960,
+    "userDetailsId": 3,
+    "teamPlayersOutputs": [
+      {
+        "id": 12,
+        "userDetailsId": 3,
+        "playerName": "Gaurav Jain",
+        "playerType": "Batsman",
+        "playerListId": 17,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 55,
+        "isActive": true
+      },
+      {
+        "id": 13,
+        "userDetailsId": 3,
+        "playerName": "Mani Janakiraman",
+        "playerType": "Batsman",
+        "playerListId": 42,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 70,
+        "isActive": true
+      },
+      {
+        "id": 14,
+        "userDetailsId": 3,
+        "playerName": "Susheel Shinde",
+        "playerType": "Batsman",
+        "playerListId": 68,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 6,
+        "isActive": true
+      },
+      {
+        "id": 15,
+        "userDetailsId": 3,
+        "playerName": "Abhishek Mogre",
+        "playerType": "Batsman",
+        "playerListId": 62,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 25,
+        "isActive": true
+      },
+      {
+        "id": 16,
+        "userDetailsId": 3,
+        "playerName": "Santosh Mahajan",
+        "playerType": "AllRounder",
+        "playerListId": 38,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 122,
+        "isActive": true
+      },
+      {
+        "id": 17,
+        "userDetailsId": 3,
+        "playerName": "Suresh Krishna",
+        "playerType": "AllRounder",
+        "playerListId": 26,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": -1,
+        "isActive": true
+      },
+      {
+        "id": 18,
+        "userDetailsId": 3,
+        "playerName": "Surya Nanduri",
+        "playerType": "AllRounder",
+        "playerListId": 45,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 247,
+        "isActive": true
+      },
+      {
+        "id": 19,
+        "userDetailsId": 3,
+        "playerName": "Srinivas Jonnalagadda",
+        "playerType": "Bowler",
+        "playerListId": 36,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 120,
+        "isActive": true
+      },
+      {
+        "id": 20,
+        "userDetailsId": 3,
+        "playerName": "Rajesh Gunda",
+        "playerType": "Bowler",
+        "playerListId": 13,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 200,
+        "isActive": true
+      },
+      {
+        "id": 21,
+        "userDetailsId": 3,
+        "playerName": "Ananth Gollapudi",
+        "playerType": "Bowler",
+        "playerListId": 41,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 126,
+        "isActive": true
+      },
+      {
+        "id": 22,
+        "userDetailsId": 3,
+        "playerName": "Armanjot Brar",
+        "playerType": "Bowler",
+        "playerListId": 107,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": -10,
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "managerName": "Shriniwas Phalke",
+    "teamName": "shriniwas phalke team",
+    "teamRank": 4,
+    "teamPoints": 1025,
+    "userDetailsId": 4,
+    "teamPlayersOutputs": [
+      {
+        "id": 23,
+        "userDetailsId": 4,
+        "playerName": "Mani Janakiraman",
+        "playerType": "Batsman",
+        "playerListId": 42,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 70,
+        "isActive": true
+      },
+      {
+        "id": 24,
+        "userDetailsId": 4,
+        "playerName": "Sankar Rathnasamy",
+        "playerType": "Batsman",
+        "playerListId": 51,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 105,
+        "isActive": true
+      },
+      {
+        "id": 25,
+        "userDetailsId": 4,
+        "playerName": "Vishwanath Peddyreddy",
+        "playerType": "Batsman",
+        "playerListId": 47,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 42,
+        "isActive": true
+      },
+      {
+        "id": 26,
+        "userDetailsId": 4,
+        "playerName": "Sudheer Varma Rudraraju",
+        "playerType": "Batsman",
+        "playerListId": 72,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 34,
+        "isActive": true
+      },
+      {
+        "id": 27,
+        "userDetailsId": 4,
+        "playerName": "Shashidhar MS",
+        "playerType": "AllRounder",
+        "playerListId": 34,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 160,
+        "isActive": true
+      },
+      {
+        "id": 28,
+        "userDetailsId": 4,
+        "playerName": "Santosh Mahajan",
+        "playerType": "AllRounder",
+        "playerListId": 38,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 122,
+        "isActive": true
+      },
+      {
+        "id": 29,
+        "userDetailsId": 4,
+        "playerName": "Robin M",
+        "playerType": "AllRounder",
+        "playerListId": 57,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 19,
+        "isActive": true
+      },
+      {
+        "id": 30,
+        "userDetailsId": 4,
+        "playerName": "Nikunj Natu",
+        "playerType": "Bowler",
+        "playerListId": 15,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 234,
+        "isActive": true
+      },
+      {
+        "id": 31,
+        "userDetailsId": 4,
+        "playerName": "Ananth Gollapudi",
+        "playerType": "Bowler",
+        "playerListId": 41,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 126,
+        "isActive": true
+      },
+      {
+        "id": 32,
+        "userDetailsId": 4,
+        "playerName": "Naresh Kumar Paturi",
+        "playerType": "Bowler",
+        "playerListId": 21,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 74,
+        "isActive": true
+      },
+      {
+        "id": 33,
+        "userDetailsId": 4,
+        "playerName": "Varaprasad Perambudoori",
+        "playerType": "Bowler",
+        "playerListId": 8,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 39,
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "managerName": "Santosh Bhargav",
+    "teamName": "ChakDe MHCC XI",
+    "teamRank": 10,
+    "teamPoints": 852,
+    "userDetailsId": 5,
+    "teamPlayersOutputs": [
+      {
+        "id": 34,
+        "userDetailsId": 5,
+        "playerName": "Vivekan Kumar",
+        "playerType": "Batsman",
+        "playerListId": 86,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 25,
+        "isActive": true
+      },
+      {
+        "id": 35,
+        "userDetailsId": 5,
+        "playerName": "Naveen Kanumuri",
+        "playerType": "Batsman",
+        "playerListId": 59,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 42,
+        "isActive": true
+      },
+      {
+        "id": 36,
+        "userDetailsId": 5,
+        "playerName": "Brijesh Chavda",
+        "playerType": "Batsman",
+        "playerListId": 29,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 0,
+        "isActive": true
+      },
+      {
+        "id": 37,
+        "userDetailsId": 5,
+        "playerName": "Mani Janakiraman",
+        "playerType": "Batsman",
+        "playerListId": 42,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 70,
+        "isActive": true
+      },
+      {
+        "id": 38,
+        "userDetailsId": 5,
+        "playerName": "Robin M",
+        "playerType": "AllRounder",
+        "playerListId": 57,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 19,
+        "isActive": true
+      },
+      {
+        "id": 39,
+        "userDetailsId": 5,
+        "playerName": "Shashidhar MS",
+        "playerType": "AllRounder",
+        "playerListId": 34,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 160,
+        "isActive": true
+      },
+      {
+        "id": 40,
+        "userDetailsId": 5,
+        "playerName": "Kartik Pasumarti",
+        "playerType": "WicketKeeper",
+        "playerListId": 39,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 60,
+        "isActive": true
+      },
+      {
+        "id": 41,
+        "userDetailsId": 5,
+        "playerName": "Jyoti Nayak",
+        "playerType": "Bowler",
+        "playerListId": 2,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 210,
+        "isActive": true
+      },
+      {
+        "id": 42,
+        "userDetailsId": 5,
+        "playerName": "Ananth Gollapudi",
+        "playerType": "Bowler",
+        "playerListId": 41,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 126,
+        "isActive": true
+      },
+      {
+        "id": 43,
+        "userDetailsId": 5,
+        "playerName": "Visu Somepalli",
+        "playerType": "Bowler",
+        "playerListId": 25,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 140,
+        "isActive": true
+      },
+      {
+        "id": 44,
+        "userDetailsId": 5,
+        "playerName": "Satya Akella",
+        "playerType": "Bowler",
+        "playerListId": 19,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 0,
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "managerName": "Krishnan Venkatraman",
+    "teamName": "Chennai Kings",
+    "teamRank": 12,
+    "teamPoints": 823,
+    "userDetailsId": 6,
+    "teamPlayersOutputs": [
+      {
+        "id": 45,
+        "userDetailsId": 6,
+        "playerName": "Gaurav Jain",
+        "playerType": "Batsman",
+        "playerListId": 17,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 55,
+        "isActive": true
+      },
+      {
+        "id": 46,
+        "userDetailsId": 6,
+        "playerName": "Vishwanath Peddyreddy",
+        "playerType": "Batsman",
+        "playerListId": 47,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 42,
+        "isActive": true
+      },
+      {
+        "id": 47,
+        "userDetailsId": 6,
+        "playerName": "Sankar Rathnasamy",
+        "playerType": "Batsman",
+        "playerListId": 51,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 105,
+        "isActive": true
+      },
+      {
+        "id": 48,
+        "userDetailsId": 6,
+        "playerName": "Rutesh Desai",
+        "playerType": "Batsman",
+        "playerListId": 61,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": -9,
+        "isActive": true
+      },
+      {
+        "id": 49,
+        "userDetailsId": 6,
+        "playerName": "Pandian S",
+        "playerType": "AllRounder",
+        "playerListId": 50,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 34,
+        "isActive": true
+      },
+      {
+        "id": 50,
+        "userDetailsId": 6,
+        "playerName": "Rajesh Ramasamy",
+        "playerType": "AllRounder",
+        "playerListId": 117,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 20,
+        "isActive": true
+      },
+      {
+        "id": 51,
+        "userDetailsId": 6,
+        "playerName": "Manish Nair",
+        "playerType": "Batsman",
+        "playerListId": 52,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": -4,
+        "isActive": true
+      },
+      {
+        "id": 52,
+        "userDetailsId": 6,
+        "playerName": "Jyoti Nayak",
+        "playerType": "Bowler",
+        "playerListId": 2,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 210,
+        "isActive": true
+      },
+      {
+        "id": 53,
+        "userDetailsId": 6,
+        "playerName": "Visu Somepalli",
+        "playerType": "Bowler",
+        "playerListId": 25,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 140,
+        "isActive": true
+      },
+      {
+        "id": 54,
+        "userDetailsId": 6,
+        "playerName": "Ananth Gollapudi",
+        "playerType": "Bowler",
+        "playerListId": 41,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 126,
+        "isActive": true
+      },
+      {
+        "id": 55,
+        "userDetailsId": 6,
+        "playerName": "Samy Dharmalingam",
+        "playerType": "Bowler",
+        "playerListId": 37,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 104,
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "managerName": "Rajesh Patel",
+    "teamName": "Deadly11",
+    "teamRank": 1,
+    "teamPoints": 1126,
+    "userDetailsId": 7,
+    "teamPlayersOutputs": [
+      {
+        "id": 56,
+        "userDetailsId": 7,
+        "playerName": "Mani Janakiraman",
+        "playerType": "Batsman",
+        "playerListId": 42,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 70,
+        "isActive": true
+      },
+      {
+        "id": 57,
+        "userDetailsId": 7,
+        "playerName": "Deepak Mandal",
+        "playerType": "AllRounder",
+        "playerListId": 1,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 104,
+        "isActive": true
+      },
+      {
+        "id": 58,
+        "userDetailsId": 7,
+        "playerName": "Jaswinder Paul",
+        "playerType": "WicketKeeper",
+        "playerListId": 24,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 291,
+        "isActive": true
+      },
+      {
+        "id": 59,
+        "userDetailsId": 7,
+        "playerName": "Nikunj Natu",
+        "playerType": "Bowler",
+        "playerListId": 15,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 234,
+        "isActive": true
+      },
+      {
+        "id": 60,
+        "userDetailsId": 7,
+        "playerName": "Visu Somepalli",
+        "playerType": "Bowler",
+        "playerListId": 25,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 140,
+        "isActive": true
+      },
+      {
+        "id": 61,
+        "userDetailsId": 7,
+        "playerName": "Vishal Sadaphal",
+        "playerType": "Batsman",
+        "playerListId": 76,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 90,
+        "isActive": true
+      },
+      {
+        "id": 62,
+        "userDetailsId": 7,
+        "playerName": "Brijesh Chavda",
+        "playerType": "Batsman",
+        "playerListId": 29,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 0,
+        "isActive": true
+      },
+      {
+        "id": 63,
+        "userDetailsId": 7,
+        "playerName": "Jerome John",
+        "playerType": "Batsman",
+        "playerListId": 66,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 45,
+        "isActive": true
+      },
+      {
+        "id": 64,
+        "userDetailsId": 7,
+        "playerName": "Armanjot Brar",
+        "playerType": "Bowler",
+        "playerListId": 107,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": -10,
+        "isActive": true
+      },
+      {
+        "id": 65,
+        "userDetailsId": 7,
+        "playerName": "Deepak Goklani",
+        "playerType": "AllRounder",
+        "playerListId": 142,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 36,
+        "isActive": true
+      },
+      {
+        "id": 66,
+        "userDetailsId": 7,
+        "playerName": "Ananth Gollapudi",
+        "playerType": "Bowler",
+        "playerListId": 41,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 126,
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "managerName": "Srikanth Mallu",
+    "teamName": "GOT11",
+    "teamRank": 3,
+    "teamPoints": 1063,
+    "userDetailsId": 8,
+    "teamPlayersOutputs": [
+      {
+        "id": 78,
+        "userDetailsId": 8,
+        "playerName": "Mani Janakiraman",
+        "playerType": "Batsman",
+        "playerListId": 42,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 70,
+        "isActive": true
+      },
+      {
+        "id": 79,
+        "userDetailsId": 8,
+        "playerName": "Murthy Pitta",
+        "playerType": "Batsman",
+        "playerListId": 75,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 46,
+        "isActive": true
+      },
+      {
+        "id": 80,
+        "userDetailsId": 8,
+        "playerName": "Vishwanath Peddyreddy",
+        "playerType": "Batsman",
+        "playerListId": 47,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 42,
+        "isActive": true
+      },
+      {
+        "id": 81,
+        "userDetailsId": 8,
+        "playerName": "Susheel Shinde",
+        "playerType": "Batsman",
+        "playerListId": 68,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 6,
+        "isActive": true
+      },
+      {
+        "id": 82,
+        "userDetailsId": 8,
+        "playerName": "Supreet Singh",
+        "playerType": "AllRounder",
+        "playerListId": 22,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 227,
+        "isActive": true
+      },
+      {
+        "id": 83,
+        "userDetailsId": 8,
+        "playerName": "Deepak Mandal",
+        "playerType": "AllRounder",
+        "playerListId": 1,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 104,
+        "isActive": true
+      },
+      {
+        "id": 84,
+        "userDetailsId": 8,
+        "playerName": "Harish Chencharla",
+        "playerType": "AllRounder",
+        "playerListId": 65,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 27,
+        "isActive": true
+      },
+      {
+        "id": 85,
+        "userDetailsId": 8,
+        "playerName": "Tejeshwar Reddy",
+        "playerType": "Bowler",
+        "playerListId": 32,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 41,
+        "isActive": true
+      },
+      {
+        "id": 86,
+        "userDetailsId": 8,
+        "playerName": "Visu Somepalli",
+        "playerType": "Bowler",
+        "playerListId": 25,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 140,
+        "isActive": true
+      },
+      {
+        "id": 87,
+        "userDetailsId": 8,
+        "playerName": "Ananth Gollapudi",
+        "playerType": "Bowler",
+        "playerListId": 41,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 126,
+        "isActive": true
+      },
+      {
+        "id": 88,
+        "userDetailsId": 8,
+        "playerName": "Nikunj Natu",
+        "playerType": "Bowler",
+        "playerListId": 15,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 234,
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "managerName": "Santosh Mahajan",
+    "teamName": "MH Cowboys",
+    "teamRank": 16,
+    "teamPoints": 724,
+    "userDetailsId": 9,
+    "teamPlayersOutputs": [
+      {
+        "id": 89,
+        "userDetailsId": 9,
+        "playerName": "Saurabh Kulkarni",
+        "playerType": "Batsman",
+        "playerListId": 27,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 0,
+        "isActive": true
+      },
+      {
+        "id": 90,
+        "userDetailsId": 9,
+        "playerName": "Mani Janakiraman",
+        "playerType": "Batsman",
+        "playerListId": 42,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 70,
+        "isActive": true
+      },
+      {
+        "id": 91,
+        "userDetailsId": 9,
+        "playerName": "Vivekan Kumar",
+        "playerType": "Batsman",
+        "playerListId": 86,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 25,
+        "isActive": true
+      },
+      {
+        "id": 92,
+        "userDetailsId": 9,
+        "playerName": "Abhishek Mogre",
+        "playerType": "Batsman",
+        "playerListId": 62,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 25,
+        "isActive": true
+      },
+      {
+        "id": 93,
+        "userDetailsId": 9,
+        "playerName": "Santosh Mahajan",
+        "playerType": "AllRounder",
+        "playerListId": 38,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 122,
+        "isActive": true
+      },
+      {
+        "id": 94,
+        "userDetailsId": 9,
+        "playerName": "Srinivas Karpe",
+        "playerType": "AllRounder",
+        "playerListId": 40,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 0,
+        "isActive": true
+      },
+      {
+        "id": 95,
+        "userDetailsId": 9,
+        "playerName": "Naveen Kanumuri",
+        "playerType": "Batsman",
+        "playerListId": 59,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 42,
+        "isActive": true
+      },
+      {
+        "id": 96,
+        "userDetailsId": 9,
+        "playerName": "Rajesh Patel",
+        "playerType": "Bowler",
+        "playerListId": 3,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 112,
+        "isActive": true
+      },
+      {
+        "id": 97,
+        "userDetailsId": 9,
+        "playerName": "Nikunj Natu",
+        "playerType": "Bowler",
+        "playerListId": 15,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 234,
+        "isActive": true
+      },
+      {
+        "id": 98,
+        "userDetailsId": 9,
+        "playerName": "Samy Dharmalingam",
+        "playerType": "Bowler",
+        "playerListId": 37,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 104,
+        "isActive": true
+      },
+      {
+        "id": 99,
+        "userDetailsId": 9,
+        "playerName": "Armanjot Brar",
+        "playerType": "Bowler",
+        "playerListId": 107,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": -10,
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "managerName": "Sharad Unni",
+    "teamName": "Sharad 11",
+    "teamRank": 6,
+    "teamPoints": 517,
+    "userDetailsId": 10,
+    "teamPlayersOutputs": [
+      {
+        "id": 100,
+        "userDetailsId": 10,
+        "playerName": "Gaurav Jain",
+        "playerType": "Batsman",
+        "playerListId": 17,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 53,
+        "isActive": true
+      },
+      {
+        "id": 101,
+        "userDetailsId": 10,
+        "playerName": "Shriniwas Phalke",
+        "playerType": "Batsman",
+        "playerListId": 12,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 52,
+        "isActive": true
+      },
+      {
+        "id": 102,
+        "userDetailsId": 10,
+        "playerName": "Murthy Pitta",
+        "playerType": "Batsman",
+        "playerListId": 75,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 46,
+        "isActive": true
+      },
+      {
+        "id": 103,
+        "userDetailsId": 10,
+        "playerName": "Goutam Muddana",
+        "playerType": "Batsman",
+        "playerListId": 94,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 32,
+        "isActive": true
+      },
+      {
+        "id": 104,
+        "userDetailsId": 10,
+        "playerName": "Robin M",
+        "playerType": "AllRounder",
+        "playerListId": 57,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 17,
+        "isActive": true
+      },
+      {
+        "id": 105,
+        "userDetailsId": 10,
+        "playerName": "Shashidhar MS",
+        "playerType": "AllRounder",
+        "playerListId": 34,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 10,
+        "isActive": true
+      },
+      {
+        "id": 106,
+        "userDetailsId": 10,
+        "playerName": "Sharad Unni",
+        "playerType": "Batsman",
+        "playerListId": 48,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 50,
+        "isActive": true
+      },
+      {
+        "id": 107,
+        "userDetailsId": 10,
+        "playerName": "Nikunj Natu",
+        "playerType": "Bowler",
+        "playerListId": 15,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 160,
+        "isActive": true
+      },
+      {
+        "id": 108,
+        "userDetailsId": 10,
+        "playerName": "Visu Somepalli",
+        "playerType": "Bowler",
+        "playerListId": 25,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 40,
+        "isActive": true
+      },
+      {
+        "id": 109,
+        "userDetailsId": 10,
+        "playerName": "Ananth Gollapudi",
+        "playerType": "Bowler",
+        "playerListId": 41,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 16,
+        "isActive": true
+      },
+      {
+        "id": 110,
+        "userDetailsId": 10,
+        "playerName": "Tejeshwar Reddy",
+        "playerType": "Bowler",
+        "playerListId": 32,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 41,
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "managerName": "Visu Somepalli",
+    "teamName": "MH Buddies",
+    "teamRank": 8,
+    "teamPoints": 471,
+    "userDetailsId": 11,
+    "teamPlayersOutputs": [
+      {
+        "id": 111,
+        "userDetailsId": 11,
+        "playerName": "Naveen Kanumuri",
+        "playerType": "Batsman",
+        "playerListId": 59,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 14,
+        "isActive": true
+      },
+      {
+        "id": 112,
+        "userDetailsId": 11,
+        "playerName": "Kiran Shanigaram",
+        "playerType": "Batsman",
+        "playerListId": 53,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 15,
+        "isActive": true
+      },
+      {
+        "id": 113,
+        "userDetailsId": 11,
+        "playerName": "Mani Janakiraman",
+        "playerType": "Batsman",
+        "playerListId": 42,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 9,
+        "isActive": true
+      },
+      {
+        "id": 114,
+        "userDetailsId": 11,
+        "playerName": "Susheel Shinde",
+        "playerType": "Batsman",
+        "playerListId": 68,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 1,
+        "isActive": true
+      },
+      {
+        "id": 115,
+        "userDetailsId": 11,
+        "playerName": "Surya Nanduri",
+        "playerType": "AllRounder",
+        "playerListId": 45,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 142,
+        "isActive": true
+      },
+      {
+        "id": 116,
+        "userDetailsId": 11,
+        "playerName": "Satyakant Chitturi",
+        "playerType": "AllRounder",
+        "playerListId": 9,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 22,
+        "isActive": true
+      },
+      {
+        "id": 117,
+        "userDetailsId": 11,
+        "playerName": "Siva Rambilli",
+        "playerType": "Bowler",
+        "playerListId": 35,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": -9,
+        "isActive": true
+      },
+      {
+        "id": 118,
+        "userDetailsId": 11,
+        "playerName": "Bhargava Chavali",
+        "playerType": "Bowler",
+        "playerListId": 23,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 191,
+        "isActive": true
+      },
+      {
+        "id": 119,
+        "userDetailsId": 11,
+        "playerName": "Ananth Gollapudi",
+        "playerType": "Bowler",
+        "playerListId": 41,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 16,
+        "isActive": true
+      },
+      {
+        "id": 120,
+        "userDetailsId": 11,
+        "playerName": "Srinivas Jonnalagadda",
+        "playerType": "Bowler",
+        "playerListId": 36,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 30,
+        "isActive": true
+      },
+      {
+        "id": 121,
+        "userDetailsId": 11,
+        "playerName": "Visu Somepalli",
+        "playerType": "Bowler",
+        "playerListId": 25,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 40,
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "managerName": "Vivek Chutke",
+    "teamName": "Chutke 11",
+    "teamRank": 18,
+    "teamPoints": 244,
+    "userDetailsId": 12,
+    "teamPlayersOutputs": [
+      {
+        "id": 67,
+        "userDetailsId": 12,
+        "playerName": "Mani Janakiraman",
+        "playerType": "Batsman",
+        "playerListId": 42,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 9,
+        "isActive": true
+      },
+      {
+        "id": 68,
+        "userDetailsId": 12,
+        "playerName": "Vivekan Kumar",
+        "playerType": "Batsman",
+        "playerListId": 86,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": -10,
+        "isActive": true
+      },
+      {
+        "id": 69,
+        "userDetailsId": 12,
+        "playerName": "Arvindram Ramraj",
+        "playerType": "Batsman",
+        "playerListId": 115,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 0,
+        "isActive": true
+      },
+      {
+        "id": 70,
+        "userDetailsId": 12,
+        "playerName": "Vivek Chutke",
+        "playerType": "Batsman",
+        "playerListId": 74,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 1,
+        "isActive": true
+      },
+      {
+        "id": 71,
+        "userDetailsId": 12,
+        "playerName": "Supreet Singh",
+        "playerType": "AllRounder",
+        "playerListId": 22,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 0,
+        "isActive": true
+      },
+      {
+        "id": 72,
+        "userDetailsId": 12,
+        "playerName": "Santosh Mahajan",
+        "playerType": "AllRounder",
+        "playerListId": 38,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 3,
+        "isActive": true
+      },
+      {
+        "id": 73,
+        "userDetailsId": 12,
+        "playerName": "Siva Rambilli",
+        "playerType": "Bowler",
+        "playerListId": 35,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": -9,
+        "isActive": true
+      },
+      {
+        "id": 74,
+        "userDetailsId": 12,
+        "playerName": "Visu Somepalli",
+        "playerType": "Bowler",
+        "playerListId": 25,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 40,
+        "isActive": true
+      },
+      {
+        "id": 75,
+        "userDetailsId": 12,
+        "playerName": "Ananth Gollapudi",
+        "playerType": "Bowler",
+        "playerListId": 41,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 16,
+        "isActive": true
+      },
+      {
+        "id": 76,
+        "userDetailsId": 12,
+        "playerName": "Nikunj Natu",
+        "playerType": "Bowler",
+        "playerListId": 15,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 160,
+        "isActive": true
+      },
+      {
+        "id": 77,
+        "userDetailsId": 12,
+        "playerName": "Samy Dharmalingam",
+        "playerType": "Bowler",
+        "playerListId": 37,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 34,
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "managerName": "Jyoti Nayak",
+    "teamName": "Jyoti's Spartans",
+    "teamRank": 7,
+    "teamPoints": 488,
+    "userDetailsId": 13,
+    "teamPlayersOutputs": [
+      {
+        "id": 199,
+        "userDetailsId": 13,
+        "playerName": "Mani Janakiraman",
+        "playerType": "Batsman",
+        "playerListId": 42,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 9,
+        "isActive": true
+      },
+      {
+        "id": 200,
+        "userDetailsId": 13,
+        "playerName": "Visva Balaji",
+        "playerType": "Batsman",
+        "playerListId": 73,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 61,
+        "isActive": true
+      },
+      {
+        "id": 201,
+        "userDetailsId": 13,
+        "playerName": "Sankar Rathnasamy",
+        "playerType": "Batsman",
+        "playerListId": 51,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 99,
+        "isActive": true
+      },
+      {
+        "id": 202,
+        "userDetailsId": 13,
+        "playerName": "Rutesh Desai",
+        "playerType": "Batsman",
+        "playerListId": 61,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 1,
+        "isActive": true
+      },
+      {
+        "id": 203,
+        "userDetailsId": 13,
+        "playerName": "Shashidhar MS",
+        "playerType": "AllRounder",
+        "playerListId": 34,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 10,
+        "isActive": true
+      },
+      {
+        "id": 204,
+        "userDetailsId": 13,
+        "playerName": "Satyakant Chitturi",
+        "playerType": "AllRounder",
+        "playerListId": 9,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 22,
+        "isActive": true
+      },
+      {
+        "id": 205,
+        "userDetailsId": 13,
+        "playerName": "Suresh Krishna",
+        "playerType": "AllRounder",
+        "playerListId": 26,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 6,
+        "isActive": true
+      },
+      {
+        "id": 206,
+        "userDetailsId": 13,
+        "playerName": "Ananth Gollapudi",
+        "playerType": "Bowler",
+        "playerListId": 41,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 16,
+        "isActive": true
+      },
+      {
+        "id": 207,
+        "userDetailsId": 13,
+        "playerName": "Bhargava Chavali",
+        "playerType": "Bowler",
+        "playerListId": 23,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 191,
+        "isActive": true
+      },
+      {
+        "id": 208,
+        "userDetailsId": 13,
+        "playerName": "Krishna Kumar",
+        "playerType": "Bowler",
+        "playerListId": 30,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 73,
+        "isActive": true
+      },
+      {
+        "id": 209,
+        "userDetailsId": 13,
+        "playerName": "Madhusudhan Gaade",
+        "playerType": "Bowler",
+        "playerListId": 58,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 0,
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "managerName": "Susheel Shinde",
+    "teamName": "Susheel's XI",
+    "teamRank": 19,
+    "teamPoints": 79,
+    "userDetailsId": 14,
+    "teamPlayersOutputs": [
+      {
+        "id": 122,
+        "userDetailsId": 14,
+        "playerName": "Mani Janakiraman",
+        "playerType": "Batsman",
+        "playerListId": 42,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 9,
+        "isActive": true
+      },
+      {
+        "id": 123,
+        "userDetailsId": 14,
+        "playerName": "Sudheer Varma Rudraraju",
+        "playerType": "Batsman",
+        "playerListId": 72,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": -10,
+        "isActive": true
+      },
+      {
+        "id": 124,
+        "userDetailsId": 14,
+        "playerName": "Vivekan Kumar",
+        "playerType": "Batsman",
+        "playerListId": 86,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": -10,
+        "isActive": true
+      },
+      {
+        "id": 125,
+        "userDetailsId": 14,
+        "playerName": "Brijesh Chavda",
+        "playerType": "Batsman",
+        "playerListId": 29,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 10,
+        "isActive": true
+      },
+      {
+        "id": 126,
+        "userDetailsId": 14,
+        "playerName": "Supreet Singh",
+        "playerType": "AllRounder",
+        "playerListId": 22,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 0,
+        "isActive": true
+      },
+      {
+        "id": 127,
+        "userDetailsId": 14,
+        "playerName": "Santosh Mahajan",
+        "playerType": "AllRounder",
+        "playerListId": 38,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 3,
+        "isActive": true
+      },
+      {
+        "id": 128,
+        "userDetailsId": 14,
+        "playerName": "Srinivas Karpe",
+        "playerType": "AllRounder",
+        "playerListId": 40,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 0,
+        "isActive": true
+      },
+      {
+        "id": 129,
+        "userDetailsId": 14,
+        "playerName": "Rajesh Patel",
+        "playerType": "Bowler",
+        "playerListId": 3,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 50,
+        "isActive": true
+      },
+      {
+        "id": 130,
+        "userDetailsId": 14,
+        "playerName": "Vijay Kumar Rebbala",
+        "playerType": "Bowler",
+        "playerListId": 63,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": -1,
+        "isActive": true
+      },
+      {
+        "id": 131,
+        "userDetailsId": 14,
+        "playerName": "Satya Akella",
+        "playerType": "Bowler",
+        "playerListId": 19,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 0,
+        "isActive": true
+      },
+      {
+        "id": 132,
+        "userDetailsId": 14,
+        "playerName": "Sriram C",
+        "playerType": "Bowler",
+        "playerListId": 114,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 28,
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "managerName": "Uday T",
+    "teamName": "Underdogs XI",
+    "teamRank": 14,
+    "teamPoints": 366,
+    "userDetailsId": 15,
+    "teamPlayersOutputs": [
+      {
+        "id": 133,
+        "userDetailsId": 15,
+        "playerName": "Gaurav Jain",
+        "playerType": "Batsman",
+        "playerListId": 17,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 53,
+        "isActive": true
+      },
+      {
+        "id": 134,
+        "userDetailsId": 15,
+        "playerName": "Arvindram Ramraj",
+        "playerType": "Batsman",
+        "playerListId": 115,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 0,
+        "isActive": true
+      },
+      {
+        "id": 135,
+        "userDetailsId": 15,
+        "playerName": "Jerome John",
+        "playerType": "Batsman",
+        "playerListId": 66,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 9,
+        "isActive": true
+      },
+      {
+        "id": 136,
+        "userDetailsId": 15,
+        "playerName": "Mani Janakiraman",
+        "playerType": "Batsman",
+        "playerListId": 42,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 9,
+        "isActive": true
+      },
+      {
+        "id": 137,
+        "userDetailsId": 15,
+        "playerName": "Parvindar Pelia",
+        "playerType": "AllRounder",
+        "playerListId": 18,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 82,
+        "isActive": true
+      },
+      {
+        "id": 138,
+        "userDetailsId": 15,
+        "playerName": "Abhishek Singh",
+        "playerType": "AllRounder",
+        "playerListId": 28,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 75,
+        "isActive": true
+      },
+      {
+        "id": 139,
+        "userDetailsId": 15,
+        "playerName": "Kartik Pasumarti",
+        "playerType": "WicketKeeper",
+        "playerListId": 39,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 21,
+        "isActive": true
+      },
+      {
+        "id": 140,
+        "userDetailsId": 15,
+        "playerName": "Ananth Gollapudi",
+        "playerType": "Bowler",
+        "playerListId": 41,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 16,
+        "isActive": true
+      },
+      {
+        "id": 141,
+        "userDetailsId": 15,
+        "playerName": "Krishna Kumar",
+        "playerType": "Bowler",
+        "playerListId": 30,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 73,
+        "isActive": true
+      },
+      {
+        "id": 142,
+        "userDetailsId": 15,
+        "playerName": "Sriram C",
+        "playerType": "Bowler",
+        "playerListId": 114,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 28,
+        "isActive": true
+      },
+      {
+        "id": 143,
+        "userDetailsId": 15,
+        "playerName": "Sahadev Vinukonda",
+        "playerType": "Bowler",
+        "playerListId": 14,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 0,
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "managerName": "Robin",
+    "teamName": "Robin XI",
+    "teamRank": 11,
+    "teamPoints": 450,
+    "userDetailsId": 16,
+    "teamPlayersOutputs": [
+      {
+        "id": 144,
+        "userDetailsId": 16,
+        "playerName": "Saurabh Kulkarni",
+        "playerType": "Batsman",
+        "playerListId": 27,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 0,
+        "isActive": true
+      },
+      {
+        "id": 145,
+        "userDetailsId": 16,
+        "playerName": "Sankar Rathnasamy",
+        "playerType": "Batsman",
+        "playerListId": 51,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 99,
+        "isActive": true
+      },
+      {
+        "id": 146,
+        "userDetailsId": 16,
+        "playerName": "Rajesh Sharma",
+        "playerType": "Batsman",
+        "playerListId": 69,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 0,
+        "isActive": true
+      },
+      {
+        "id": 147,
+        "userDetailsId": 16,
+        "playerName": "Vivekan Kumar",
+        "playerType": "Batsman",
+        "playerListId": 86,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": -10,
+        "isActive": true
+      },
+      {
+        "id": 148,
+        "userDetailsId": 16,
+        "playerName": "Shashidhar MS",
+        "playerType": "AllRounder",
+        "playerListId": 34,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 10,
+        "isActive": true
+      },
+      {
+        "id": 149,
+        "userDetailsId": 16,
+        "playerName": "Parvindar Pelia",
+        "playerType": "AllRounder",
+        "playerListId": 18,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 82,
+        "isActive": true
+      },
+      {
+        "id": 150,
+        "userDetailsId": 16,
+        "playerName": "Deepak Mandal",
+        "playerType": "AllRounder",
+        "playerListId": 1,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 94,
+        "isActive": true
+      },
+      {
+        "id": 151,
+        "userDetailsId": 16,
+        "playerName": "Nikunj Natu",
+        "playerType": "Bowler",
+        "playerListId": 15,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 160,
+        "isActive": true
+      },
+      {
+        "id": 152,
+        "userDetailsId": 16,
+        "playerName": "Ananth Gollapudi",
+        "playerType": "Bowler",
+        "playerListId": 41,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 16,
+        "isActive": true
+      },
+      {
+        "id": 153,
+        "userDetailsId": 16,
+        "playerName": "Sriharsha Ganti",
+        "playerType": "Bowler",
+        "playerListId": 60,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 0,
+        "isActive": true
+      },
+      {
+        "id": 154,
+        "userDetailsId": 16,
+        "playerName": "Vijay Kumar Rebbala",
+        "playerType": "Bowler",
+        "playerListId": 63,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": -1,
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "managerName": "Varaprasad",
+    "teamName": "MH-Avengers",
+    "teamRank": 17,
+    "teamPoints": 292,
+    "userDetailsId": 17,
+    "teamPlayersOutputs": [
+      {
+        "id": 188,
+        "userDetailsId": 17,
+        "playerName": "Sankar Rathnasamy",
+        "playerType": "Batsman",
+        "playerListId": 51,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 99,
+        "isActive": true
+      },
+      {
+        "id": 189,
+        "userDetailsId": 17,
+        "playerName": "Hari Gutlapalli",
+        "playerType": "Batsman",
+        "playerListId": 81,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 0,
+        "isActive": true
+      },
+      {
+        "id": 190,
+        "userDetailsId": 17,
+        "playerName": "Vivekan Kumar",
+        "playerType": "Batsman",
+        "playerListId": 86,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": -10,
+        "isActive": true
+      },
+      {
+        "id": 191,
+        "userDetailsId": 17,
+        "playerName": "Murthy Pitta",
+        "playerType": "Batsman",
+        "playerListId": 75,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 46,
+        "isActive": true
+      },
+      {
+        "id": 192,
+        "userDetailsId": 17,
+        "playerName": "Deepak Mandal",
+        "playerType": "AllRounder",
+        "playerListId": 1,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 94,
+        "isActive": true
+      },
+      {
+        "id": 193,
+        "userDetailsId": 17,
+        "playerName": "Srikanth Mallu",
+        "playerType": "AllRounder",
+        "playerListId": 46,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": -10,
+        "isActive": true
+      },
+      {
+        "id": 194,
+        "userDetailsId": 17,
+        "playerName": "Siva Rambilli",
+        "playerType": "Bowler",
+        "playerListId": 35,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": -9,
+        "isActive": true
+      },
+      {
+        "id": 195,
+        "userDetailsId": 17,
+        "playerName": "Varaprasad Perambudoori",
+        "playerType": "Bowler",
+        "playerListId": 8,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 27,
+        "isActive": true
+      },
+      {
+        "id": 196,
+        "userDetailsId": 17,
+        "playerName": "Vijay Kumar Rebbala",
+        "playerType": "Bowler",
+        "playerListId": 63,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": -1,
+        "isActive": true
+      },
+      {
+        "id": 197,
+        "userDetailsId": 17,
+        "playerName": "Ananth Gollapudi",
+        "playerType": "Bowler",
+        "playerListId": 41,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 16,
+        "isActive": true
+      },
+      {
+        "id": 198,
+        "userDetailsId": 17,
+        "playerName": "Visu Somepalli",
+        "playerType": "Bowler",
+        "playerListId": 25,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 40,
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "managerName": "Srini J",
+    "teamName": "Srini's XI",
+    "teamRank": 9,
+    "teamPoints": 468,
+    "userDetailsId": 18,
+    "teamPlayersOutputs": [
+      {
+        "id": 177,
+        "userDetailsId": 18,
+        "playerName": "Mani Janakiraman",
+        "playerType": "Batsman",
+        "playerListId": 42,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 9,
+        "isActive": true
+      },
+      {
+        "id": 178,
+        "userDetailsId": 18,
+        "playerName": "Vishal Sadaphal",
+        "playerType": "Batsman",
+        "playerListId": 76,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 48,
+        "isActive": true
+      },
+      {
+        "id": 179,
+        "userDetailsId": 18,
+        "playerName": "Sudheer Varma Rudraraju",
+        "playerType": "Batsman",
+        "playerListId": 72,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": -10,
+        "isActive": true
+      },
+      {
+        "id": 180,
+        "userDetailsId": 18,
+        "playerName": "Naveen Kanumuri",
+        "playerType": "Batsman",
+        "playerListId": 59,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 14,
+        "isActive": true
+      },
+      {
+        "id": 181,
+        "userDetailsId": 18,
+        "playerName": "Surya Nanduri",
+        "playerType": "AllRounder",
+        "playerListId": 45,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 142,
+        "isActive": true
+      },
+      {
+        "id": 182,
+        "userDetailsId": 18,
+        "playerName": "Santosh Mahajan",
+        "playerType": "AllRounder",
+        "playerListId": 38,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 3,
+        "isActive": true
+      },
+      {
+        "id": 183,
+        "userDetailsId": 18,
+        "playerName": "Amarnath Sreevatsa",
+        "playerType": "AllRounder",
+        "playerListId": 5,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 127,
+        "isActive": true
+      },
+      {
+        "id": 184,
+        "userDetailsId": 18,
+        "playerName": "Visu Somepalli",
+        "playerType": "Bowler",
+        "playerListId": 25,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 40,
+        "isActive": true
+      },
+      {
+        "id": 185,
+        "userDetailsId": 18,
+        "playerName": "Ananth Gollapudi",
+        "playerType": "Bowler",
+        "playerListId": 41,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 16,
+        "isActive": true
+      },
+      {
+        "id": 186,
+        "userDetailsId": 18,
+        "playerName": "Vijay Kumar Rebbala",
+        "playerType": "Bowler",
+        "playerListId": 63,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": -1,
+        "isActive": true
+      },
+      {
+        "id": 187,
+        "userDetailsId": 18,
+        "playerName": "Rajesh Gunda",
+        "playerType": "Bowler",
+        "playerListId": 13,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 80,
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "managerName": "Kartik Pasurmati",
+    "teamName": "KP-XI",
+    "teamRank": 13,
+    "teamPoints": 398,
+    "userDetailsId": 19,
+    "teamPlayersOutputs": [
+      {
+        "id": 166,
+        "userDetailsId": 19,
+        "playerName": "Navpreet Sahota",
+        "playerType": "Batsman",
+        "playerListId": 33,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": -10,
+        "isActive": true
+      },
+      {
+        "id": 167,
+        "userDetailsId": 19,
+        "playerName": "Jerome John",
+        "playerType": "Batsman",
+        "playerListId": 66,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 9,
+        "isActive": true
+      },
+      {
+        "id": 168,
+        "userDetailsId": 19,
+        "playerName": "Venkat Mylavarapu",
+        "playerType": "Batsman",
+        "playerListId": 64,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": -10,
+        "isActive": true
+      },
+      {
+        "id": 169,
+        "userDetailsId": 19,
+        "playerName": "Vivekan Kumar",
+        "playerType": "Batsman",
+        "playerListId": 86,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": -10,
+        "isActive": true
+      },
+      {
+        "id": 170,
+        "userDetailsId": 19,
+        "playerName": "Amarnath Sreevatsa",
+        "playerType": "AllRounder",
+        "playerListId": 5,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 127,
+        "isActive": true
+      },
+      {
+        "id": 171,
+        "userDetailsId": 19,
+        "playerName": "Supreet Singh",
+        "playerType": "AllRounder",
+        "playerListId": 22,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 0,
+        "isActive": true
+      },
+      {
+        "id": 172,
+        "userDetailsId": 19,
+        "playerName": "Visva Balaji",
+        "playerType": "Batsman",
+        "playerListId": 73,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 61,
+        "isActive": true
+      },
+      {
+        "id": 173,
+        "userDetailsId": 19,
+        "playerName": "Uday Tummala",
+        "playerType": "Bowler",
+        "playerListId": 20,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 130,
+        "isActive": true
+      },
+      {
+        "id": 174,
+        "userDetailsId": 19,
+        "playerName": "Sriram C",
+        "playerType": "Bowler",
+        "playerListId": 114,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 28,
+        "isActive": true
+      },
+      {
+        "id": 175,
+        "userDetailsId": 19,
+        "playerName": "Krishna Kumar",
+        "playerType": "Bowler",
+        "playerListId": 30,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 73,
+        "isActive": true
+      },
+      {
+        "id": 176,
+        "userDetailsId": 19,
+        "playerName": "Armanjot Brar",
+        "playerType": "Bowler",
+        "playerListId": 107,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 0,
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "managerName": "Satya Akela",
+    "teamName": "Dhoni XI",
+    "teamRank": 15,
+    "teamPoints": 325,
+    "userDetailsId": 20,
+    "teamPlayersOutputs": [
+      {
+        "id": 155,
+        "userDetailsId": 20,
+        "playerName": "Arvindram Ramraj",
+        "playerType": "Batsman",
+        "playerListId": 115,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 0,
+        "isActive": true
+      },
+      {
+        "id": 156,
+        "userDetailsId": 20,
+        "playerName": "Gaurav Jain",
+        "playerType": "Batsman",
+        "playerListId": 17,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 53,
+        "isActive": true
+      },
+      {
+        "id": 157,
+        "userDetailsId": 20,
+        "playerName": "Prasad Punati",
+        "playerType": "Batsman",
+        "playerListId": 85,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 25,
+        "isActive": true
+      },
+      {
+        "id": 158,
+        "userDetailsId": 20,
+        "playerName": "Vishal Sadaphal",
+        "playerType": "Batsman",
+        "playerListId": 76,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 48,
+        "isActive": true
+      },
+      {
+        "id": 159,
+        "userDetailsId": 20,
+        "playerName": "Supreet Singh",
+        "playerType": "AllRounder",
+        "playerListId": 22,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 0,
+        "isActive": true
+      },
+      {
+        "id": 160,
+        "userDetailsId": 20,
+        "playerName": "Satyakant Chitturi",
+        "playerType": "AllRounder",
+        "playerListId": 9,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 22,
+        "isActive": true
+      },
+      {
+        "id": 161,
+        "userDetailsId": 20,
+        "playerName": "Kartik Pasumarti",
+        "playerType": "WicketKeeper",
+        "playerListId": 39,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 21,
+        "isActive": true
+      },
+      {
+        "id": 162,
+        "userDetailsId": 20,
+        "playerName": "Waheed Mir",
+        "playerType": "Bowler",
+        "playerListId": 70,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 10,
+        "isActive": true
+      },
+      {
+        "id": 163,
+        "userDetailsId": 20,
+        "playerName": "Sahadev Vinukonda",
+        "playerType": "Bowler",
+        "playerListId": 14,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 0,
+        "isActive": true
+      },
+      {
+        "id": 164,
+        "userDetailsId": 20,
+        "playerName": "Ananth Gollapudi",
+        "playerType": "Bowler",
+        "playerListId": 41,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 16,
+        "isActive": true
+      },
+      {
+        "id": 165,
+        "userDetailsId": 20,
+        "playerName": "Uday Tummala",
+        "playerType": "Bowler",
+        "playerListId": 20,
+        "effectiveDate": "0001-01-01T00:00:00",
+        "points": 130,
+        "isActive": true
+      }
+    ]
+  }
+]
