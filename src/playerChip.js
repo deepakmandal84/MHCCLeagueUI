@@ -16,6 +16,7 @@ import Box from "@material-ui/core/Box";
 import Card from "./cardAuction.js";
 import { getThemeProps } from "@material-ui/styles";
 import axios from "axios";
+import FormHelperText from "@material-ui/core/FormHelperText";
 
 const useStyles = makeStyles(theme => ({
   root: {
@@ -30,12 +31,34 @@ const useStyles = makeStyles(theme => ({
 
 export default function MultipleSelect(props) {
   const classes = useStyles();
-  //const [playerData, setPlayerData] = React.useState(null);
+
   const [playerData, setPlayerData] = React.useState([]);
+  const names =
+    playerData &&
+    playerData
+      .filter(a => {
+        if (a.playerType === props.PlayerType) {
+          return a;
+        } else if (props.PlayerType === "All") {
+          return a;
+        }
+      })
+      .sort(function(a, b) {
+        return b.playerName - a.playerName;
+      });
+
+  const getPlayerDetails = name => {
+    //setPersonName(event.target.value);
+    const plyr = names.filter(a => a.playerName === name)[0];
+    return plyr;
+  };
+  //const [playerData, setPlayerData] = React.useState(null);
+
   const [player, setValues] = React.useState({
-    playerName: "",
-    id: "",
-    points: ""
+    name: props.playerName,
+    id: props.playerId,
+    playerValue: "",
+    error: props.error
   });
   React.useEffect(() => {
     if (props.useJson) {
@@ -53,19 +76,6 @@ export default function MultipleSelect(props) {
     }
   }, []);
 
-  const names =
-    playerData &&
-    playerData
-      .filter(a => {
-        if (a.playerType === props.PlayerType) {
-          return a;
-        } else if (props.PlayerType === "All") {
-          return a;
-        }
-      })
-      .sort(function(a, b) {
-        return b.playerName - a.playerName;
-      });
   //const [personName, setPersonName] = React.useState([]);
 
   const getAvtaar = () => {
@@ -82,9 +92,9 @@ export default function MultipleSelect(props) {
 
   const handleChange = event => {
     //setPersonName(event.target.value);
-    const plyr = names.filter(a => a.playerName === event.target.value)[0];
-
-    const a = 11;
+    let oldPlayer = { ...player };
+    let plyr = names.filter(a => a.playerName === event.target.value)[0];
+    plyr = { ...plyr, playerValue: plyr.points };
 
     setValues({
       ...player,
@@ -92,7 +102,7 @@ export default function MultipleSelect(props) {
       id: plyr.id,
       playerValue: plyr.points
     });
-    props.calculateTotal(plyr, props.PlayerNo);
+    props.calculateTotal(plyr, props.PlayerNo, false, oldPlayer);
   };
 
   const handleDelete = () => {
@@ -107,7 +117,11 @@ export default function MultipleSelect(props) {
 
   return (
     <Box display="flex" flexWrap="nowrap" justifyContent="space-between">
-      <Select value={player.name} onChange={handleChange}>
+      <Select
+        value={player.name}
+        onChange={handleChange}
+        error={props.playerError}
+      >
         {names &&
           names.map(name => (
             <MenuItem key={name.id} value={name.playerName}>
@@ -115,6 +129,7 @@ export default function MultipleSelect(props) {
             </MenuItem>
           ))}
       </Select>
+      {props.playerError && <FormHelperText>Already Selected</FormHelperText>}
       {player && player.playerName && (
         <Chip
           //icon={<SportsBaseballIcon />}

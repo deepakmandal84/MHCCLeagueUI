@@ -12,9 +12,11 @@
         "playerName": "Manish Nair",
         "playerType": "Batsman",
         "playerListId": 52,
+        "oldPlayerListId": 52,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": -9,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 90
       },
       {
         "id": 2,
@@ -22,9 +24,11 @@
         "playerName": "Mani Janakiraman",
         "playerType": "Batsman",
         "playerListId": 42,
+        "oldPlayerListId": 42,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 70,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 90
       },
       {
         "id": 3,
@@ -32,9 +36,11 @@
         "playerName": "Vivekan Kumar",
         "playerType": "Batsman",
         "playerListId": 86,
+        "oldPlayerListId": 86,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 30,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 70
       },
       {
         "id": 4,
@@ -42,9 +48,11 @@
         "playerName": "Murthy Pitta",
         "playerType": "Batsman",
         "playerListId": 75,
+        "oldPlayerListId": 75,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 46,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 60
       },
       {
         "id": 5,
@@ -52,9 +60,11 @@
         "playerName": "Supreet Singh",
         "playerType": "AllRounder",
         "playerListId": 22,
+        "oldPlayerListId": 22,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 400,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 130
       },
       {
         "id": 6,
@@ -62,9 +72,11 @@
         "playerName": "Pandian S",
         "playerType": "AllRounder",
         "playerListId": 50,
+        "oldPlayerListId": 50,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 64,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 70
       },
       {
         "id": 7,
@@ -72,9 +84,11 @@
         "playerName": "Rajesh Patel",
         "playerType": "Bowler",
         "playerListId": 3,
+        "oldPlayerListId": 3,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 246,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 150
       },
       {
         "id": 8,
@@ -82,9 +96,11 @@
         "playerName": "Visu Somepalli",
         "playerType": "Bowler",
         "playerListId": 25,
+        "oldPlayerListId": 25,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 230,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 100
       },
       {
         "id": 9,
@@ -92,9 +108,11 @@
         "playerName": "Vijay Kumar Rebbala",
         "playerType": "Bowler",
         "playerListId": 63,
+        "oldPlayerListId": 63,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 31,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 50
       },
       {
         "id": 10,
@@ -102,9 +120,11 @@
         "playerName": "Ananth Gollapudi",
         "playerType": "Bowler",
         "playerListId": 41,
+        "oldPlayerListId": 41,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 160,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 80
       },
       {
         "id": 11,
@@ -112,9 +132,11 @@
         "playerName": "Bhargava Chavali",
         "playerType": "Bowler",
         "playerListId": 23,
+        "oldPlayerListId": 23,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 412,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 110
       }
     ]
   },
@@ -131,9 +153,11 @@
         "playerName": "Gaurav Jain",
         "playerType": "Batsman",
         "playerListId": 17,
+        "oldPlayerListId": 17,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 55,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 130
       },
       {
         "id": 13,
@@ -141,9 +165,11 @@
         "playerName": "Mani Janakiraman",
         "playerType": "Batsman",
         "playerListId": 42,
+        "oldPlayerListId": 42,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 70,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 90
       },
       {
         "id": 14,
@@ -151,9 +177,11 @@
         "playerName": "Susheel Shinde",
         "playerType": "Batsman",
         "playerListId": 68,
+        "oldPlayerListId": 68,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 6,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 60
       },
       {
         "id": 15,
@@ -161,9 +189,11 @@
         "playerName": "Abhishek Mogre",
         "playerType": "Batsman",
         "playerListId": 62,
+        "oldPlayerListId": 62,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 38,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 70
       },
       {
         "id": 16,
@@ -171,9 +201,11 @@
         "playerName": "Santosh Mahajan",
         "playerType": "AllRounder",
         "playerListId": 38,
+        "oldPlayerListId": 38,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 127,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 80
       },
       {
         "id": 17,
@@ -181,9 +213,11 @@
         "playerName": "Suresh Krishna",
         "playerType": "AllRounder",
         "playerListId": 26,
+        "oldPlayerListId": 26,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 39,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 100
       },
       {
         "id": 18,
@@ -191,9 +225,11 @@
         "playerName": "Surya Nanduri",
         "playerType": "AllRounder",
         "playerListId": 45,
+        "oldPlayerListId": 45,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 326,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 130
       },
       {
         "id": 19,
@@ -201,9 +237,11 @@
         "playerName": "Srinivas Jonnalagadda",
         "playerType": "Bowler",
         "playerListId": 36,
+        "oldPlayerListId": 36,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 320,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 100
       },
       {
         "id": 20,
@@ -211,9 +249,11 @@
         "playerName": "Rajesh Gunda",
         "playerType": "Bowler",
         "playerListId": 13,
+        "oldPlayerListId": 13,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 203,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 110
       },
       {
         "id": 21,
@@ -221,9 +261,11 @@
         "playerName": "Ananth Gollapudi",
         "playerType": "Bowler",
         "playerListId": 41,
+        "oldPlayerListId": 41,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 160,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 80
       },
       {
         "id": 22,
@@ -231,9 +273,11 @@
         "playerName": "Armanjot Brar",
         "playerType": "Bowler",
         "playerListId": 107,
+        "oldPlayerListId": 107,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": -10,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 50
       }
     ]
   },
@@ -250,9 +294,11 @@
         "playerName": "Mani Janakiraman",
         "playerType": "Batsman",
         "playerListId": 42,
+        "oldPlayerListId": 42,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 70,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 90
       },
       {
         "id": 24,
@@ -260,9 +306,11 @@
         "playerName": "Sankar Rathnasamy",
         "playerType": "Batsman",
         "playerListId": 51,
+        "oldPlayerListId": 51,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 135,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 90
       },
       {
         "id": 25,
@@ -270,9 +318,11 @@
         "playerName": "Vishwanath Peddyreddy",
         "playerType": "Batsman",
         "playerListId": 47,
+        "oldPlayerListId": 47,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 72,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 70
       },
       {
         "id": 26,
@@ -280,9 +330,11 @@
         "playerName": "Sudheer Varma Rudraraju",
         "playerType": "Batsman",
         "playerListId": 72,
+        "oldPlayerListId": 72,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 28,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 80
       },
       {
         "id": 27,
@@ -290,9 +342,11 @@
         "playerName": "Shashidhar MS",
         "playerType": "AllRounder",
         "playerListId": 34,
+        "oldPlayerListId": 34,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 200,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 90
       },
       {
         "id": 28,
@@ -300,9 +354,11 @@
         "playerName": "Santosh Mahajan",
         "playerType": "AllRounder",
         "playerListId": 38,
+        "oldPlayerListId": 38,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 127,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 80
       },
       {
         "id": 29,
@@ -310,9 +366,11 @@
         "playerName": "Robin M",
         "playerType": "AllRounder",
         "playerListId": 57,
+        "oldPlayerListId": 57,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 44,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 70
       },
       {
         "id": 30,
@@ -320,9 +378,11 @@
         "playerName": "Nikunj Natu",
         "playerType": "Bowler",
         "playerListId": 15,
+        "oldPlayerListId": 15,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 326,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 120
       },
       {
         "id": 31,
@@ -330,9 +390,11 @@
         "playerName": "Ananth Gollapudi",
         "playerType": "Bowler",
         "playerListId": 41,
+        "oldPlayerListId": 41,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 160,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 80
       },
       {
         "id": 32,
@@ -340,9 +402,11 @@
         "playerName": "Naresh Kumar Paturi",
         "playerType": "Bowler",
         "playerListId": 21,
+        "oldPlayerListId": 21,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 74,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 110
       },
       {
         "id": 33,
@@ -350,9 +414,11 @@
         "playerName": "Varaprasad Perambudoori",
         "playerType": "Bowler",
         "playerListId": 8,
+        "oldPlayerListId": 8,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 89,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 120
       }
     ]
   },
@@ -369,9 +435,11 @@
         "playerName": "Vivekan Kumar",
         "playerType": "Batsman",
         "playerListId": 86,
+        "oldPlayerListId": 86,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 30,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 70
       },
       {
         "id": 35,
@@ -379,9 +447,11 @@
         "playerName": "Naveen Kanumuri",
         "playerType": "Batsman",
         "playerListId": 59,
+        "oldPlayerListId": 59,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 96,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 50
       },
       {
         "id": 36,
@@ -389,9 +459,11 @@
         "playerName": "Brijesh Chavda",
         "playerType": "Batsman",
         "playerListId": 29,
+        "oldPlayerListId": 29,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 4,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 110
       },
       {
         "id": 37,
@@ -399,9 +471,11 @@
         "playerName": "Mani Janakiraman",
         "playerType": "Batsman",
         "playerListId": 42,
+        "oldPlayerListId": 42,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 70,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 90
       },
       {
         "id": 38,
@@ -409,9 +483,11 @@
         "playerName": "Robin M",
         "playerType": "AllRounder",
         "playerListId": 57,
+        "oldPlayerListId": 57,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 44,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 70
       },
       {
         "id": 39,
@@ -419,9 +495,11 @@
         "playerName": "Shashidhar MS",
         "playerType": "AllRounder",
         "playerListId": 34,
+        "oldPlayerListId": 34,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 200,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 90
       },
       {
         "id": 40,
@@ -429,9 +507,11 @@
         "playerName": "Kartik Pasumarti",
         "playerType": "WicketKeeper",
         "playerListId": 39,
+        "oldPlayerListId": 39,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 52,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 80
       },
       {
         "id": 41,
@@ -439,9 +519,11 @@
         "playerName": "Jyoti Nayak",
         "playerType": "Bowler",
         "playerListId": 2,
+        "oldPlayerListId": 2,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 310,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 150
       },
       {
         "id": 42,
@@ -449,9 +531,11 @@
         "playerName": "Ananth Gollapudi",
         "playerType": "Bowler",
         "playerListId": 41,
+        "oldPlayerListId": 41,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 160,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 80
       },
       {
         "id": 43,
@@ -459,9 +543,11 @@
         "playerName": "Visu Somepalli",
         "playerType": "Bowler",
         "playerListId": 25,
+        "oldPlayerListId": 25,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 230,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 100
       },
       {
         "id": 44,
@@ -469,9 +555,11 @@
         "playerName": "Satya Akella",
         "playerType": "Bowler",
         "playerListId": 19,
+        "oldPlayerListId": 19,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": -7,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 100
       }
     ]
   },
@@ -488,9 +576,11 @@
         "playerName": "Gaurav Jain",
         "playerType": "Batsman",
         "playerListId": 17,
+        "oldPlayerListId": 17,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 55,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 130
       },
       {
         "id": 46,
@@ -498,9 +588,11 @@
         "playerName": "Vishwanath Peddyreddy",
         "playerType": "Batsman",
         "playerListId": 47,
+        "oldPlayerListId": 47,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 72,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 70
       },
       {
         "id": 47,
@@ -508,9 +600,11 @@
         "playerName": "Sankar Rathnasamy",
         "playerType": "Batsman",
         "playerListId": 51,
+        "oldPlayerListId": 51,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 135,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 90
       },
       {
         "id": 48,
@@ -518,9 +612,11 @@
         "playerName": "Rutesh Desai",
         "playerType": "Batsman",
         "playerListId": 61,
+        "oldPlayerListId": 61,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": -3,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 70
       },
       {
         "id": 49,
@@ -528,9 +624,11 @@
         "playerName": "Pandian S",
         "playerType": "AllRounder",
         "playerListId": 50,
+        "oldPlayerListId": 50,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 64,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 70
       },
       {
         "id": 50,
@@ -538,9 +636,11 @@
         "playerName": "Rajesh Ramasamy",
         "playerType": "AllRounder",
         "playerListId": 117,
+        "oldPlayerListId": 117,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 54,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 50
       },
       {
         "id": 51,
@@ -548,9 +648,11 @@
         "playerName": "Manish Nair",
         "playerType": "Batsman",
         "playerListId": 52,
+        "oldPlayerListId": 52,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": -9,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 90
       },
       {
         "id": 52,
@@ -558,9 +660,11 @@
         "playerName": "Jyoti Nayak",
         "playerType": "Bowler",
         "playerListId": 2,
+        "oldPlayerListId": 2,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 310,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 150
       },
       {
         "id": 53,
@@ -568,9 +672,11 @@
         "playerName": "Visu Somepalli",
         "playerType": "Bowler",
         "playerListId": 25,
+        "oldPlayerListId": 25,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 230,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 100
       },
       {
         "id": 54,
@@ -578,9 +684,11 @@
         "playerName": "Ananth Gollapudi",
         "playerType": "Bowler",
         "playerListId": 41,
+        "oldPlayerListId": 41,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 160,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 80
       },
       {
         "id": 55,
@@ -588,9 +696,11 @@
         "playerName": "Samy Dharmalingam",
         "playerType": "Bowler",
         "playerListId": 37,
+        "oldPlayerListId": 37,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 148,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 100
       }
     ]
   },
@@ -607,9 +717,11 @@
         "playerName": "Mani Janakiraman",
         "playerType": "Batsman",
         "playerListId": 42,
+        "oldPlayerListId": 42,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 70,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 90
       },
       {
         "id": 57,
@@ -617,9 +729,11 @@
         "playerName": "Deepak Mandal",
         "playerType": "AllRounder",
         "playerListId": 1,
+        "oldPlayerListId": 1,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 104,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 150
       },
       {
         "id": 58,
@@ -627,9 +741,11 @@
         "playerName": "Jaswinder Paul",
         "playerType": "WicketKeeper",
         "playerListId": 24,
+        "oldPlayerListId": 24,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 348,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 110
       },
       {
         "id": 59,
@@ -637,9 +753,11 @@
         "playerName": "Nikunj Natu",
         "playerType": "Bowler",
         "playerListId": 15,
+        "oldPlayerListId": 15,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 326,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 120
       },
       {
         "id": 60,
@@ -647,9 +765,11 @@
         "playerName": "Visu Somepalli",
         "playerType": "Bowler",
         "playerListId": 25,
+        "oldPlayerListId": 25,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 230,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 100
       },
       {
         "id": 61,
@@ -657,9 +777,11 @@
         "playerName": "Vishal Sadaphal",
         "playerType": "Batsman",
         "playerListId": 76,
+        "oldPlayerListId": 76,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 106,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 80
       },
       {
         "id": 62,
@@ -667,9 +789,11 @@
         "playerName": "Brijesh Chavda",
         "playerType": "Batsman",
         "playerListId": 29,
+        "oldPlayerListId": 29,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 4,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 110
       },
       {
         "id": 63,
@@ -677,9 +801,11 @@
         "playerName": "Jerome John",
         "playerType": "Batsman",
         "playerListId": 66,
+        "oldPlayerListId": 66,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 45,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 60
       },
       {
         "id": 64,
@@ -687,9 +813,11 @@
         "playerName": "Armanjot Brar",
         "playerType": "Bowler",
         "playerListId": 107,
+        "oldPlayerListId": 107,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": -10,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 50
       },
       {
         "id": 65,
@@ -697,9 +825,11 @@
         "playerName": "Deepak Goklani",
         "playerType": "AllRounder",
         "playerListId": 142,
+        "oldPlayerListId": 142,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 36,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 50
       },
       {
         "id": 66,
@@ -707,9 +837,11 @@
         "playerName": "Ananth Gollapudi",
         "playerType": "Bowler",
         "playerListId": 41,
+        "oldPlayerListId": 41,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 160,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 80
       }
     ]
   },
@@ -726,9 +858,11 @@
         "playerName": "Mani Janakiraman",
         "playerType": "Batsman",
         "playerListId": 42,
+        "oldPlayerListId": 42,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 70,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 90
       },
       {
         "id": 79,
@@ -736,9 +870,11 @@
         "playerName": "Murthy Pitta",
         "playerType": "Batsman",
         "playerListId": 75,
+        "oldPlayerListId": 75,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 46,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 60
       },
       {
         "id": 80,
@@ -746,9 +882,11 @@
         "playerName": "Vishwanath Peddyreddy",
         "playerType": "Batsman",
         "playerListId": 47,
+        "oldPlayerListId": 47,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 72,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 70
       },
       {
         "id": 81,
@@ -756,9 +894,11 @@
         "playerName": "Susheel Shinde",
         "playerType": "Batsman",
         "playerListId": 68,
+        "oldPlayerListId": 68,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 6,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 60
       },
       {
         "id": 82,
@@ -766,9 +906,11 @@
         "playerName": "Supreet Singh",
         "playerType": "AllRounder",
         "playerListId": 22,
+        "oldPlayerListId": 22,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 400,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 130
       },
       {
         "id": 83,
@@ -776,9 +918,11 @@
         "playerName": "Deepak Mandal",
         "playerType": "AllRounder",
         "playerListId": 1,
+        "oldPlayerListId": 1,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 104,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 150
       },
       {
         "id": 84,
@@ -786,9 +930,11 @@
         "playerName": "Harish Chencharla",
         "playerType": "AllRounder",
         "playerListId": 65,
+        "oldPlayerListId": 65,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 29,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 50
       },
       {
         "id": 85,
@@ -796,9 +942,11 @@
         "playerName": "Tejeshwar Reddy",
         "playerType": "Bowler",
         "playerListId": 32,
+        "oldPlayerListId": 32,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 132,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 90
       },
       {
         "id": 86,
@@ -806,9 +954,11 @@
         "playerName": "Visu Somepalli",
         "playerType": "Bowler",
         "playerListId": 25,
+        "oldPlayerListId": 25,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 230,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 100
       },
       {
         "id": 87,
@@ -816,9 +966,11 @@
         "playerName": "Ananth Gollapudi",
         "playerType": "Bowler",
         "playerListId": 41,
+        "oldPlayerListId": 41,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 160,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 80
       },
       {
         "id": 88,
@@ -826,9 +978,11 @@
         "playerName": "Nikunj Natu",
         "playerType": "Bowler",
         "playerListId": 15,
+        "oldPlayerListId": 15,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 326,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 120
       }
     ]
   },
@@ -845,9 +999,11 @@
         "playerName": "Sourabh Kulkarni",
         "playerType": "Batsman",
         "playerListId": 27,
+        "oldPlayerListId": 27,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 85,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 130
       },
       {
         "id": 90,
@@ -855,9 +1011,11 @@
         "playerName": "Mani Janakiraman",
         "playerType": "Batsman",
         "playerListId": 42,
+        "oldPlayerListId": 42,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 70,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 90
       },
       {
         "id": 91,
@@ -865,9 +1023,11 @@
         "playerName": "Vivekan Kumar",
         "playerType": "Batsman",
         "playerListId": 86,
+        "oldPlayerListId": 86,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 30,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 70
       },
       {
         "id": 92,
@@ -875,9 +1035,11 @@
         "playerName": "Abhishek Mogre",
         "playerType": "Batsman",
         "playerListId": 62,
+        "oldPlayerListId": 62,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 38,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 70
       },
       {
         "id": 93,
@@ -885,9 +1047,11 @@
         "playerName": "Santosh Mahajan",
         "playerType": "AllRounder",
         "playerListId": 38,
+        "oldPlayerListId": 38,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 127,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 80
       },
       {
         "id": 94,
@@ -895,9 +1059,11 @@
         "playerName": "Srinivas Karpe",
         "playerType": "AllRounder",
         "playerListId": 40,
+        "oldPlayerListId": 40,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 0,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 90
       },
       {
         "id": 95,
@@ -905,9 +1071,11 @@
         "playerName": "Naveen Kanumuri",
         "playerType": "Batsman",
         "playerListId": 59,
+        "oldPlayerListId": 59,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 96,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 50
       },
       {
         "id": 96,
@@ -915,9 +1083,11 @@
         "playerName": "Rajesh Patel",
         "playerType": "Bowler",
         "playerListId": 3,
+        "oldPlayerListId": 3,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 246,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 150
       },
       {
         "id": 97,
@@ -925,9 +1095,11 @@
         "playerName": "Nikunj Natu",
         "playerType": "Bowler",
         "playerListId": 15,
+        "oldPlayerListId": 15,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 326,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 120
       },
       {
         "id": 98,
@@ -935,9 +1107,11 @@
         "playerName": "Samy Dharmalingam",
         "playerType": "Bowler",
         "playerListId": 37,
+        "oldPlayerListId": 37,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 148,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 100
       },
       {
         "id": 99,
@@ -945,9 +1119,11 @@
         "playerName": "Armanjot Brar",
         "playerType": "Bowler",
         "playerListId": 107,
+        "oldPlayerListId": 107,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": -10,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 50
       }
     ]
   },
@@ -964,9 +1140,11 @@
         "playerName": "Gaurav Jain",
         "playerType": "Batsman",
         "playerListId": 17,
+        "oldPlayerListId": 17,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 53,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 130
       },
       {
         "id": 101,
@@ -974,9 +1152,11 @@
         "playerName": "Shriniwas Phalke",
         "playerType": "Batsman",
         "playerListId": 12,
+        "oldPlayerListId": 12,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 46,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 140
       },
       {
         "id": 102,
@@ -984,9 +1164,11 @@
         "playerName": "Murthy Pitta",
         "playerType": "Batsman",
         "playerListId": 75,
+        "oldPlayerListId": 75,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 46,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 60
       },
       {
         "id": 103,
@@ -994,9 +1176,11 @@
         "playerName": "Goutam Muddana",
         "playerType": "Batsman",
         "playerListId": 94,
+        "oldPlayerListId": 94,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 35,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 50
       },
       {
         "id": 104,
@@ -1004,9 +1188,11 @@
         "playerName": "Robin M",
         "playerType": "AllRounder",
         "playerListId": 57,
+        "oldPlayerListId": 57,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 42,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 70
       },
       {
         "id": 105,
@@ -1014,9 +1200,11 @@
         "playerName": "Shashidhar MS",
         "playerType": "AllRounder",
         "playerListId": 34,
+        "oldPlayerListId": 34,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 50,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 90
       },
       {
         "id": 106,
@@ -1024,9 +1212,11 @@
         "playerName": "Sharad Unni",
         "playerType": "Batsman",
         "playerListId": 48,
+        "oldPlayerListId": 48,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 51,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 60
       },
       {
         "id": 107,
@@ -1034,9 +1224,11 @@
         "playerName": "Nikunj Natu",
         "playerType": "Bowler",
         "playerListId": 15,
+        "oldPlayerListId": 15,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 252,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 120
       },
       {
         "id": 108,
@@ -1044,9 +1236,11 @@
         "playerName": "Visu Somepalli",
         "playerType": "Bowler",
         "playerListId": 25,
+        "oldPlayerListId": 25,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 130,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 100
       },
       {
         "id": 109,
@@ -1054,9 +1248,11 @@
         "playerName": "Ananth Gollapudi",
         "playerType": "Bowler",
         "playerListId": 41,
+        "oldPlayerListId": 41,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 50,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 80
       },
       {
         "id": 110,
@@ -1064,9 +1260,11 @@
         "playerName": "Tejeshwar Reddy",
         "playerType": "Bowler",
         "playerListId": 32,
+        "oldPlayerListId": 32,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 132,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 90
       }
     ]
   },
@@ -1083,9 +1281,11 @@
         "playerName": "Naveen Kanumuri",
         "playerType": "Batsman",
         "playerListId": 59,
+        "oldPlayerListId": 59,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 68,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 50
       },
       {
         "id": 112,
@@ -1093,9 +1293,11 @@
         "playerName": "Kiran Shanigaram",
         "playerType": "Batsman",
         "playerListId": 53,
+        "oldPlayerListId": 53,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 16,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 70
       },
       {
         "id": 113,
@@ -1103,9 +1305,11 @@
         "playerName": "Mani Janakiraman",
         "playerType": "Batsman",
         "playerListId": 42,
+        "oldPlayerListId": 42,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 9,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 90
       },
       {
         "id": 114,
@@ -1113,9 +1317,11 @@
         "playerName": "Susheel Shinde",
         "playerType": "Batsman",
         "playerListId": 68,
+        "oldPlayerListId": 68,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 1,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 60
       },
       {
         "id": 115,
@@ -1123,9 +1329,11 @@
         "playerName": "Surya Nanduri",
         "playerType": "AllRounder",
         "playerListId": 45,
+        "oldPlayerListId": 45,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 221,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 130
       },
       {
         "id": 116,
@@ -1133,9 +1341,11 @@
         "playerName": "Satyakant Chitturi",
         "playerType": "AllRounder",
         "playerListId": 9,
+        "oldPlayerListId": 9,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 12,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 110
       },
       {
         "id": 117,
@@ -1143,9 +1353,11 @@
         "playerName": "Siva Rambilli",
         "playerType": "Bowler",
         "playerListId": 35,
+        "oldPlayerListId": 35,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": -19,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 100
       },
       {
         "id": 118,
@@ -1153,9 +1365,11 @@
         "playerName": "Bhargava Chavali",
         "playerType": "Bowler",
         "playerListId": 23,
+        "oldPlayerListId": 23,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 302,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 110
       },
       {
         "id": 119,
@@ -1163,9 +1377,11 @@
         "playerName": "Ananth Gollapudi",
         "playerType": "Bowler",
         "playerListId": 41,
+        "oldPlayerListId": 41,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 50,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 80
       },
       {
         "id": 120,
@@ -1173,9 +1389,11 @@
         "playerName": "Srinivas Jonnalagadda",
         "playerType": "Bowler",
         "playerListId": 36,
+        "oldPlayerListId": 36,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 230,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 100
       },
       {
         "id": 121,
@@ -1183,9 +1401,11 @@
         "playerName": "Visu Somepalli",
         "playerType": "Bowler",
         "playerListId": 25,
+        "oldPlayerListId": 25,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 130,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 100
       }
     ]
   },
@@ -1202,9 +1422,11 @@
         "playerName": "Mani Janakiraman",
         "playerType": "Batsman",
         "playerListId": 42,
+        "oldPlayerListId": 42,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 9,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 90
       },
       {
         "id": 68,
@@ -1212,9 +1434,11 @@
         "playerName": "Vivekan Kumar",
         "playerType": "Batsman",
         "playerListId": 86,
+        "oldPlayerListId": 86,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": -5,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 70
       },
       {
         "id": 69,
@@ -1222,9 +1446,11 @@
         "playerName": "Arvindram Ramraj",
         "playerType": "Batsman",
         "playerListId": 115,
+        "oldPlayerListId": 115,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 0,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 50
       },
       {
         "id": 70,
@@ -1232,9 +1458,11 @@
         "playerName": "Vivek Chutke",
         "playerType": "Batsman",
         "playerListId": 74,
+        "oldPlayerListId": 74,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 91,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 70
       },
       {
         "id": 71,
@@ -1242,9 +1470,11 @@
         "playerName": "Supreet Singh",
         "playerType": "AllRounder",
         "playerListId": 22,
+        "oldPlayerListId": 22,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 173,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 130
       },
       {
         "id": 72,
@@ -1252,9 +1482,11 @@
         "playerName": "Santosh Mahajan",
         "playerType": "AllRounder",
         "playerListId": 38,
+        "oldPlayerListId": 38,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 8,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 80
       },
       {
         "id": 73,
@@ -1262,9 +1494,11 @@
         "playerName": "Siva Rambilli",
         "playerType": "Bowler",
         "playerListId": 35,
+        "oldPlayerListId": 35,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": -19,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 100
       },
       {
         "id": 74,
@@ -1272,9 +1506,11 @@
         "playerName": "Visu Somepalli",
         "playerType": "Bowler",
         "playerListId": 25,
+        "oldPlayerListId": 25,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 130,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 100
       },
       {
         "id": 75,
@@ -1282,9 +1518,11 @@
         "playerName": "Ananth Gollapudi",
         "playerType": "Bowler",
         "playerListId": 41,
+        "oldPlayerListId": 41,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 50,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 80
       },
       {
         "id": 76,
@@ -1292,9 +1530,11 @@
         "playerName": "Nikunj Natu",
         "playerType": "Bowler",
         "playerListId": 15,
+        "oldPlayerListId": 15,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 252,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 120
       },
       {
         "id": 77,
@@ -1302,9 +1542,11 @@
         "playerName": "Samy Dharmalingam",
         "playerType": "Bowler",
         "playerListId": 37,
+        "oldPlayerListId": 37,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 78,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 100
       }
     ]
   },
@@ -1321,9 +1563,11 @@
         "playerName": "Mani Janakiraman",
         "playerType": "Batsman",
         "playerListId": 42,
+        "oldPlayerListId": 42,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 9,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 90
       },
       {
         "id": 200,
@@ -1331,9 +1575,11 @@
         "playerName": "Visva Balaji",
         "playerType": "Batsman",
         "playerListId": 73,
+        "oldPlayerListId": 73,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 101,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 80
       },
       {
         "id": 201,
@@ -1341,9 +1587,11 @@
         "playerName": "Sankar Rathnasamy",
         "playerType": "Batsman",
         "playerListId": 51,
+        "oldPlayerListId": 51,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 129,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 90
       },
       {
         "id": 202,
@@ -1351,9 +1599,11 @@
         "playerName": "Rutesh Desai",
         "playerType": "Batsman",
         "playerListId": 61,
+        "oldPlayerListId": 61,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 7,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 70
       },
       {
         "id": 203,
@@ -1361,9 +1611,11 @@
         "playerName": "Shashidhar MS",
         "playerType": "AllRounder",
         "playerListId": 34,
+        "oldPlayerListId": 34,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 50,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 90
       },
       {
         "id": 204,
@@ -1371,9 +1623,11 @@
         "playerName": "Satyakant Chitturi",
         "playerType": "AllRounder",
         "playerListId": 9,
+        "oldPlayerListId": 9,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 12,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 110
       },
       {
         "id": 205,
@@ -1381,9 +1635,11 @@
         "playerName": "Suresh Krishna",
         "playerType": "AllRounder",
         "playerListId": 26,
+        "oldPlayerListId": 26,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 46,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 100
       },
       {
         "id": 206,
@@ -1391,9 +1647,11 @@
         "playerName": "Ananth Gollapudi",
         "playerType": "Bowler",
         "playerListId": 41,
+        "oldPlayerListId": 41,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 50,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 80
       },
       {
         "id": 207,
@@ -1401,9 +1659,11 @@
         "playerName": "Bhargava Chavali",
         "playerType": "Bowler",
         "playerListId": 23,
+        "oldPlayerListId": 23,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 302,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 110
       },
       {
         "id": 208,
@@ -1411,9 +1671,11 @@
         "playerName": "Krishna Kumar",
         "playerType": "Bowler",
         "playerListId": 30,
+        "oldPlayerListId": 30,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 73,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 110
       },
       {
         "id": 209,
@@ -1421,9 +1683,11 @@
         "playerName": "Madhusudhan Gaade",
         "playerType": "Bowler",
         "playerListId": 58,
+        "oldPlayerListId": 58,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 52,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 70
       }
     ]
   },
@@ -1440,9 +1704,11 @@
         "playerName": "Mani Janakiraman",
         "playerType": "Batsman",
         "playerListId": 42,
+        "oldPlayerListId": 42,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 9,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 90
       },
       {
         "id": 123,
@@ -1450,9 +1716,11 @@
         "playerName": "Sudheer Varma Rudraraju",
         "playerType": "Batsman",
         "playerListId": 72,
+        "oldPlayerListId": 72,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": -16,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 80
       },
       {
         "id": 124,
@@ -1460,9 +1728,11 @@
         "playerName": "Vivekan Kumar",
         "playerType": "Batsman",
         "playerListId": 86,
+        "oldPlayerListId": 86,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": -5,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 70
       },
       {
         "id": 125,
@@ -1470,9 +1740,11 @@
         "playerName": "Brijesh Chavda",
         "playerType": "Batsman",
         "playerListId": 29,
+        "oldPlayerListId": 29,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 14,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 110
       },
       {
         "id": 126,
@@ -1480,9 +1752,11 @@
         "playerName": "Supreet Singh",
         "playerType": "AllRounder",
         "playerListId": 22,
+        "oldPlayerListId": 22,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 173,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 130
       },
       {
         "id": 127,
@@ -1490,9 +1764,11 @@
         "playerName": "Santosh Mahajan",
         "playerType": "AllRounder",
         "playerListId": 38,
+        "oldPlayerListId": 38,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 8,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 80
       },
       {
         "id": 128,
@@ -1500,9 +1776,11 @@
         "playerName": "Srinivas Karpe",
         "playerType": "AllRounder",
         "playerListId": 40,
+        "oldPlayerListId": 40,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 0,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 90
       },
       {
         "id": 129,
@@ -1510,9 +1788,11 @@
         "playerName": "Rajesh Patel",
         "playerType": "Bowler",
         "playerListId": 3,
+        "oldPlayerListId": 3,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 184,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 150
       },
       {
         "id": 130,
@@ -1520,9 +1800,11 @@
         "playerName": "Vijay Kumar Rebbala",
         "playerType": "Bowler",
         "playerListId": 63,
+        "oldPlayerListId": 63,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 9,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 50
       },
       {
         "id": 131,
@@ -1530,9 +1812,11 @@
         "playerName": "Satya Akella",
         "playerType": "Bowler",
         "playerListId": 19,
+        "oldPlayerListId": 19,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": -7,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 100
       },
       {
         "id": 132,
@@ -1540,9 +1824,11 @@
         "playerName": "Sriram C",
         "playerType": "Bowler",
         "playerListId": 114,
+        "oldPlayerListId": 114,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 141,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 50
       }
     ]
   },
@@ -1559,9 +1845,11 @@
         "playerName": "Gaurav Jain",
         "playerType": "Batsman",
         "playerListId": 17,
+        "oldPlayerListId": 17,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 53,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 130
       },
       {
         "id": 134,
@@ -1569,9 +1857,11 @@
         "playerName": "Arvindram Ramraj",
         "playerType": "Batsman",
         "playerListId": 115,
+        "oldPlayerListId": 115,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 0,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 50
       },
       {
         "id": 135,
@@ -1579,9 +1869,11 @@
         "playerName": "Jerome John",
         "playerType": "Batsman",
         "playerListId": 66,
+        "oldPlayerListId": 66,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 9,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 60
       },
       {
         "id": 136,
@@ -1589,9 +1881,11 @@
         "playerName": "Mani Janakiraman",
         "playerType": "Batsman",
         "playerListId": 42,
+        "oldPlayerListId": 42,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 9,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 90
       },
       {
         "id": 137,
@@ -1599,9 +1893,11 @@
         "playerName": "Parvindar Pelia",
         "playerType": "AllRounder",
         "playerListId": 18,
+        "oldPlayerListId": 18,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 253,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 120
       },
       {
         "id": 138,
@@ -1609,9 +1905,11 @@
         "playerName": "Abhishek Singh",
         "playerType": "AllRounder",
         "playerListId": 28,
+        "oldPlayerListId": 28,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 75,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 110
       },
       {
         "id": 139,
@@ -1619,9 +1917,11 @@
         "playerName": "Kartik Pasumarti",
         "playerType": "WicketKeeper",
         "playerListId": 39,
+        "oldPlayerListId": 39,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 13,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 80
       },
       {
         "id": 140,
@@ -1629,9 +1929,11 @@
         "playerName": "Ananth Gollapudi",
         "playerType": "Bowler",
         "playerListId": 41,
+        "oldPlayerListId": 41,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 50,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 80
       },
       {
         "id": 141,
@@ -1639,9 +1941,11 @@
         "playerName": "Krishna Kumar",
         "playerType": "Bowler",
         "playerListId": 30,
+        "oldPlayerListId": 30,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 73,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 110
       },
       {
         "id": 142,
@@ -1649,9 +1953,11 @@
         "playerName": "Sriram C",
         "playerType": "Bowler",
         "playerListId": 114,
+        "oldPlayerListId": 114,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 141,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 50
       },
       {
         "id": 143,
@@ -1659,9 +1965,11 @@
         "playerName": "Sahadev Vinukonda",
         "playerType": "Bowler",
         "playerListId": 14,
+        "oldPlayerListId": 14,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 30,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 110
       }
     ]
   },
@@ -1678,9 +1986,11 @@
         "playerName": "Sourabh Kulkarni",
         "playerType": "Batsman",
         "playerListId": 27,
+        "oldPlayerListId": 27,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 85,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 130
       },
       {
         "id": 145,
@@ -1688,9 +1998,11 @@
         "playerName": "Sankar Rathnasamy",
         "playerType": "Batsman",
         "playerListId": 51,
+        "oldPlayerListId": 51,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 129,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 90
       },
       {
         "id": 146,
@@ -1698,9 +2010,11 @@
         "playerName": "Rajesh Sharma",
         "playerType": "Batsman",
         "playerListId": 69,
+        "oldPlayerListId": 69,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 0,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 50
       },
       {
         "id": 147,
@@ -1708,9 +2022,11 @@
         "playerName": "Vivekan Kumar",
         "playerType": "Batsman",
         "playerListId": 86,
+        "oldPlayerListId": 86,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": -5,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 70
       },
       {
         "id": 148,
@@ -1718,9 +2034,11 @@
         "playerName": "Shashidhar MS",
         "playerType": "AllRounder",
         "playerListId": 34,
+        "oldPlayerListId": 34,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 50,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 90
       },
       {
         "id": 149,
@@ -1728,9 +2046,11 @@
         "playerName": "Parvindar Pelia",
         "playerType": "AllRounder",
         "playerListId": 18,
+        "oldPlayerListId": 18,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 253,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 120
       },
       {
         "id": 150,
@@ -1738,9 +2058,11 @@
         "playerName": "Deepak Mandal",
         "playerType": "AllRounder",
         "playerListId": 1,
+        "oldPlayerListId": 1,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 94,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 150
       },
       {
         "id": 151,
@@ -1748,9 +2070,11 @@
         "playerName": "Nikunj Natu",
         "playerType": "Bowler",
         "playerListId": 15,
+        "oldPlayerListId": 15,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 252,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 120
       },
       {
         "id": 152,
@@ -1758,9 +2082,11 @@
         "playerName": "Ananth Gollapudi",
         "playerType": "Bowler",
         "playerListId": 41,
+        "oldPlayerListId": 41,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 50,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 80
       },
       {
         "id": 153,
@@ -1768,9 +2094,11 @@
         "playerName": "Sriharsha Ganti",
         "playerType": "Bowler",
         "playerListId": 60,
+        "oldPlayerListId": 60,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 0,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 50
       },
       {
         "id": 154,
@@ -1778,9 +2106,11 @@
         "playerName": "Vijay Kumar Rebbala",
         "playerType": "Bowler",
         "playerListId": 63,
+        "oldPlayerListId": 63,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 9,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 50
       }
     ]
   },
@@ -1797,9 +2127,11 @@
         "playerName": "Sankar Rathnasamy",
         "playerType": "Batsman",
         "playerListId": 51,
+        "oldPlayerListId": 51,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 129,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 90
       },
       {
         "id": 189,
@@ -1807,9 +2139,11 @@
         "playerName": "Hari Gutlapalli",
         "playerType": "Batsman",
         "playerListId": 81,
+        "oldPlayerListId": 81,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 0,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 70
       },
       {
         "id": 190,
@@ -1817,9 +2151,11 @@
         "playerName": "Vivekan Kumar",
         "playerType": "Batsman",
         "playerListId": 86,
+        "oldPlayerListId": 86,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": -5,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 70
       },
       {
         "id": 191,
@@ -1827,9 +2163,11 @@
         "playerName": "Murthy Pitta",
         "playerType": "Batsman",
         "playerListId": 75,
+        "oldPlayerListId": 75,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 46,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 60
       },
       {
         "id": 192,
@@ -1837,9 +2175,11 @@
         "playerName": "Deepak Mandal",
         "playerType": "AllRounder",
         "playerListId": 1,
+        "oldPlayerListId": 1,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 94,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 150
       },
       {
         "id": 193,
@@ -1847,9 +2187,11 @@
         "playerName": "Srikanth Mallu",
         "playerType": "AllRounder",
         "playerListId": 46,
+        "oldPlayerListId": 46,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 93,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 110
       },
       {
         "id": 194,
@@ -1857,9 +2199,11 @@
         "playerName": "Siva Rambilli",
         "playerType": "Bowler",
         "playerListId": 35,
+        "oldPlayerListId": 35,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": -19,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 100
       },
       {
         "id": 195,
@@ -1867,9 +2211,11 @@
         "playerName": "Varaprasad Perambudoori",
         "playerType": "Bowler",
         "playerListId": 8,
+        "oldPlayerListId": 8,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 77,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 120
       },
       {
         "id": 196,
@@ -1877,9 +2223,11 @@
         "playerName": "Vijay Kumar Rebbala",
         "playerType": "Bowler",
         "playerListId": 63,
+        "oldPlayerListId": 63,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 9,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 50
       },
       {
         "id": 197,
@@ -1887,9 +2235,11 @@
         "playerName": "Ananth Gollapudi",
         "playerType": "Bowler",
         "playerListId": 41,
+        "oldPlayerListId": 41,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 50,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 80
       },
       {
         "id": 198,
@@ -1897,9 +2247,11 @@
         "playerName": "Visu Somepalli",
         "playerType": "Bowler",
         "playerListId": 25,
+        "oldPlayerListId": 25,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 130,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 100
       }
     ]
   },
@@ -1916,9 +2268,11 @@
         "playerName": "Mani Janakiraman",
         "playerType": "Batsman",
         "playerListId": 42,
+        "oldPlayerListId": 42,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 9,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 90
       },
       {
         "id": 178,
@@ -1926,9 +2280,11 @@
         "playerName": "Vishal Sadaphal",
         "playerType": "Batsman",
         "playerListId": 76,
+        "oldPlayerListId": 76,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 64,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 80
       },
       {
         "id": 179,
@@ -1936,9 +2292,11 @@
         "playerName": "Sudheer Varma Rudraraju",
         "playerType": "Batsman",
         "playerListId": 72,
+        "oldPlayerListId": 72,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": -16,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 80
       },
       {
         "id": 180,
@@ -1946,9 +2304,11 @@
         "playerName": "Naveen Kanumuri",
         "playerType": "Batsman",
         "playerListId": 59,
+        "oldPlayerListId": 59,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 68,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 50
       },
       {
         "id": 181,
@@ -1956,9 +2316,11 @@
         "playerName": "Surya Nanduri",
         "playerType": "AllRounder",
         "playerListId": 45,
+        "oldPlayerListId": 45,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 221,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 130
       },
       {
         "id": 182,
@@ -1966,9 +2328,11 @@
         "playerName": "Santosh Mahajan",
         "playerType": "AllRounder",
         "playerListId": 38,
+        "oldPlayerListId": 38,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 8,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 80
       },
       {
         "id": 183,
@@ -1976,9 +2340,11 @@
         "playerName": "Amarnath Sreevatsa",
         "playerType": "AllRounder",
         "playerListId": 5,
+        "oldPlayerListId": 5,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 122,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 150
       },
       {
         "id": 184,
@@ -1986,9 +2352,11 @@
         "playerName": "Visu Somepalli",
         "playerType": "Bowler",
         "playerListId": 25,
+        "oldPlayerListId": 25,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 130,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 100
       },
       {
         "id": 185,
@@ -1996,9 +2364,11 @@
         "playerName": "Ananth Gollapudi",
         "playerType": "Bowler",
         "playerListId": 41,
+        "oldPlayerListId": 41,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 50,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 80
       },
       {
         "id": 186,
@@ -2006,9 +2376,11 @@
         "playerName": "Vijay Kumar Rebbala",
         "playerType": "Bowler",
         "playerListId": 63,
+        "oldPlayerListId": 63,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 9,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 50
       },
       {
         "id": 187,
@@ -2016,9 +2388,11 @@
         "playerName": "Rajesh Gunda",
         "playerType": "Bowler",
         "playerListId": 13,
+        "oldPlayerListId": 13,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 83,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 110
       }
     ]
   },
@@ -2035,9 +2409,11 @@
         "playerName": "Navpreet Sahota",
         "playerType": "Batsman",
         "playerListId": 33,
+        "oldPlayerListId": 33,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": -9,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 140
       },
       {
         "id": 167,
@@ -2045,9 +2421,11 @@
         "playerName": "Jerome John",
         "playerType": "Batsman",
         "playerListId": 66,
+        "oldPlayerListId": 66,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 9,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 60
       },
       {
         "id": 168,
@@ -2055,9 +2433,11 @@
         "playerName": "Venkat Mylavarapu",
         "playerType": "Batsman",
         "playerListId": 64,
+        "oldPlayerListId": 64,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": -16,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 50
       },
       {
         "id": 169,
@@ -2065,9 +2445,11 @@
         "playerName": "Vivekan Kumar",
         "playerType": "Batsman",
         "playerListId": 86,
+        "oldPlayerListId": 86,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": -5,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 70
       },
       {
         "id": 170,
@@ -2075,9 +2457,11 @@
         "playerName": "Amarnath Sreevatsa",
         "playerType": "AllRounder",
         "playerListId": 5,
+        "oldPlayerListId": 5,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 122,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 150
       },
       {
         "id": 171,
@@ -2085,9 +2469,11 @@
         "playerName": "Supreet Singh",
         "playerType": "AllRounder",
         "playerListId": 22,
+        "oldPlayerListId": 22,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 173,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 130
       },
       {
         "id": 172,
@@ -2095,9 +2481,11 @@
         "playerName": "Visva Balaji",
         "playerType": "Batsman",
         "playerListId": 73,
+        "oldPlayerListId": 73,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 101,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 80
       },
       {
         "id": 173,
@@ -2105,9 +2493,11 @@
         "playerName": "Uday Tummala",
         "playerType": "Bowler",
         "playerListId": 20,
+        "oldPlayerListId": 20,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 121,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 110
       },
       {
         "id": 174,
@@ -2115,9 +2505,11 @@
         "playerName": "Sriram C",
         "playerType": "Bowler",
         "playerListId": 114,
+        "oldPlayerListId": 114,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 141,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 50
       },
       {
         "id": 175,
@@ -2125,9 +2517,11 @@
         "playerName": "Krishna Kumar",
         "playerType": "Bowler",
         "playerListId": 30,
+        "oldPlayerListId": 30,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 73,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 110
       },
       {
         "id": 176,
@@ -2135,9 +2529,11 @@
         "playerName": "Armanjot Brar",
         "playerType": "Bowler",
         "playerListId": 107,
+        "oldPlayerListId": 107,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 0,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 50
       }
     ]
   },
@@ -2154,9 +2550,11 @@
         "playerName": "Arvindram Ramraj",
         "playerType": "Batsman",
         "playerListId": 115,
+        "oldPlayerListId": 115,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 0,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 50
       },
       {
         "id": 156,
@@ -2164,9 +2562,11 @@
         "playerName": "Gaurav Jain",
         "playerType": "Batsman",
         "playerListId": 17,
+        "oldPlayerListId": 17,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 53,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 130
       },
       {
         "id": 157,
@@ -2174,9 +2574,11 @@
         "playerName": "Prasad Punati",
         "playerType": "Batsman",
         "playerListId": 85,
+        "oldPlayerListId": 85,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 27,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 50
       },
       {
         "id": 158,
@@ -2184,9 +2586,11 @@
         "playerName": "Vishal Sadaphal",
         "playerType": "Batsman",
         "playerListId": 76,
+        "oldPlayerListId": 76,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 64,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 80
       },
       {
         "id": 159,
@@ -2194,9 +2598,11 @@
         "playerName": "Supreet Singh",
         "playerType": "AllRounder",
         "playerListId": 22,
+        "oldPlayerListId": 22,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 173,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 130
       },
       {
         "id": 160,
@@ -2204,9 +2610,11 @@
         "playerName": "Satyakant Chitturi",
         "playerType": "AllRounder",
         "playerListId": 9,
+        "oldPlayerListId": 9,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 12,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 110
       },
       {
         "id": 161,
@@ -2214,9 +2622,11 @@
         "playerName": "Kartik Pasumarti",
         "playerType": "WicketKeeper",
         "playerListId": 39,
+        "oldPlayerListId": 39,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 13,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 80
       },
       {
         "id": 162,
@@ -2224,9 +2634,11 @@
         "playerName": "Waheed Mir",
         "playerType": "Bowler",
         "playerListId": 70,
+        "oldPlayerListId": 70,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": -3,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 70
       },
       {
         "id": 163,
@@ -2234,9 +2646,11 @@
         "playerName": "Sahadev Vinukonda",
         "playerType": "Bowler",
         "playerListId": 14,
+        "oldPlayerListId": 14,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 30,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 110
       },
       {
         "id": 164,
@@ -2244,9 +2658,11 @@
         "playerName": "Ananth Gollapudi",
         "playerType": "Bowler",
         "playerListId": 41,
+        "oldPlayerListId": 41,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 50,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 80
       },
       {
         "id": 165,
@@ -2254,9 +2670,11 @@
         "playerName": "Uday Tummala",
         "playerType": "Bowler",
         "playerListId": 20,
+        "oldPlayerListId": 20,
         "effectiveDate": "0001-01-01T00:00:00",
         "points": 121,
-        "isActive": true
+        "isActive": true,
+        "playerValue": 110
       }
     ]
   }

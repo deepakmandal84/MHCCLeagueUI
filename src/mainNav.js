@@ -32,6 +32,7 @@ import axios from "axios";
 import ManagersTeam from "./mangersTeam";
 import mgrTeamData from "./mgrteamData.json";
 import { Link } from "react-router-dom";
+//import Button from "@material-ui/core/Button";
 
 class mainNav extends Component {
   constructor(props) {
@@ -49,6 +50,23 @@ class mainNav extends Component {
       useJson: true
     };
   }
+  getteamPlayers(playerData, playerType) {
+    return (
+      playerData &&
+      playerData
+        .filter(a => {
+          if (a.playerType === playerType) {
+            return a;
+          } else if (playerType === "All") {
+            return a;
+          }
+        })
+        .sort(function(a, b) {
+          return a.id - b.id;
+        })
+    );
+  }
+
   componentDidMount() {
     //var teamId = this.props.match.params.teamId;
     if (this.state.useJson) {
@@ -63,12 +81,38 @@ class mainNav extends Component {
         this.props.match.params.teamId > 9
           ? temptwith400 + formatedteamptwith400
           : tD.teamPoints;
+      let tv = tD.teamPlayersOutputs.reduce(function(sum, item) {
+        return (sum = sum + item.playerValue);
+      }, 0);
+      let teamPlayerlist = [];
+      let batsmans = this.getteamPlayers(tD.teamPlayersOutputs, "Batsman");
+      batsmans.map(a => {
+        teamPlayerlist.push(a);
+      });
+      let ar = this.getteamPlayers(tD.teamPlayersOutputs, "AllRounder");
+      ar.map(a => {
+        teamPlayerlist.push(a);
+      });
+      //teamPlayerlist.push(ar);
+      let kr = this.getteamPlayers(tD.teamPlayersOutputs, "WicketKeeper");
+      kr.map(a => {
+        teamPlayerlist.push(a);
+      });
+
+      let bowler = this.getteamPlayers(tD.teamPlayersOutputs, "Bowler");
+      bowler.map(a => {
+        teamPlayerlist.push(a);
+      });
+      //teamPlayerlist.push(bowler);
+
       this.setState({
-        playerList: tD.teamPlayersOutputs,
+        playerList: teamPlayerlist,
+        // teamPlayerlist.length !== 0 ? teamPlayerlist : tD.teamPlayersOutputs,
         managerName: tD.managerName,
         teamPoints: teamPts,
         teamRank: tD.teamRank,
-        teamName: tD.teamName
+        teamName: tD.teamName,
+        runningTotal: tv
       });
     } else {
       axios
@@ -97,20 +141,74 @@ class mainNav extends Component {
         });
     }
   }
-  calculateTeamTotal(player, playerNo, deletePlayer) {
+  calcuateTeamValue() {
+    var total = this.state.playerList.reduce(function(sum, item) {
+      return (sum = sum + item.playerValue);
+    }, 0);
+    return total;
+  }
+  calculateTeamTotal(player, playerNo, deletePlayer, oldPlayer) {
     var player = { ...player, PlayerNumber: playerNo };
     var playerLst = this.state.playerList;
-    var existPlayers = playerLst.filter(a => a.PlayerNumber !== playerNo);
-    if (deletePlayer !== true) {
-      existPlayers.push(player);
+    var op = playerLst.filter(a => a.oldPlayerListId === player.id);
+    var np = playerLst.filter(a => a.playerListId === player.id);
+    var oldPlayerIndex = playerLst.indexOf(op[0]) + 1;
+    var playerItem = playerLst[playerNo - 1];
+    if (op.length === 1 && oldPlayerIndex === playerNo) {
+      playerLst = playerLst.filter(a => {
+        if (a.oldPlayerListId === player.id) {
+          a.playerListId = player.id;
+          a.playerValue = player.playerValue;
+          a.modified = false;
+          a.error = false;
+        }
+        return a;
+      });
+    } else if (op.length >= 1 || np.length >= 1) {
+      var npPlyr = np[0];
+      var dupPlyr = op[0];
+      playerLst = playerLst.filter(a => {
+        if (
+          a.oldPlayerListId === playerItem.oldPlayerListId &&
+          ((dupPlyr && dupPlyr.oldPlayerListId === player.id) ||
+            (npPlyr && npPlyr.playerListId === player.id))
+        ) {
+          a.playerListId = player.id;
+          a.playerValue = player.playerValue;
+          a.error = true;
+          a.modified = false;
+        }
+        return a;
+      });
+    } else {
+      playerLst = playerLst.filter(a => {
+        if (
+          a.oldPlayerListId === playerItem.oldPlayerListId &&
+          a.oldPlayerListId !== player.id
+        ) {
+          a.playerListId = player.id;
+          a.playerValue = player.playerValue;
+          a.modified = true;
+          a.error = false;
+        }
+        return a;
+      });
     }
 
-    var total = existPlayers.reduce(function(sum, item) {
-      return (sum = sum + item.points);
+    //var existPlayers = playerLst.filter(a => a.playerListId !== oldPlayer.id);
+    // if (deletePlayer !== true) {
+    //   existPlayers.push(player);
+    // }
+    // if (deletePlayer === true) {
+    //   existPlayers.push(player);
+    // }
+
+    var total = playerLst.reduce(function(sum, item) {
+      return (sum = sum + item.playerValue);
     }, 0);
-    var playerCount = existPlayers.length;
+    var playerCount = playerLst.length;
     this.setState({
-      playerList: existPlayers,
+      playerList: playerLst,
       playersSelected: playerCount,
       runningTotal: total
     });
@@ -125,6 +223,9 @@ class mainNav extends Component {
       console.log(response.data);
     });
   }
+  refresrefreshPage() {
+    window.location.reload();
+  }
 
   render() {
     return (
@@ -135,10 +236,19 @@ class mainNav extends Component {
             <Box
               display="flex"
               flexWrap="nowrap"
-              justifyContent="space-between"
+              justifyContent="space-around"
               p={0}
             >
               <Typography variant="h4">Team Details</Typography>
+              <Button
+                color="primary"
+                onClick={() => {
+                  //console.log("onClick");
+                  window.location.reload();
+                }}
+              >
+                Refresh
+              </Button>
               <Link to={`/teams`} href="#">
                 {"Back to Ranking"}
               </Link>
@@ -151,22 +261,23 @@ class mainNav extends Component {
             >
               <TextField
                 id="standard-read-only-input"
-                label="Manager Name"
-                value={this.state.managerName}
+                label="Manager/TeamName"
+                value={this.state.managerName + " / " + this.state.teamName}
                 InputProps={{
                   readOnly: this.state.showTeamPlayers
                 }}
               />
               {this.state.showTeamPlayers === true ? (
-                <TextField
-                  id="standard-read-only-input"
-                  label="Team Rank"
-                  value={this.state.teamRank}
-                  InputProps={{
-                    readOnly: true,
-                    align: "right"
-                  }}
-                />
+                <Box>
+                  <TextField
+                    id="standard-read-only-input"
+                    label="Total Team Points"
+                    value={this.state.teamPoints}
+                    InputProps={{
+                      readOnly: true
+                    }}
+                  />
+                </Box>
               ) : (
                 <TextField
                   id="standard-read-only-input"
@@ -187,13 +298,22 @@ class mainNav extends Component {
               {this.state.showTeamPlayers === true ? (
                 <TextField
                   id="standard-read-only-input"
-                  label="Transfers Left"
-                  value={3}
+                  label="Team Rank"
+                  value={this.state.teamRank}
                   InputProps={{
-                    readOnly: true
+                    readOnly: true,
+                    align: "right"
                   }}
                 />
               ) : (
+                // <TextField
+                //   id="standard-read-only-input"
+                //   label="Transfers Left"
+                //   value={3}
+                //   InputProps={{
+                //     readOnly: true
+                //   }}
+                // />
                 <TextField
                   id="standard-read-only-input"
                   label="Player Selected"
@@ -203,8 +323,23 @@ class mainNav extends Component {
                   }}
                 />
               )}
-
-              {this.state.showTeamPlayers === true ? (
+              <TextField
+                error={this.state.runningTotal > 1000 ? true : false}
+                id="standard-read-only-input"
+                label="Total Team Value"
+                helperText={
+                  this.state.runningTotal > 1000
+                    ? "Total Value Exceeding 1000"
+                    : ""
+                }
+                value={this.state.runningTotal}
+                InputProps={{
+                  readOnly: true,
+                  color:
+                    this.state.runningTotal > 1000 ? "primary" : "secondary"
+                }}
+              />
+              {/* {this.state.showTeamPlayers === true ? (
                 <TextField
                   id="standard-read-only-input"
                   label="Total Team Points"
@@ -222,9 +357,22 @@ class mainNav extends Component {
                     readOnly: true
                   }}
                 />
-              )}
+              )} */}
             </Box>
-            {this.state.showTeamPlayers === true ? (
+            <Box style={{ maxHeight: "90%", overflow: "auto" }}>
+              <ManagersTeam
+                {...this.props}
+                calculateTeamTotal={this.calculateTeamTotal.bind(this)}
+                playerList={this.state.playerList}
+              />
+            </Box>
+            {/* <Box style={{ maxHeight: "90%", overflow: "auto" }}>
+              <SimpleTable
+                {...this.props}
+                calculateTeamTotal={this.calculateTeamTotal.bind(this)}
+              />
+            </Box> */}
+            {/* {this.state.showTeamPlayers === true ? (
               <Box style={{ maxHeight: 400, overflow: "auto" }}>
                 <ManagersTeam
                   {...this.props}
@@ -239,7 +387,7 @@ class mainNav extends Component {
                   calculateTeamTotal={this.calculateTeamTotal.bind(this)}
                 />
               </Box>
-            )}
+            )} */}
           </Grid>
         </Box>
         {this.state.showTeamPlayers === false ? (
