@@ -125,7 +125,7 @@ export default function MultipleSelect(props) {
         {names &&
           names.map(name => (
             <MenuItem key={name.id} value={name.playerName}>
-              {name.playerName + "---" + name.points}{" "}
+              {name.playerName + "-" + name.points}
             </MenuItem>
           ))}
       </Select>

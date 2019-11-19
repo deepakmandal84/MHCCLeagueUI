@@ -32,7 +32,12 @@ import axios from "axios";
 import ManagersTeam from "./mangersTeam";
 import mgrTeamData from "./mgrteamData.json";
 import { Link } from "react-router-dom";
+import AppBar from "@material-ui/core/AppBar";
 //import Button from "@material-ui/core/Button";
+
+import Toolbar from "@material-ui/core/Toolbar";
+
+import MenuIcon from "@material-ui/icons/Menu";
 
 class mainNav extends Component {
   constructor(props) {
@@ -230,6 +235,45 @@ class mainNav extends Component {
   render() {
     return (
       <div>
+        <AppBar position="static">
+          <Toolbar>
+            {/* <IconButton edge="start" color="inherit" aria-label="menu">
+              <MenuIcon />
+            </IconButton> */}
+            <Typography variant="h4">Team Details</Typography>
+            <Box display="flex" flexWrap="nowrap" justifyContent="flex-end">
+              <Link
+                onClick={() => {
+                  //console.log("onClick");
+                  window.location.reload();
+                }}
+                href="#"
+              >
+                <Typography
+                  variant="h6"
+                  style={{
+                    paddingRight: "20px",
+                    paddingLeft: "20px",
+                    color: "#fff"
+                  }}
+                >
+                  Refresh
+                </Typography>
+              </Link>
+              <Link to={`/teams`} href="#">
+                <Typography
+                  variant="h6"
+                  style={{
+                    paddingRight: "20px",
+                    color: "#fff"
+                  }}
+                >
+                  Back to Ranking
+                </Typography>
+              </Link>
+            </Box>
+          </Toolbar>
+        </AppBar>
         {/* <b>Welcome to MHCC Fantasy Winter League</b> */}
         <Box display="flex" flexWrap="nowrap" justifyContent="center" p={0}>
           <Grid>
@@ -239,24 +283,13 @@ class mainNav extends Component {
               justifyContent="space-around"
               p={0}
             >
-              <Typography variant="h4">Team Details</Typography>
-              <Button
-                color="primary"
-                onClick={() => {
-                  //console.log("onClick");
-                  window.location.reload();
-                }}
-              >
-                Refresh
-              </Button>
-              <Link to={`/teams`} href="#">
-                {"Back to Ranking"}
-              </Link>
+              {/* <Typography variant="h4">Team Details</Typography> */}
             </Box>
             <Box
               display="flex"
               flexWrap="nowrap"
               justifyContent="space-around"
+              //justifyContent="center"
               p={0}
             >
               <TextField
@@ -266,6 +299,8 @@ class mainNav extends Component {
                 InputProps={{
                   readOnly: this.state.showTeamPlayers
                 }}
+                variant="outlined"
+                margin="normal"
               />
               {this.state.showTeamPlayers === true ? (
                 <Box>
@@ -276,6 +311,8 @@ class mainNav extends Component {
                     InputProps={{
                       readOnly: true
                     }}
+                    variant="outlined"
+                    margin="normal"
                   />
                 </Box>
               ) : (
@@ -293,7 +330,7 @@ class mainNav extends Component {
               display="flex"
               flexWrap="nowrap"
               justifyContent="space-around"
-              p={0}
+              p={-2}
             >
               {this.state.showTeamPlayers === true ? (
                 <TextField
@@ -301,9 +338,10 @@ class mainNav extends Component {
                   label="Team Rank"
                   value={this.state.teamRank}
                   InputProps={{
-                    readOnly: true,
-                    align: "right"
+                    readOnly: true
                   }}
+                  variant="outlined"
+                  margin="normal"
                 />
               ) : (
                 // <TextField
@@ -321,12 +359,14 @@ class mainNav extends Component {
                   InputProps={{
                     readOnly: true
                   }}
+                  margin="normal"
                 />
               )}
               <TextField
                 error={this.state.runningTotal > 1000 ? true : false}
                 id="standard-read-only-input"
                 label="Total Team Value"
+                variant="outlined"
                 helperText={
                   this.state.runningTotal > 1000
                     ? "Total Value Exceeding 1000"
@@ -338,6 +378,7 @@ class mainNav extends Component {
                   color:
                     this.state.runningTotal > 1000 ? "primary" : "secondary"
                 }}
+                margin="normal"
               />
               {/* {this.state.showTeamPlayers === true ? (
                 <TextField
