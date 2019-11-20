@@ -74,7 +74,7 @@ export default function TeamRank(props) {
           {/* <IconButton edge="start" color="inherit" aria-label="menu">
               <MenuIcon />
             </IconButton> */}
-          <Typography variant="h4">Fantasy League Team Ranking</Typography>
+          <Typography variant="h4">MHCC Fantasy League Team Ranking</Typography>
         </Toolbar>
       </AppBar>
       <Container>

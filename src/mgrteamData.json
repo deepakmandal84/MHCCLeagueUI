@@ -3,7 +3,7 @@
     "managerName": "\r\nPandiyarajan Subburaman",
     "teamName": "Trophy Fighters",
     "teamRank": 1,
-    "teamPoints": 1680,
+    "teamPoints": 1987,
     "userDetailsId": 1,
     "teamPlayersOutputs": [
       {
@@ -14,7 +14,7 @@
         "playerListId": 52,
         "oldPlayerListId": 52,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": -9,
+        "points": 4,
         "isActive": true,
         "playerValue": 90
       },
@@ -26,7 +26,7 @@
         "playerListId": 42,
         "oldPlayerListId": 42,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 70,
+        "points": 123,
         "isActive": true,
         "playerValue": 90
       },
@@ -50,7 +50,7 @@
         "playerListId": 75,
         "oldPlayerListId": 75,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 46,
+        "points": 85,
         "isActive": true,
         "playerValue": 60
       },
@@ -62,7 +62,7 @@
         "playerListId": 22,
         "oldPlayerListId": 22,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 400,
+        "points": 419,
         "isActive": true,
         "playerValue": 130
       },
@@ -74,7 +74,7 @@
         "playerListId": 50,
         "oldPlayerListId": 50,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 64,
+        "points": 54,
         "isActive": true,
         "playerValue": 70
       },
@@ -86,7 +86,7 @@
         "playerListId": 3,
         "oldPlayerListId": 3,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 246,
+        "points": 339,
         "isActive": true,
         "playerValue": 150
       },
@@ -98,7 +98,7 @@
         "playerListId": 25,
         "oldPlayerListId": 25,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 230,
+        "points": 320,
         "isActive": true,
         "playerValue": 100
       },
@@ -134,7 +134,7 @@
         "playerListId": 23,
         "oldPlayerListId": 23,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 412,
+        "points": 422,
         "isActive": true,
         "playerValue": 110
       }
@@ -143,8 +143,8 @@
   {
     "managerName": "Abhishek Mogre",
     "teamName": "GOAT 11",
-    "teamRank": 5,
-    "teamPoints": 1334,
+    "teamRank": 4,
+    "teamPoints": 1774,
     "userDetailsId": 3,
     "teamPlayersOutputs": [
       {
@@ -155,7 +155,7 @@
         "playerListId": 17,
         "oldPlayerListId": 17,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 55,
+        "points": 50,
         "isActive": true,
         "playerValue": 130
       },
@@ -167,7 +167,7 @@
         "playerListId": 42,
         "oldPlayerListId": 42,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 70,
+        "points": 123,
         "isActive": true,
         "playerValue": 90
       },
@@ -203,7 +203,7 @@
         "playerListId": 38,
         "oldPlayerListId": 38,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 127,
+        "points": 171,
         "isActive": true,
         "playerValue": 80
       },
@@ -215,7 +215,7 @@
         "playerListId": 26,
         "oldPlayerListId": 26,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 39,
+        "points": 160,
         "isActive": true,
         "playerValue": 100
       },
@@ -227,7 +227,7 @@
         "playerListId": 45,
         "oldPlayerListId": 45,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 326,
+        "points": 413,
         "isActive": true,
         "playerValue": 130
       },
@@ -239,7 +239,7 @@
         "playerListId": 36,
         "oldPlayerListId": 36,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 320,
+        "points": 380,
         "isActive": true,
         "playerValue": 100
       },
@@ -251,7 +251,7 @@
         "playerListId": 13,
         "oldPlayerListId": 13,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 203,
+        "points": 283,
         "isActive": true,
         "playerValue": 110
       },
@@ -284,8 +284,8 @@
   {
     "managerName": "Shriniwas Phalke",
     "teamName": "shriniwas phalke team",
-    "teamRank": 6,
-    "teamPoints": 1325,
+    "teamRank": 8,
+    "teamPoints": 1566,
     "userDetailsId": 4,
     "teamPlayersOutputs": [
       {
@@ -296,7 +296,7 @@
         "playerListId": 42,
         "oldPlayerListId": 42,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 70,
+        "points": 123,
         "isActive": true,
         "playerValue": 90
       },
@@ -332,7 +332,7 @@
         "playerListId": 72,
         "oldPlayerListId": 72,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 28,
+        "points": 70,
         "isActive": true,
         "playerValue": 80
       },
@@ -356,7 +356,7 @@
         "playerListId": 38,
         "oldPlayerListId": 38,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 127,
+        "points": 171,
         "isActive": true,
         "playerValue": 80
       },
@@ -404,7 +404,7 @@
         "playerListId": 21,
         "oldPlayerListId": 21,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 74,
+        "points": 123,
         "isActive": true,
         "playerValue": 110
       },
@@ -416,7 +416,7 @@
         "playerListId": 8,
         "oldPlayerListId": 8,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 89,
+        "points": 142,
         "isActive": true,
         "playerValue": 120
       }
@@ -425,8 +425,8 @@
   {
     "managerName": "Santosh Bhargav",
     "teamName": "ChakDe MHCC XI",
-    "teamRank": 11,
-    "teamPoints": 1189,
+    "teamRank": 16,
+    "teamPoints": 1403,
     "userDetailsId": 5,
     "teamPlayersOutputs": [
       {
@@ -473,7 +473,7 @@
         "playerListId": 42,
         "oldPlayerListId": 42,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 70,
+        "points": 123,
         "isActive": true,
         "playerValue": 90
       },
@@ -509,7 +509,7 @@
         "playerListId": 39,
         "oldPlayerListId": 39,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 52,
+        "points": 44,
         "isActive": true,
         "playerValue": 80
       },
@@ -521,7 +521,7 @@
         "playerListId": 2,
         "oldPlayerListId": 2,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 310,
+        "points": 389,
         "isActive": true,
         "playerValue": 150
       },
@@ -545,7 +545,7 @@
         "playerListId": 25,
         "oldPlayerListId": 25,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 230,
+        "points": 320,
         "isActive": true,
         "playerValue": 100
       },
@@ -566,8 +566,8 @@
   {
     "managerName": "Krishnan Venkatraman",
     "teamName": "Chennai Kings",
-    "teamRank": 10,
-    "teamPoints": 1216,
+    "teamRank": 13,
+    "teamPoints": 1423,
     "userDetailsId": 6,
     "teamPlayersOutputs": [
       {
@@ -578,7 +578,7 @@
         "playerListId": 17,
         "oldPlayerListId": 17,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 55,
+        "points": 50,
         "isActive": true,
         "playerValue": 130
       },
@@ -626,7 +626,7 @@
         "playerListId": 50,
         "oldPlayerListId": 50,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 64,
+        "points": 54,
         "isActive": true,
         "playerValue": 70
       },
@@ -638,7 +638,7 @@
         "playerListId": 117,
         "oldPlayerListId": 117,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 54,
+        "points": 44,
         "isActive": true,
         "playerValue": 50
       },
@@ -650,7 +650,7 @@
         "playerListId": 52,
         "oldPlayerListId": 52,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": -9,
+        "points": 4,
         "isActive": true,
         "playerValue": 90
       },
@@ -662,7 +662,7 @@
         "playerListId": 2,
         "oldPlayerListId": 2,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 310,
+        "points": 389,
         "isActive": true,
         "playerValue": 150
       },
@@ -674,7 +674,7 @@
         "playerListId": 25,
         "oldPlayerListId": 25,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 230,
+        "points": 320,
         "isActive": true,
         "playerValue": 100
       },
@@ -698,7 +698,7 @@
         "playerListId": 37,
         "oldPlayerListId": 37,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 148,
+        "points": 198,
         "isActive": true,
         "playerValue": 100
       }
@@ -707,8 +707,8 @@
   {
     "managerName": "Rajesh Patel",
     "teamName": "Deadly11",
-    "teamRank": 4,
-    "teamPoints": 1419,
+    "teamRank": 2,
+    "teamPoints": 1957,
     "userDetailsId": 7,
     "teamPlayersOutputs": [
       {
@@ -719,7 +719,7 @@
         "playerListId": 42,
         "oldPlayerListId": 42,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 70,
+        "points": 123,
         "isActive": true,
         "playerValue": 90
       },
@@ -731,7 +731,7 @@
         "playerListId": 1,
         "oldPlayerListId": 1,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 104,
+        "points": 124,
         "isActive": true,
         "playerValue": 150
       },
@@ -743,7 +743,7 @@
         "playerListId": 24,
         "oldPlayerListId": 24,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 348,
+        "points": 621,
         "isActive": true,
         "playerValue": 110
       },
@@ -767,7 +767,7 @@
         "playerListId": 25,
         "oldPlayerListId": 25,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 230,
+        "points": 320,
         "isActive": true,
         "playerValue": 100
       },
@@ -779,7 +779,7 @@
         "playerListId": 76,
         "oldPlayerListId": 76,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 106,
+        "points": 107,
         "isActive": true,
         "playerValue": 80
       },
@@ -827,7 +827,7 @@
         "playerListId": 142,
         "oldPlayerListId": 142,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 36,
+        "points": 137,
         "isActive": true,
         "playerValue": 50
       },
@@ -848,8 +848,8 @@
   {
     "managerName": "Srikanth Mallu",
     "teamName": "GOT11",
-    "teamRank": 2,
-    "teamPoints": 1575,
+    "teamRank": 3,
+    "teamPoints": 1786,
     "userDetailsId": 8,
     "teamPlayersOutputs": [
       {
@@ -860,7 +860,7 @@
         "playerListId": 42,
         "oldPlayerListId": 42,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 70,
+        "points": 123,
         "isActive": true,
         "playerValue": 90
       },
@@ -872,7 +872,7 @@
         "playerListId": 75,
         "oldPlayerListId": 75,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 46,
+        "points": 85,
         "isActive": true,
         "playerValue": 60
       },
@@ -908,7 +908,7 @@
         "playerListId": 22,
         "oldPlayerListId": 22,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 400,
+        "points": 419,
         "isActive": true,
         "playerValue": 130
       },
@@ -920,7 +920,7 @@
         "playerListId": 1,
         "oldPlayerListId": 1,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 104,
+        "points": 124,
         "isActive": true,
         "playerValue": 150
       },
@@ -932,7 +932,7 @@
         "playerListId": 65,
         "oldPlayerListId": 65,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 29,
+        "points": 19,
         "isActive": true,
         "playerValue": 50
       },
@@ -956,7 +956,7 @@
         "playerListId": 25,
         "oldPlayerListId": 25,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 230,
+        "points": 320,
         "isActive": true,
         "playerValue": 100
       },
@@ -989,8 +989,8 @@
   {
     "managerName": "Santosh Mahajan",
     "teamName": "MH Cowboys",
-    "teamRank": 13,
-    "teamPoints": 1156,
+    "teamRank": 12,
+    "teamPoints": 1433,
     "userDetailsId": 9,
     "teamPlayersOutputs": [
       {
@@ -1001,7 +1001,7 @@
         "playerListId": 27,
         "oldPlayerListId": 27,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 85,
+        "points": 122,
         "isActive": true,
         "playerValue": 130
       },
@@ -1013,7 +1013,7 @@
         "playerListId": 42,
         "oldPlayerListId": 42,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 70,
+        "points": 123,
         "isActive": true,
         "playerValue": 90
       },
@@ -1049,7 +1049,7 @@
         "playerListId": 38,
         "oldPlayerListId": 38,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 127,
+        "points": 171,
         "isActive": true,
         "playerValue": 80
       },
@@ -1085,7 +1085,7 @@
         "playerListId": 3,
         "oldPlayerListId": 3,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 246,
+        "points": 339,
         "isActive": true,
         "playerValue": 150
       },
@@ -1109,7 +1109,7 @@
         "playerListId": 37,
         "oldPlayerListId": 37,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 148,
+        "points": 198,
         "isActive": true,
         "playerValue": 100
       },
@@ -1130,8 +1130,8 @@
   {
     "managerName": "Sharad Unni",
     "teamName": "Sharad 11",
-    "teamRank": 8,
-    "teamPoints": 887,
+    "teamRank": 15,
+    "teamPoints": 1011,
     "userDetailsId": 10,
     "teamPlayersOutputs": [
       {
@@ -1142,7 +1142,7 @@
         "playerListId": 17,
         "oldPlayerListId": 17,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 53,
+        "points": 48,
         "isActive": true,
         "playerValue": 130
       },
@@ -1166,7 +1166,7 @@
         "playerListId": 75,
         "oldPlayerListId": 75,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 46,
+        "points": 85,
         "isActive": true,
         "playerValue": 60
       },
@@ -1238,7 +1238,7 @@
         "playerListId": 25,
         "oldPlayerListId": 25,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 130,
+        "points": 220,
         "isActive": true,
         "playerValue": 100
       },
@@ -1271,8 +1271,8 @@
   {
     "managerName": "Visu Somepalli",
     "teamName": "MH Buddies",
-    "teamRank": 3,
-    "teamPoints": 1020,
+    "teamRank": 5,
+    "teamPoints": 1360,
     "userDetailsId": 11,
     "teamPlayersOutputs": [
       {
@@ -1307,7 +1307,7 @@
         "playerListId": 42,
         "oldPlayerListId": 42,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 9,
+        "points": 62,
         "isActive": true,
         "playerValue": 90
       },
@@ -1331,7 +1331,7 @@
         "playerListId": 45,
         "oldPlayerListId": 45,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 221,
+        "points": 308,
         "isActive": true,
         "playerValue": 130
       },
@@ -1343,7 +1343,7 @@
         "playerListId": 9,
         "oldPlayerListId": 9,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 12,
+        "points": 32,
         "isActive": true,
         "playerValue": 110
       },
@@ -1355,7 +1355,7 @@
         "playerListId": 35,
         "oldPlayerListId": 35,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": -19,
+        "points": 1,
         "isActive": true,
         "playerValue": 100
       },
@@ -1367,7 +1367,7 @@
         "playerListId": 23,
         "oldPlayerListId": 23,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 302,
+        "points": 312,
         "isActive": true,
         "playerValue": 110
       },
@@ -1391,7 +1391,7 @@
         "playerListId": 36,
         "oldPlayerListId": 36,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 230,
+        "points": 290,
         "isActive": true,
         "playerValue": 100
       },
@@ -1403,7 +1403,7 @@
         "playerListId": 25,
         "oldPlayerListId": 25,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 130,
+        "points": 220,
         "isActive": true,
         "playerValue": 100
       }
@@ -1412,8 +1412,8 @@
   {
     "managerName": "Vivek Chutke",
     "teamName": "Chutke 11",
-    "teamRank": 12,
-    "teamPoints": 767,
+    "teamRank": 9,
+    "teamPoints": 1096,
     "userDetailsId": 12,
     "teamPlayersOutputs": [
       {
@@ -1424,7 +1424,7 @@
         "playerListId": 42,
         "oldPlayerListId": 42,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 9,
+        "points": 62,
         "isActive": true,
         "playerValue": 90
       },
@@ -1448,7 +1448,7 @@
         "playerListId": 115,
         "oldPlayerListId": 115,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 0,
+        "points": 1,
         "isActive": true,
         "playerValue": 50
       },
@@ -1460,7 +1460,7 @@
         "playerListId": 74,
         "oldPlayerListId": 74,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 91,
+        "points": 143,
         "isActive": true,
         "playerValue": 70
       },
@@ -1472,7 +1472,7 @@
         "playerListId": 22,
         "oldPlayerListId": 22,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 173,
+        "points": 192,
         "isActive": true,
         "playerValue": 130
       },
@@ -1484,7 +1484,7 @@
         "playerListId": 38,
         "oldPlayerListId": 38,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 8,
+        "points": 52,
         "isActive": true,
         "playerValue": 80
       },
@@ -1496,7 +1496,7 @@
         "playerListId": 35,
         "oldPlayerListId": 35,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": -19,
+        "points": 1,
         "isActive": true,
         "playerValue": 100
       },
@@ -1508,7 +1508,7 @@
         "playerListId": 25,
         "oldPlayerListId": 25,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 130,
+        "points": 220,
         "isActive": true,
         "playerValue": 100
       },
@@ -1544,7 +1544,7 @@
         "playerListId": 37,
         "oldPlayerListId": 37,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 78,
+        "points": 128,
         "isActive": true,
         "playerValue": 100
       }
@@ -1553,8 +1553,8 @@
   {
     "managerName": "Jyoti Nayak",
     "teamName": "Jyoti's Spartans",
-    "teamRank": 9,
-    "teamPoints": 831,
+    "teamRank": 6,
+    "teamPoints": 1177,
     "userDetailsId": 13,
     "teamPlayersOutputs": [
       {
@@ -1565,7 +1565,7 @@
         "playerListId": 42,
         "oldPlayerListId": 42,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 9,
+        "points": 62,
         "isActive": true,
         "playerValue": 90
       },
@@ -1577,7 +1577,7 @@
         "playerListId": 73,
         "oldPlayerListId": 73,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 101,
+        "points": 103,
         "isActive": true,
         "playerValue": 80
       },
@@ -1625,7 +1625,7 @@
         "playerListId": 9,
         "oldPlayerListId": 9,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 12,
+        "points": 32,
         "isActive": true,
         "playerValue": 110
       },
@@ -1637,7 +1637,7 @@
         "playerListId": 26,
         "oldPlayerListId": 26,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 46,
+        "points": 167,
         "isActive": true,
         "playerValue": 100
       },
@@ -1661,7 +1661,7 @@
         "playerListId": 23,
         "oldPlayerListId": 23,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 302,
+        "points": 312,
         "isActive": true,
         "playerValue": 110
       },
@@ -1673,7 +1673,7 @@
         "playerListId": 30,
         "oldPlayerListId": 30,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 73,
+        "points": 153,
         "isActive": true,
         "playerValue": 110
       },
@@ -1685,7 +1685,7 @@
         "playerListId": 58,
         "oldPlayerListId": 58,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 52,
+        "points": 112,
         "isActive": true,
         "playerValue": 70
       }
@@ -1694,8 +1694,8 @@
   {
     "managerName": "Susheel Shinde",
     "teamName": "Susheel's XI",
-    "teamRank": 19,
-    "teamPoints": 510,
+    "teamRank": 18,
+    "teamPoints": 846,
     "userDetailsId": 14,
     "teamPlayersOutputs": [
       {
@@ -1706,7 +1706,7 @@
         "playerListId": 42,
         "oldPlayerListId": 42,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 9,
+        "points": 62,
         "isActive": true,
         "playerValue": 90
       },
@@ -1718,7 +1718,7 @@
         "playerListId": 72,
         "oldPlayerListId": 72,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": -16,
+        "points": 26,
         "isActive": true,
         "playerValue": 80
       },
@@ -1754,7 +1754,7 @@
         "playerListId": 22,
         "oldPlayerListId": 22,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 173,
+        "points": 192,
         "isActive": true,
         "playerValue": 130
       },
@@ -1766,7 +1766,7 @@
         "playerListId": 38,
         "oldPlayerListId": 38,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 8,
+        "points": 52,
         "isActive": true,
         "playerValue": 80
       },
@@ -1790,7 +1790,7 @@
         "playerListId": 3,
         "oldPlayerListId": 3,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 184,
+        "points": 277,
         "isActive": true,
         "playerValue": 150
       },
@@ -1826,7 +1826,7 @@
         "playerListId": 114,
         "oldPlayerListId": 114,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 141,
+        "points": 226,
         "isActive": true,
         "playerValue": 50
       }
@@ -1835,8 +1835,8 @@
   {
     "managerName": "Uday T",
     "teamName": "Underdogs XI",
-    "teamRank": 16,
-    "teamPoints": 706,
+    "teamRank": 11,
+    "teamPoints": 1083,
     "userDetailsId": 15,
     "teamPlayersOutputs": [
       {
@@ -1847,7 +1847,7 @@
         "playerListId": 17,
         "oldPlayerListId": 17,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 53,
+        "points": 48,
         "isActive": true,
         "playerValue": 130
       },
@@ -1859,7 +1859,7 @@
         "playerListId": 115,
         "oldPlayerListId": 115,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 0,
+        "points": 1,
         "isActive": true,
         "playerValue": 50
       },
@@ -1883,7 +1883,7 @@
         "playerListId": 42,
         "oldPlayerListId": 42,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 9,
+        "points": 62,
         "isActive": true,
         "playerValue": 90
       },
@@ -1895,7 +1895,7 @@
         "playerListId": 18,
         "oldPlayerListId": 18,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 253,
+        "points": 297,
         "isActive": true,
         "playerValue": 120
       },
@@ -1907,7 +1907,7 @@
         "playerListId": 28,
         "oldPlayerListId": 28,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 75,
+        "points": 122,
         "isActive": true,
         "playerValue": 110
       },
@@ -1919,7 +1919,7 @@
         "playerListId": 39,
         "oldPlayerListId": 39,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 13,
+        "points": 5,
         "isActive": true,
         "playerValue": 80
       },
@@ -1943,7 +1943,7 @@
         "playerListId": 30,
         "oldPlayerListId": 30,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 73,
+        "points": 153,
         "isActive": true,
         "playerValue": 110
       },
@@ -1955,7 +1955,7 @@
         "playerListId": 114,
         "oldPlayerListId": 114,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 141,
+        "points": 226,
         "isActive": true,
         "playerValue": 50
       },
@@ -1967,7 +1967,7 @@
         "playerListId": 14,
         "oldPlayerListId": 14,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 30,
+        "points": 110,
         "isActive": true,
         "playerValue": 110
       }
@@ -1976,8 +1976,8 @@
   {
     "managerName": "Robin",
     "teamName": "Robin XI",
-    "teamRank": 7,
-    "teamPoints": 917,
+    "teamRank": 14,
+    "teamPoints": 1018,
     "userDetailsId": 16,
     "teamPlayersOutputs": [
       {
@@ -1988,7 +1988,7 @@
         "playerListId": 27,
         "oldPlayerListId": 27,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 85,
+        "points": 122,
         "isActive": true,
         "playerValue": 130
       },
@@ -2048,7 +2048,7 @@
         "playerListId": 18,
         "oldPlayerListId": 18,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 253,
+        "points": 297,
         "isActive": true,
         "playerValue": 120
       },
@@ -2060,7 +2060,7 @@
         "playerListId": 1,
         "oldPlayerListId": 1,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 94,
+        "points": 114,
         "isActive": true,
         "playerValue": 150
       },
@@ -2117,8 +2117,8 @@
   {
     "managerName": "Varaprasad",
     "teamName": "MH-Avengers",
-    "teamRank": 17,
-    "teamPoints": 604,
+    "teamRank": 10,
+    "teamPoints": 1088,
     "userDetailsId": 17,
     "teamPlayersOutputs": [
       {
@@ -2165,7 +2165,7 @@
         "playerListId": 75,
         "oldPlayerListId": 75,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 46,
+        "points": 85,
         "isActive": true,
         "playerValue": 60
       },
@@ -2177,7 +2177,7 @@
         "playerListId": 1,
         "oldPlayerListId": 1,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 94,
+        "points": 114,
         "isActive": true,
         "playerValue": 150
       },
@@ -2189,7 +2189,7 @@
         "playerListId": 46,
         "oldPlayerListId": 46,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 93,
+        "points": 355,
         "isActive": true,
         "playerValue": 110
       },
@@ -2201,7 +2201,7 @@
         "playerListId": 35,
         "oldPlayerListId": 35,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": -19,
+        "points": 1,
         "isActive": true,
         "playerValue": 100
       },
@@ -2213,7 +2213,7 @@
         "playerListId": 8,
         "oldPlayerListId": 8,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 77,
+        "points": 130,
         "isActive": true,
         "playerValue": 120
       },
@@ -2249,7 +2249,7 @@
         "playerListId": 25,
         "oldPlayerListId": 25,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 130,
+        "points": 220,
         "isActive": true,
         "playerValue": 100
       }
@@ -2258,8 +2258,8 @@
   {
     "managerName": "Srini J",
     "teamName": "Srini's XI",
-    "teamRank": 14,
-    "teamPoints": 748,
+    "teamRank": 7,
+    "teamPoints": 1176,
     "userDetailsId": 18,
     "teamPlayersOutputs": [
       {
@@ -2270,7 +2270,7 @@
         "playerListId": 42,
         "oldPlayerListId": 42,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 9,
+        "points": 62,
         "isActive": true,
         "playerValue": 90
       },
@@ -2282,7 +2282,7 @@
         "playerListId": 76,
         "oldPlayerListId": 76,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 64,
+        "points": 65,
         "isActive": true,
         "playerValue": 80
       },
@@ -2294,7 +2294,7 @@
         "playerListId": 72,
         "oldPlayerListId": 72,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": -16,
+        "points": 26,
         "isActive": true,
         "playerValue": 80
       },
@@ -2318,7 +2318,7 @@
         "playerListId": 45,
         "oldPlayerListId": 45,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 221,
+        "points": 308,
         "isActive": true,
         "playerValue": 130
       },
@@ -2330,7 +2330,7 @@
         "playerListId": 38,
         "oldPlayerListId": 38,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 8,
+        "points": 52,
         "isActive": true,
         "playerValue": 80
       },
@@ -2342,7 +2342,7 @@
         "playerListId": 5,
         "oldPlayerListId": 5,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 122,
+        "points": 153,
         "isActive": true,
         "playerValue": 150
       },
@@ -2354,7 +2354,7 @@
         "playerListId": 25,
         "oldPlayerListId": 25,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 130,
+        "points": 220,
         "isActive": true,
         "playerValue": 100
       },
@@ -2390,7 +2390,7 @@
         "playerListId": 13,
         "oldPlayerListId": 13,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 83,
+        "points": 163,
         "isActive": true,
         "playerValue": 110
       }
@@ -2399,8 +2399,8 @@
   {
     "managerName": "Kartik Pasurmati",
     "teamName": "KP-XI",
-    "teamRank": 15,
-    "teamPoints": 710,
+    "teamRank": 17,
+    "teamPoints": 932,
     "userDetailsId": 19,
     "teamPlayersOutputs": [
       {
@@ -2411,7 +2411,7 @@
         "playerListId": 33,
         "oldPlayerListId": 33,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": -9,
+        "points": 6,
         "isActive": true,
         "playerValue": 140
       },
@@ -2435,7 +2435,7 @@
         "playerListId": 64,
         "oldPlayerListId": 64,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": -16,
+        "points": -26,
         "isActive": true,
         "playerValue": 50
       },
@@ -2459,7 +2459,7 @@
         "playerListId": 5,
         "oldPlayerListId": 5,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 122,
+        "points": 153,
         "isActive": true,
         "playerValue": 150
       },
@@ -2471,7 +2471,7 @@
         "playerListId": 22,
         "oldPlayerListId": 22,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 173,
+        "points": 192,
         "isActive": true,
         "playerValue": 130
       },
@@ -2483,7 +2483,7 @@
         "playerListId": 73,
         "oldPlayerListId": 73,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 101,
+        "points": 103,
         "isActive": true,
         "playerValue": 80
       },
@@ -2507,7 +2507,7 @@
         "playerListId": 114,
         "oldPlayerListId": 114,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 141,
+        "points": 226,
         "isActive": true,
         "playerValue": 50
       },
@@ -2519,7 +2519,7 @@
         "playerListId": 30,
         "oldPlayerListId": 30,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 73,
+        "points": 153,
         "isActive": true,
         "playerValue": 110
       },
@@ -2540,8 +2540,8 @@
   {
     "managerName": "Satya Akela",
     "teamName": "Dhoni XI",
-    "teamRank": 18,
-    "teamPoints": 540,
+    "teamRank": 19,
+    "teamPoints": 673,
     "userDetailsId": 20,
     "teamPlayersOutputs": [
       {
@@ -2552,7 +2552,7 @@
         "playerListId": 115,
         "oldPlayerListId": 115,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 0,
+        "points": 1,
         "isActive": true,
         "playerValue": 50
       },
@@ -2564,7 +2564,7 @@
         "playerListId": 17,
         "oldPlayerListId": 17,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 53,
+        "points": 48,
         "isActive": true,
         "playerValue": 130
       },
@@ -2588,7 +2588,7 @@
         "playerListId": 76,
         "oldPlayerListId": 76,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 64,
+        "points": 65,
         "isActive": true,
         "playerValue": 80
       },
@@ -2600,7 +2600,7 @@
         "playerListId": 22,
         "oldPlayerListId": 22,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 173,
+        "points": 192,
         "isActive": true,
         "playerValue": 130
       },
@@ -2612,7 +2612,7 @@
         "playerListId": 9,
         "oldPlayerListId": 9,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 12,
+        "points": 32,
         "isActive": true,
         "playerValue": 110
       },
@@ -2624,7 +2624,7 @@
         "playerListId": 39,
         "oldPlayerListId": 39,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 13,
+        "points": 5,
         "isActive": true,
         "playerValue": 80
       },
@@ -2636,7 +2636,7 @@
         "playerListId": 70,
         "oldPlayerListId": 70,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": -3,
+        "points": 22,
         "isActive": true,
         "playerValue": 70
       },
@@ -2648,7 +2648,7 @@
         "playerListId": 14,
         "oldPlayerListId": 14,
         "effectiveDate": "0001-01-01T00:00:00",
-        "points": 30,
+        "points": 110,
         "isActive": true,
         "playerValue": 110
       },
