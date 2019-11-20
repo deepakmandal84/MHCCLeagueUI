@@ -15,11 +15,18 @@ import playerDataJson from "./players.json";
 import teamdJson from "./teamData.json";
 import Grid from "@material-ui/core/Grid";
 import Typography from "@material-ui/core/Typography";
+import AppBar from "@material-ui/core/AppBar";
+import Toolbar from "@material-ui/core/Toolbar";
+import Container from "@material-ui/core/Container";
 
 //import Avatar from "@material-ui/core/Avatar";
 //import MultipleSelect from "./playerChip";
 //import Box from "@material-ui/core/Box";
 //import TextField from "@material-ui/core/TextField";
+
+const styles = theme => ({
+  toolbar: theme.mixins.toolbar
+});
 
 const useStyles = makeStyles(theme => ({
   root: {
@@ -61,43 +68,50 @@ export default function TeamRank(props) {
 
   let counter = 1;
   return (
-    <div>
-      <Box display="flex" flexWrap="nowrap" justifyContent="center" p={0}>
-        <Grid>
-          <b style={{ margin: 20 }}> </b>
+    <React.Fragment>
+      <AppBar position="sticky">
+        <Toolbar variant="dense">
+          {/* <IconButton edge="start" color="inherit" aria-label="menu">
+              <MenuIcon />
+            </IconButton> */}
           <Typography variant="h4">Fantasy League Team Ranking</Typography>
-          <br />
-          <Box style={{ maxHeight: 400, overflow: "auto" }}>
-            <Table
-              className={classes.table}
-              size="small"
-              aria-label="a dense table"
-            >
-              <TableBody>
-                {teamRankData.length > 0 &&
-                  teamRankData.map(plyr => (
-                    <TableRow
-                      key={plyr.id + plyr.teamName}
-                      style={{ height: "30", padding: "0", nmargin: "0" }}
-                    >
-                      <TableCell align="left">
-                        <Link to={`/team/` + plyr.userDetailsId} href="#">
-                          {plyr.teamRank}
-                        </Link>
-                      </TableCell>
-                      <TableCell align="left">{plyr.teamName}</TableCell>
+        </Toolbar>
+      </AppBar>
+      <Container>
+        <Box display="flex" flexWrap="nowrap" justifyContent="center" p={0}>
+          <Grid>
+            <Box style={{ overflow: "auto" }}>
+              <Table
+                className={classes.table}
+                size="small"
+                aria-label="a dense table"
+              >
+                <TableBody>
+                  {teamRankData.length > 0 &&
+                    teamRankData.map(plyr => (
+                      <TableRow
+                        key={plyr.id + plyr.teamName}
+                        style={{ height: "30", padding: "0", nmargin: "0" }}
+                      >
+                        <TableCell align="left">
+                          <Link to={`/team/` + plyr.userDetailsId} href="#">
+                            {plyr.teamRank}
+                          </Link>
+                        </TableCell>
+                        <TableCell align="left">{plyr.teamName}</TableCell>
 
-                      <TableCell align="left">{plyr.managerName}</TableCell>
-                      <TableCell align="left">
-                        {plyr.teamPoints == null ? 0 : plyr.teamPoints}
-                      </TableCell>
-                    </TableRow>
-                  ))}
-              </TableBody>
-            </Table>
-          </Box>
-        </Grid>
-      </Box>
-    </div>
+                        <TableCell align="left">{plyr.managerName}</TableCell>
+                        <TableCell align="left">
+                          {plyr.teamPoints == null ? 0 : plyr.teamPoints}
+                        </TableCell>
+                      </TableRow>
+                    ))}
+                </TableBody>
+              </Table>
+            </Box>
+          </Grid>
+        </Box>
+      </Container>
+    </React.Fragment>
   );
 }

@@ -235,12 +235,12 @@ class mainNav extends Component {
   render() {
     return (
       <div>
-        <AppBar position="static">
-          <Toolbar>
+        <AppBar position="sticky">
+          <Toolbar variant="dense">
             {/* <IconButton edge="start" color="inherit" aria-label="menu">
               <MenuIcon />
             </IconButton> */}
-            <Typography variant="h4">Team Details</Typography>
+            <Typography variant="h5">Team Details</Typography>
             <Box display="flex" flexWrap="nowrap" justifyContent="flex-end">
               <Link
                 onClick={() => {
