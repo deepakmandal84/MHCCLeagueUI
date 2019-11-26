@@ -29,7 +29,8 @@ import TextField from "@material-ui/core/TextField";
 import { makeStyles } from "@material-ui/core/styles";
 import Button from "@material-ui/core/Button";
 import axios from "axios";
-import ManagersTeam from "./mangersTeam";
+//import ManagersTeam from "./mangersTeam";
+import ManagersTeam from "./mangersTeamReadonly";
 import mgrTeamData from "./mgrteamData.json";
 import { Link } from "react-router-dom";
 import AppBar from "@material-ui/core/AppBar";
@@ -86,7 +87,10 @@ class mainNav extends Component {
         this.props.match.params.teamId > 9
           ? temptwith400 + formatedteamptwith400
           : tD.teamPoints;
-      let tv = tD.teamPlayersOutputs.reduce(function(sum, item) {
+      let activePlayers = tD.teamPlayersOutputs.filter(p => {
+        return p.isActive === true;
+      });
+      let tv = activePlayers.reduce(function(sum, item) {
         return (sum = sum + item.playerValue);
       }, 0);
       let teamPlayerlist = [];
@@ -208,9 +212,13 @@ class mainNav extends Component {
     //   existPlayers.push(player);
     // }
 
-    var total = playerLst.reduce(function(sum, item) {
-      return (sum = sum + item.playerValue);
-    }, 0);
+    var total = playerLst
+      .filter(a => {
+        return a.isActive === true;
+      })
+      .reduce(function(sum, item) {
+        return (sum = sum + item.playerValue);
+      }, 0);
     var playerCount = playerLst.length;
     this.setState({
       playerList: playerLst,
@@ -222,6 +230,15 @@ class mainNav extends Component {
   handleClick() {
     axios({
       method: "post",
+      url: "https://localhost:44360/UserTeam/" + this.state.teamId,
+      data: this.state.playerList
+    }).then(function(response) {
+      console.log(response.data);
+    });
+  }
+  handleUpdateClick() {
+    axios({
+      method: "put",
       url: "https://localhost:44360/UserTeam/" + this.state.teamId,
       data: this.state.playerList
     }).then(function(response) {
@@ -404,7 +421,17 @@ class mainNav extends Component {
               <ManagersTeam
                 {...this.props}
                 calculateTeamTotal={this.calculateTeamTotal.bind(this)}
-                playerList={this.state.playerList}
+                playerList={this.state.playerList.filter(a => {
+                  return a.isActive === true;
+                })}
+              />
+              <Typography variant="h5">Substitued Players</Typography>
+              <ManagersTeam
+                {...this.props}
+                calculateTeamTotal={this.calculateTeamTotal.bind(this)}
+                playerList={this.state.playerList.filter(a => {
+                  return a.isActive === false;
+                })}
               />
             </Box>
             {/* <Box style={{ maxHeight: "90%", overflow: "auto" }}>
@@ -432,13 +459,18 @@ class mainNav extends Component {
           </Grid>
         </Box>
         {this.state.showTeamPlayers === false ? (
-          <Box>
+          <Box
+            display="flex"
+            flexWrap="nowrap"
+            justifyContent="space-around"
+            p={-2}
+          >
             <Button
               variant="contained"
               color="secondary"
-              onClick={this.handleClick.bind(this)}
+              onClick={this.handleUpdateClick.bind(this)}
             >
-              Create MyTeam
+              Update
             </Button>
           </Box>
         ) : null}

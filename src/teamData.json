@@ -1,145 +1,145 @@
 [
   {
-    "managerName": "\r\nPandiyarajan Subburaman",
-    "teamName": "Trophy Fighters",
-    "teamRank": 1,
-    "teamPoints": 1987,
-    "userDetailsId": 1,
-    "teamPlayersOutputs": null
-  },
-  {
     "managerName": "Rajesh Patel",
     "teamName": "Deadly11",
-    "teamRank": 2,
-    "teamPoints": 1957,
+    "teamRank": 1,
+    "teamPoints": 2247,
     "userDetailsId": 7,
     "teamPlayersOutputs": null
   },
   {
     "managerName": "Srikanth Mallu",
     "teamName": "GOT11",
-    "teamRank": 3,
-    "teamPoints": 1786,
+    "teamRank": 2,
+    "teamPoints": 2134,
     "userDetailsId": 8,
+    "teamPlayersOutputs": null
+  },
+  {
+    "managerName": "\r\nPandiyarajan Subburaman",
+    "teamName": "Trophy Fighters",
+    "teamRank": 3,
+    "teamPoints": 2123,
+    "userDetailsId": 1,
+    "teamPlayersOutputs": null
+  },
+  {
+    "managerName": "Krishnan Venkatraman",
+    "teamName": "Chennai Kings",
+    "teamRank": 4,
+    "teamPoints": 2069,
+    "userDetailsId": 6,
     "teamPlayersOutputs": null
   },
   {
     "managerName": "Abhishek Mogre",
     "teamName": "GOAT 11",
-    "teamRank": 4,
-    "teamPoints": 1774,
+    "teamRank": 5,
+    "teamPoints": 1924,
     "userDetailsId": 3,
+    "teamPlayersOutputs": null
+  },
+  {
+    "managerName": "Sharad Unni",
+    "teamName": "Sharad 11",
+    "teamRank": 6,
+    "teamPoints": 1907,
+    "userDetailsId": 10,
+    "teamPlayersOutputs": null
+  },
+  {
+    "managerName": "Kartik Pasurmati",
+    "teamName": "KP-XI",
+    "teamRank": 7,
+    "teamPoints": 1896,
+    "userDetailsId": 19,
     "teamPlayersOutputs": null
   },
   {
     "managerName": "Visu Somepalli",
     "teamName": "MH Buddies",
-    "teamRank": 5,
-    "teamPoints": 1760,
+    "teamRank": 8,
+    "teamPoints": 1895,
     "userDetailsId": 11,
     "teamPlayersOutputs": null
   },
   {
-    "managerName": "Jyoti Nayak",
-    "teamName": "Jyoti's Spartans",
-    "teamRank": 6,
-    "teamPoints": 1577,
-    "userDetailsId": 13,
-    "teamPlayersOutputs": null
-  },
-  {
-    "managerName": "Srini J",
-    "teamName": "Srini's XI",
-    "teamRank": 7,
-    "teamPoints": 1576,
-    "userDetailsId": 18,
-    "teamPlayersOutputs": null
-  },
-  {
-    "managerName": "Shriniwas Phalke",
-    "teamName": "shriniwas phalke team",
-    "teamRank": 8,
-    "teamPoints": 1566,
-    "userDetailsId": 4,
-    "teamPlayersOutputs": null
-  },
-  {
-    "managerName": "Vivek Chutke",
-    "teamName": "Chutke 11",
+    "managerName": "Uday T",
+    "teamName": "Underdogs XI",
     "teamRank": 9,
-    "teamPoints": 1496,
-    "userDetailsId": 12,
+    "teamPoints": 1859,
+    "userDetailsId": 15,
     "teamPlayersOutputs": null
   },
   {
     "managerName": "Varaprasad",
     "teamName": "MH-Avengers",
     "teamRank": 10,
-    "teamPoints": 1488,
+    "teamPoints": 1840,
     "userDetailsId": 17,
     "teamPlayersOutputs": null
   },
   {
-    "managerName": "Uday T",
-    "teamName": "Underdogs XI",
+    "managerName": "Jyoti Nayak",
+    "teamName": "Jyoti's Spartans",
     "teamRank": 11,
-    "teamPoints": 1483,
-    "userDetailsId": 15,
+    "teamPoints": 1821,
+    "userDetailsId": 13,
     "teamPlayersOutputs": null
   },
   {
-    "managerName": "Santosh Mahajan",
-    "teamName": "MH Cowboys",
+    "managerName": "Shriniwas Phalke",
+    "teamName": "shriniwas phalke team",
     "teamRank": 12,
-    "teamPoints": 1433,
-    "userDetailsId": 9,
+    "teamPoints": 1808,
+    "userDetailsId": 4,
     "teamPlayersOutputs": null
   },
   {
-    "managerName": "Krishnan Venkatraman",
-    "teamName": "Chennai Kings",
+    "managerName": "Vivek Chutke",
+    "teamName": "Chutke 11",
     "teamRank": 13,
-    "teamPoints": 1423,
-    "userDetailsId": 6,
+    "teamPoints": 1684,
+    "userDetailsId": 12,
+    "teamPlayersOutputs": null
+  },
+  {
+    "managerName": "Srini J",
+    "teamName": "Srini's XI",
+    "teamRank": 14,
+    "teamPoints": 1673,
+    "userDetailsId": 18,
     "teamPlayersOutputs": null
   },
   {
     "managerName": "Robin",
     "teamName": "Robin XI",
-    "teamRank": 14,
-    "teamPoints": 1418,
+    "teamRank": 15,
+    "teamPoints": 1640,
     "userDetailsId": 16,
     "teamPlayersOutputs": null
   },
   {
-    "managerName": "Sharad Unni",
-    "teamName": "Sharad 11",
-    "teamRank": 15,
-    "teamPoints": 1411,
-    "userDetailsId": 10,
+    "managerName": "Santosh Mahajan",
+    "teamName": "MH Cowboys",
+    "teamRank": 16,
+    "teamPoints": 1602,
+    "userDetailsId": 9,
     "teamPlayersOutputs": null
   },
   {
     "managerName": "Santosh Bhargav",
     "teamName": "ChakDe MHCC XI",
-    "teamRank": 16,
-    "teamPoints": 1403,
-    "userDetailsId": 5,
-    "teamPlayersOutputs": null
-  },
-  {
-    "managerName": "Kartik Pasurmati",
-    "teamName": "KP-XI",
     "teamRank": 17,
-    "teamPoints": 1332,
-    "userDetailsId": 19,
+    "teamPoints": 1564,
+    "userDetailsId": 5,
     "teamPlayersOutputs": null
   },
   {
     "managerName": "Susheel Shinde",
     "teamName": "Susheel's XI",
     "teamRank": 18,
-    "teamPoints": 1246,
+    "teamPoints": 1538,
     "userDetailsId": 14,
     "teamPlayersOutputs": null
   },
@@ -147,7 +147,7 @@
     "managerName": "Satya Akela",
     "teamName": "Dhoni XI",
     "teamRank": 19,
-    "teamPoints": 1073,
+    "teamPoints": 1373,
     "userDetailsId": 20,
     "teamPlayersOutputs": null
   }
